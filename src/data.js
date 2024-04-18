@@ -1890,6 +1890,115 @@ export const categories = [
                     {"answerText": "Macau", "isCorrect": true},
                     {"answerText": "China", "isCorrect": false}
                 ]
+            },
+            {
+                "questionText": "🇦🇷 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Argentina", "isCorrect": true},
+                    {"answerText": "Mexico", "isCorrect": false},
+                    {"answerText": "Spain", "isCorrect": false},
+                    {"answerText": "Portugal", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇧🇷 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Brazil", "isCorrect": true},
+                    {"answerText": "Bolivia", "isCorrect": false},
+                    {"answerText": "Peru", "isCorrect": false},
+                    {"answerText": "Colombia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇨🇱 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Chile", "isCorrect": true},
+                    {"answerText": "Argentina", "isCorrect": false},
+                    {"answerText": "Mexico", "isCorrect": false},
+                    {"answerText": "Uruguay", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇲🇽 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Mexico", "isCorrect": true},
+                    {"answerText": "Guatemala", "isCorrect": false},
+                    {"answerText": "El Salvador", "isCorrect": false},
+                    {"answerText": "Nicaragua", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇵🇪 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Peru", "isCorrect": true},
+                    {"answerText": "Chile", "isCorrect": false},
+                    {"answerText": "Ecuador", "isCorrect": false},
+                    {"answerText": "Bolivia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇨🇴 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Colombia", "isCorrect": true},
+                    {"answerText": "Venezuela", "isCorrect": false},
+                    {"answerText": "Panama", "isCorrect": false},
+                    {"answerText": "Ecuador", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇻🇪 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Venezuela", "isCorrect": true},
+                    {"answerText": "Colombia", "isCorrect": false},
+                    {"answerText": "Bolivia", "isCorrect": false},
+                    {"answerText": "Peru", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇪🇨 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Ecuador", "isCorrect": true},
+                    {"answerText": "Colombia", "isCorrect": false},
+                    {"answerText": "Peru", "isCorrect": false},
+                    {"answerText": "Bolivia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇧🇴 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Bolivia", "isCorrect": true},
+                    {"answerText": "Peru", "isCorrect": false},
+                    {"answerText": "Ecuador", "isCorrect": false},
+                    {"answerText": "Chile", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇺🇾 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Uruguay", "isCorrect": true},
+                    {"answerText": "Paraguay", "isCorrect": false},
+                    {"answerText": "Brazil", "isCorrect": false},
+                    {"answerText": "Argentina", "isCorrect": false}
+                ]
+            },
+            // Additional questions for other Latin American countries like Paraguay, Guatemala, etc.
+            {
+                "questionText": "🇬🇹 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Guatemala", "isCorrect": true},
+                    {"answerText": "Honduras", "isCorrect": false},
+                    {"answerText": "El Salvador", "isCorrect": false},
+                    {"answerText": "Nicaragua", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "🇵🇾 - Which country does this flag belong to?",
+                "answerOptions": [
+                    {"answerText": "Paraguay", "isCorrect": true},
+                    {"answerText": "Uruguay", "isCorrect": false},
+                    {"answerText": "Bolivia", "isCorrect": false},
+                    {"answerText": "Argentina", "isCorrect": false}
+                ]
             }
         ],
     },
@@ -2662,490 +2771,490 @@ export const categories = [
                     { answerText: "κομπορρημμοσύνη", isCorrect: false }
                 ],
             },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true }
-            //     ],
-            // },
-            // {
-            //     questionText: "Ποια είναι η σωστή ορθογραφία",
-            //     answerOptions: [
-            //
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: true },
-            //         { answerText: "", isCorrect: false },
-            //         { answerText: "", isCorrect: false }
-            //     ],
-            // }
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "ετοιμηγορία", isCorrect: false },
+                    { answerText: "ετυμυγορία", isCorrect: false },
+                    { answerText: "ετυμηγορία", isCorrect: true },
+                    { answerText: "ετιμυγορία", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αβυσαλαίος", isCorrect: false },
+                    { answerText: "αβυσσαλέος", isCorrect: true },
+                    { answerText: "αβυσαλλαίος", isCorrect: false },
+                    { answerText: "αβυσσαλέος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "άμιλα", isCorrect: false },
+                    { answerText: "άμυλλα", isCorrect: false },
+                    { answerText: "άμυλα", isCorrect: false },
+                    { answerText: "άμιλλα", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "κύβδηλος", isCorrect: false },
+                    { answerText: "κίβδυλλος", isCorrect: false },
+                    { answerText: "κύβδηλλος", isCorrect: false },
+                    { answerText: "κίβδηλος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "κηνυγός", isCorrect: false },
+                    { answerText: "κυνηγός", isCorrect: true },
+                    { answerText: "κυνιγός", isCorrect: false },
+                    { answerText: "κινιγός", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "κάλυμμα", isCorrect: true },
+                    { answerText: "κάλλυμα", isCorrect: false },
+                    { answerText: "κάλυμα", isCorrect: false },
+                    { answerText: "κάλλυμμα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "κατάλυμμα", isCorrect: false },
+                    { answerText: "κατάλλυμα", isCorrect: false },
+                    { answerText: "κατάλυμα", isCorrect: true },
+                    { answerText: "κατάλλυμμα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "δωσίλογος", isCorrect: true },
+                    { answerText: "δοσίλογος", isCorrect: false },
+                    { answerText: "δοσσίλογος", isCorrect: false },
+                    { answerText: "δοσύλλογος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "διεισδυτηκότητα", isCorrect: false },
+                    { answerText: "διεισδητικότητα", isCorrect: false },
+                    { answerText: "διεισδυτικότητα", isCorrect: true },
+                    { answerText: "διεισδυτικότητα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "συνομοσία", isCorrect: false },
+                    { answerText: "συνωμοσία", isCorrect: true },
+                    { answerText: "συνομωσία", isCorrect: false },
+                    { answerText: "συνωμωσία", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "απαλλωτρίωση", isCorrect: false },
+                    { answerText: "απαλοτρίωση", isCorrect: false },
+                    { answerText: "απαλωτρίωση", isCorrect: false },
+                    { answerText: "απαλλοτρίωση", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "περεταίρω", isCorrect: false },
+                    { answerText: "παιρετέρω", isCorrect: false },
+                    { answerText: "περετέρω", isCorrect: false },
+                    { answerText: "περαιτέρω", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "συνονθύλλευμα", isCorrect: false },
+                    { answerText: "συνονθύλευμα", isCorrect: true },
+                    { answerText: "συνοθύλευμα", isCorrect: false },
+                    { answerText: "συνοθύλλευμα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "εδώλιο", isCorrect: true },
+                    { answerText: "αιδώλιο", isCorrect: false },
+                    { answerText: "αιδώλειο", isCorrect: false },
+                    { answerText: "εδώλειο", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "διυλιστύριο", isCorrect: false },
+                    { answerText: "διυλλιστήριο", isCorrect: false },
+                    { answerText: "διυλιστήριο", isCorrect: true },
+                    { answerText: "διυλλιστύριο", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "παλίρροια", isCorrect: true },
+                    { answerText: "παλίροια", isCorrect: false },
+                    { answerText: "παλίρρια", isCorrect: false },
+                    { answerText: "παλλίροια", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "παρατετταμένα", isCorrect: false },
+                    { answerText: "παραττεταμένα", isCorrect: false },
+                    { answerText: "παρατεταμένα", isCorrect: true },
+                    { answerText: "παρατεταμμένα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αληγορία", isCorrect: false },
+                    { answerText: "αλληγορία", isCorrect: true },
+                    { answerText: "αλληγορρία", isCorrect: false },
+                    { answerText: "αληγορρία", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "σκολεικοειδίτιδα", isCorrect: false },
+                    { answerText: "σκωλεικοειδίτιδα", isCorrect: false },
+                    { answerText: "σκοληκοειδίτιδα", isCorrect: false },
+                    { answerText: "σκωληκοειδίτιδα", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "παράληλλος", isCorrect: false },
+                    { answerText: "παράληλος", isCorrect: false },
+                    { answerText: "παράλληλλος", isCorrect: false },
+                    { answerText: "παράλληλος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "αγαλίαση", isCorrect: false },
+                    { answerText: "αγαλλίαση", isCorrect: true },
+                    { answerText: "αγαλίασση", isCorrect: false },
+                    { answerText: "αγαλλίασση", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αλλοπρόσαλλος", isCorrect: true },
+                    { answerText: "αλοπρόσαλλος", isCorrect: false },
+                    { answerText: "αλλοπρόσαλος", isCorrect: false },
+                    { answerText: "αλοπρόσαλος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αναζωπύρωσση", isCorrect: false },
+                    { answerText: "αναζοπύρωση", isCorrect: false },
+                    { answerText: "αναζωπύρωση", isCorrect: true },
+                    { answerText: "αναζωπύρρωση", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "εγκαταλελειμμένος", isCorrect: true },
+                    { answerText: "εγκαταλλελειμμένος", isCorrect: false },
+                    { answerText: "εγκαταλλελειμένος", isCorrect: false },
+                    { answerText: "εγκαταλελλειμένος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "προσσάναμμα", isCorrect: false },
+                    { answerText: "προσάναμα", isCorrect: false },
+                    { answerText: "προσάναμμα", isCorrect: true },
+                    { answerText: "προσσάναμα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αναριχώμαι", isCorrect: false },
+                    { answerText: "αναρριχώμαι", isCorrect: true },
+                    { answerText: "ανναρριχώμαι", isCorrect: false },
+                    { answerText: "αναρριχόμαι", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "ανταλάσω", isCorrect: false },
+                    { answerText: "ανταλάσσω", isCorrect: false },
+                    { answerText: "ανταλλάσω", isCorrect: false },
+                    { answerText: "ανταλλάσσω", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "εσκαμένα", isCorrect: false },
+                    { answerText: "εσκκαμμένα", isCorrect: false },
+                    { answerText: "εσκαμμαίνα", isCorrect: false },
+                    { answerText: "εσκαμμένα", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "απονενοημμένο", isCorrect: false },
+                    { answerText: "απονενοημένο", isCorrect: true },
+                    { answerText: "απονεννοημένο", isCorrect: false },
+                    { answerText: "αποννενοημένο", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "Καλλιμάρμαρο", isCorrect: true },
+                    { answerText: "Καλιμάρμαρο", isCorrect: false },
+                    { answerText: "Καλλιμάρμαρρο", isCorrect: false },
+                    { answerText: "Κακό μάρμαρο", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "καταρρακκώνω", isCorrect: false },
+                    { answerText: "καταρακώνω", isCorrect: false },
+                    { answerText: "καταρρακώνω", isCorrect: true },
+                    { answerText: "καταρακκώνω", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "κεκλιμένος", isCorrect: true },
+                    { answerText: "κεκλιμμένος", isCorrect: false },
+                    { answerText: "κεκκλιμένος", isCorrect: false },
+                    { answerText: "κεκκλιμμένος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: true },
+                    { answerText: "", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "κλειροτίδα", isCorrect: false },
+                    { answerText: "κληρωτίδα", isCorrect: true },
+                    { answerText: "κληρωττίδα", isCorrect: false },
+                    { answerText: "κλειρωττίδα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "συγγεχυμμένος", isCorrect: false },
+                    { answerText: "συγκεχυμμένος", isCorrect: false },
+                    { answerText: "συγγεχυμένος", isCorrect: false },
+                    { answerText: "συγκεχυμένος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "ιδιώρυθμος", isCorrect: false },
+                    { answerText: "ιδιώρρυθμος", isCorrect: false },
+                    { answerText: "ιδιόρυθμος", isCorrect: false },
+                    { answerText: "ιδιόρρυθμος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "τετριμένος", isCorrect: false },
+                    { answerText: "τετριμμένος", isCorrect: true },
+                    { answerText: "τεττριμμένος", isCorrect: false },
+                    { answerText: "τεττριμένος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "τρεισήμισι", isCorrect: true },
+                    { answerText: "τρισήμισι", isCorrect: false },
+                    { answerText: "τρισίμησι", isCorrect: false },
+                    { answerText: "τρεισίμησι", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: true },
+                    { answerText: "", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "διώροφο", isCorrect: true },
+                    { answerText: "διόροφο", isCorrect: false },
+                    { answerText: "διώρροφο", isCorrect: false },
+                    { answerText: "διόρροφο", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: true },
+                    { answerText: "", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "υπόλειμα", isCorrect: false },
+                    { answerText: "υπόλειμμα", isCorrect: true },
+                    { answerText: "υπόλλειμα", isCorrect: false },
+                    { answerText: "υπόλλειμμα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "ψύθυρος", isCorrect: false },
+                    { answerText: "ψύθιρος", isCorrect: false },
+                    { answerText: "ψίθηρος", isCorrect: false },
+                    { answerText: "ψίθυρος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "ανναμένος", isCorrect: false },
+                    { answerText: "ανναμμένος", isCorrect: false },
+                    { answerText: "αναμένος", isCorrect: false },
+                    { answerText: "αναμμένος", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: true },
+                    { answerText: "", isCorrect: false },
+                    { answerText: "", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "προκατειλημμένος", isCorrect: true },
+                    { answerText: "προκατειλημένος", isCorrect: false },
+                    { answerText: "προκατειλλημμένος", isCorrect: false },
+                    { answerText: "προκατειλλημένος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "προκήρηξη", isCorrect: false },
+                    { answerText: "προκύρηξη", isCorrect: false },
+                    { answerText: "προκήρυξη", isCorrect: true },
+                    { answerText: "προκύρυξη", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "επανειλημμένα", isCorrect: true },
+                    { answerText: "επανειλημένα", isCorrect: false },
+                    { answerText: "επανειλλημμένα", isCorrect: false },
+                    { answerText: "επανειλλημένα", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αληλλεγγύη", isCorrect: false },
+                    { answerText: "αλληλλεγγύη", isCorrect: false },
+                    { answerText: "αλληλεγγύη", isCorrect: true },
+                    { answerText: "αλληλλεγγύη", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "αλεπάλληλλος", isCorrect: false },
+                    { answerText: "αλλεπάλληλος", isCorrect: true },
+                    { answerText: "αλλεπάληλος", isCorrect: false },
+                    { answerText: "αλλεπάληλλος", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "έλειμα", isCorrect: false },
+                    { answerText: "έλλειμα", isCorrect: false },
+                    { answerText: "έλειμμα", isCorrect: false },
+                    { answerText: "έλλειμμα", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+                    { answerText: "εμηνόροια", isCorrect: false },
+                    { answerText: "εμμηνόροια", isCorrect: false },
+                    { answerText: "εμηνόρροια", isCorrect: false },
+                    { answerText: "εμμηνόρροια", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "Ποια είναι η σωστή ορθογραφία",
+                answerOptions: [
+
+                    { answerText: "επανειλημένος", isCorrect: false },
+                    { answerText: "επανειλημμένος", isCorrect: true },
+                    { answerText: "επανειλλημμένος", isCorrect: false },
+                    { answerText: "επανειλλημένος", isCorrect: false }
+                ],
+            }
 
         ],
     },
@@ -3314,6 +3423,456 @@ export const categories = [
                 "answerOptions": [
                     {"answerText": "Mexico", "isCorrect": true},
                     {"answerText": "Italy", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "United States", "isCorrect": false},
+                    {"answerText": "Australia", "isCorrect": false},
+                    {"answerText": "China", "isCorrect": false},
+                    {"answerText": "Japan", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Turkey", "isCorrect": false},
+                    {"answerText": "Panama", "isCorrect": false},
+                    {"answerText": "Israel", "isCorrect": false},
+                    {"answerText": "Norway", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Vietnam", "isCorrect": false},
+                    {"answerText": "North Korea", "isCorrect": false},
+                    {"answerText": "Somalia", "isCorrect": false},
+                    {"answerText": "Sweden", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Brazil", "isCorrect": false},
+                    {"answerText": "New Zealand", "isCorrect": false},
+                    {"answerText": "Cuba", "isCorrect": false},
+                    {"answerText": "Canada", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Pakistan", "isCorrect": false},
+                    {"answerText": "Singapore", "isCorrect": false},
+                    {"answerText": "Morocco", "isCorrect": false},
+                    {"answerText": "France", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Chile", "isCorrect": false},
+                    {"answerText": "Philippines", "isCorrect": false},
+                    {"answerText": "Jordan", "isCorrect": false},
+                    {"answerText": "Ireland", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Cameroon", "isCorrect": false},
+                    {"answerText": "Ethiopia", "isCorrect": false},
+                    {"answerText": "Myanmar", "isCorrect": false},
+                    {"answerText": "Italy", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Syria", "isCorrect": false},
+                    {"answerText": "Somalia", "isCorrect": false},
+                    {"answerText": "Venezuela", "isCorrect": false},
+                    {"answerText": "Denmark", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Malaysia", "isCorrect": false},
+                    {"answerText": "Ghana", "isCorrect": false},
+                    {"answerText": "Israel", "isCorrect": false},
+                    {"answerText": "Austria", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have a star in its flag?",
+                "answerOptions": [
+                    {"answerText": "Nepal", "isCorrect": false},
+                    {"answerText": "North Korea", "isCorrect": false},
+                    {"answerText": "Turkey", "isCorrect": false},
+                    {"answerText": "Greece", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Germany", "isCorrect": true},
+                    {"answerText": "France", "isCorrect": false},
+                    {"answerText": "United States", "isCorrect": false},
+                    {"answerText": "Japan", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Libya (1977-2011 flag)", "isCorrect": true},
+                    {"answerText": "India", "isCorrect": false},
+                    {"answerText": "Italy", "isCorrect": false},
+                    {"answerText": "Brazil", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Jamaica", "isCorrect": true},
+                    {"answerText": "South Korea", "isCorrect": false},
+                    {"answerText": "Canada", "isCorrect": false},
+                    {"answerText": "Russia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Mauritania", "isCorrect": true},
+                    {"answerText": "Panama", "isCorrect": false},
+                    {"answerText": "United Kingdom", "isCorrect": false},
+                    {"answerText": "Australia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Sri Lanka", "isCorrect": false},
+                    {"answerText": "Qatar", "isCorrect": true},
+                    {"answerText": "Philippines", "isCorrect": false},
+                    {"answerText": "Thailand", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Bangladesh", "isCorrect": false},
+                    {"answerText": "India", "isCorrect": false},
+                    {"answerText": "Bhutan", "isCorrect": true},
+                    {"answerText": "Nepal", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Kenya", "isCorrect": false},
+                    {"answerText": "Zambia", "isCorrect": true},
+                    {"answerText": "Uganda", "isCorrect": false},
+                    {"answerText": "Tanzania", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Morocco", "isCorrect": false},
+                    {"answerText": "Algeria", "isCorrect": false},
+                    {"answerText": "Libya", "isCorrect": false},
+                    {"answerText": "Pakistan", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Saudi Arabia", "isCorrect": false},
+                    {"answerText": "Iran", "isCorrect": false},
+                    {"answerText": "Iraq", "isCorrect": true},
+                    {"answerText": "Egypt", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country doesn't have white in its flag?",
+                "answerOptions": [
+                    {"answerText": "Brazil", "isCorrect": false},
+                    {"answerText": "Argentina", "isCorrect": false},
+                    {"answerText": "Chile", "isCorrect": false},
+                    {"answerText": "Colombia", "isCorrect": true}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Latvia", "isCorrect": true},
+                    {"answerText": "Estonia", "isCorrect": false},
+                    {"answerText": "Lithuania", "isCorrect": false},
+                    {"answerText": "Sweden", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Austria", "isCorrect": true},
+                    {"answerText": "Hungary", "isCorrect": false},
+                    {"answerText": "Germany", "isCorrect": false},
+                    {"answerText": "Poland", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "United States", "isCorrect": true},
+                    {"answerText": "Canada", "isCorrect": false},
+                    {"answerText": "Mexico", "isCorrect": false},
+                    {"answerText": "France", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Belarus", "isCorrect": true},
+                    {"answerText": "Russia", "isCorrect": false},
+                    {"answerText": "Ukraine", "isCorrect": false},
+                    {"answerText": "Poland", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Trinidad and Tobago", "isCorrect": true},
+                    {"answerText": "Jamaica", "isCorrect": false},
+                    {"answerText": "Barbados", "isCorrect": false},
+                    {"answerText": "Bahamas", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "North Korea", "isCorrect": true},
+                    {"answerText": "South Korea", "isCorrect": false},
+                    {"answerText": "Japan", "isCorrect": false},
+                    {"answerText": "China", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Iran", "isCorrect": true},
+                    {"answerText": "Iraq", "isCorrect": false},
+                    {"answerText": "Afghanistan", "isCorrect": false},
+                    {"answerText": "Syria", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Peru", "isCorrect": true},
+                    {"answerText": "Bolivia", "isCorrect": false},
+                    {"answerText": "Chile", "isCorrect": false},
+                    {"answerText": "Colombia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Bahrain", "isCorrect": true},
+                    {"answerText": "Qatar", "isCorrect": false},
+                    {"answerText": "United Arab Emirates", "isCorrect": false},
+                    {"answerText": "Oman", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have a red stripe in its flag?",
+                "answerOptions": [
+                    {"answerText": "Denmark", "isCorrect": true},
+                    {"answerText": "Sweden", "isCorrect": false},
+                    {"answerText": "Norway", "isCorrect": false},
+                    {"answerText": "Finland", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Germany", "isCorrect": true},
+                    {"answerText": "Belgium", "isCorrect": false},
+                    {"answerText": "Italy", "isCorrect": false},
+                    {"answerText": "France", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Netherlands", "isCorrect": true},
+                    {"answerText": "Russia", "isCorrect": false},
+                    {"answerText": "Serbia", "isCorrect": false},
+                    {"answerText": "Croatia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Estonia", "isCorrect": true},
+                    {"answerText": "Latvia", "isCorrect": false},
+                    {"answerText": "Lithuania", "isCorrect": false},
+                    {"answerText": "Finland", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Hungary", "isCorrect": true},
+                    {"answerText": "Austria", "isCorrect": false},
+                    {"answerText": "Switzerland", "isCorrect": false},
+                    {"answerText": "Germany", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Bulgaria", "isCorrect": true},
+                    {"answerText": "Romania", "isCorrect": false},
+                    {"answerText": "Moldova", "isCorrect": false},
+                    {"answerText": "Ukraine", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Gabon", "isCorrect": true},
+                    {"answerText": "Kenya", "isCorrect": false},
+                    {"answerText": "Senegal", "isCorrect": false},
+                    {"answerText": "Nigeria", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Argentina", "isCorrect": true},
+                    {"answerText": "Brazil", "isCorrect": false},
+                    {"answerText": "Chile", "isCorrect": false},
+                    {"answerText": "Peru", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Colombia", "isCorrect": true},
+                    {"answerText": "Ecuador", "isCorrect": false},
+                    {"answerText": "Venezuela", "isCorrect": false},
+                    {"answerText": "Panama", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Russia", "isCorrect": true},
+                    {"answerText": "Slovakia", "isCorrect": false},
+                    {"answerText": "Slovenia", "isCorrect": false},
+                    {"answerText": "Czech Republic", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country does have only horizontal lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Botswana", "isCorrect": true},
+                    {"answerText": "South Africa", "isCorrect": false},
+                    {"answerText": "Zimbabwe", "isCorrect": false},
+                    {"answerText": "Namibia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "France", "isCorrect": true},
+                    {"answerText": "Germany", "isCorrect": false},
+                    {"answerText": "Italy", "isCorrect": false},
+                    {"answerText": "Belgium", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Italy", "isCorrect": true},
+                    {"answerText": "Ireland", "isCorrect": false},
+                    {"answerText": "Germany", "isCorrect": false},
+                    {"answerText": "Hungary", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Belgium", "isCorrect": true},
+                    {"answerText": "Germany", "isCorrect": false},
+                    {"answerText": "Austria", "isCorrect": false},
+                    {"answerText": "Netherlands", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Ireland", "isCorrect": true},
+                    {"answerText": "Italy", "isCorrect": false},
+                    {"answerText": "France", "isCorrect": false},
+                    {"answerText": "Netherlands", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Guatemala", "isCorrect": true},
+                    {"answerText": "El Salvador", "isCorrect": false},
+                    {"answerText": "Honduras", "isCorrect": false},
+                    {"answerText": "Nicaragua", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Romania", "isCorrect": true},
+                    {"answerText": "Russia", "isCorrect": false},
+                    {"answerText": "Serbia", "isCorrect": false},
+                    {"answerText": "Slovakia", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Mali", "isCorrect": true},
+                    {"answerText": "Senegal", "isCorrect": false},
+                    {"answerText": "Guinea", "isCorrect": false},
+                    {"answerText": "Ghana", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Ivory Coast", "isCorrect": true},
+                    {"answerText": "Liberia", "isCorrect": false},
+                    {"answerText": "Burkina Faso", "isCorrect": false},
+                    {"answerText": "Niger", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Niger", "isCorrect": true},
+                    {"answerText": "Chad", "isCorrect": false},
+                    {"answerText": "Sudan", "isCorrect": false},
+                    {"answerText": "Nigeria", "isCorrect": false}
+                ]
+            },
+            {
+                "questionText": "Which country only has vertical lines in its flag?",
+                "answerOptions": [
+                    {"answerText": "Chad", "isCorrect": true},
+                    {"answerText": "Cameroon", "isCorrect": false},
+                    {"answerText": "Central African Republic", "isCorrect": false},
+                    {"answerText": "Congo", "isCorrect": false}
                 ]
             }
         ],
@@ -3522,10 +4081,280 @@ export const categories = [
             {
                 "questionText": "How many NBA championships have the Milwaukee Bucks won?",
                 "answerOptions": [
-                    { "answerText": "2", "isCorrect": true },
                     { "answerText": "1", "isCorrect": false },
                     { "answerText": "3", "isCorrect": false },
+                    { "answerText": "2", "isCorrect": true },
                     { "answerText": "4", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Michael Jordan won?",
+                "answerOptions": [
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "7", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has LeBron James won?",
+                "answerOptions": [
+
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": true },
+                    { "answerText": "6", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Bill Russell won?",
+                "answerOptions": [
+                    { "answerText": "11", "isCorrect": true },
+                    { "answerText": "10", "isCorrect": false },
+                    { "answerText": "12", "isCorrect": false },
+                    { "answerText": "9", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Michael Jordan won?",
+                "answerOptions": [
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "7", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": true },
+                    { "answerText": "4", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has LeBron James won?",
+                "answerOptions": [
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": true },
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Bill Russell won?",
+                "answerOptions": [
+                    { "answerText": "10", "isCorrect": false },
+                    { "answerText": "11", "isCorrect": true },
+                    { "answerText": "12", "isCorrect": false },
+                    { "answerText": "9", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Kareem Abdul-Jabbar won?",
+                "answerOptions": [
+
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": true },
+                    { "answerText": "7", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Magic Johnson won?",
+                "answerOptions": [
+
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": true },
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Tim Duncan won?",
+                "answerOptions": [
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Kobe Bryant won?",
+                "answerOptions": [
+
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": true },
+                    { "answerText": "3", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Shaquille O'Neal won?",
+                "answerOptions": [
+
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": true },
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "2", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Stephen Curry won?",
+                "answerOptions": [
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Larry Bird won?",
+                "answerOptions": [
+
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": true },
+                    { "answerText": "1", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Dwyane Wade won?",
+                "answerOptions": [
+
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": true },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "1", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Dirk Nowitzki won?",
+                "answerOptions": [
+
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "1", "isCorrect": true },
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "0", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships has Kevin Durant won?",
+                "answerOptions": [
+
+                    { "answerText": "1", "isCorrect": false },
+                    { "answerText": "2", "isCorrect": true },
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was Michael Jordan's primary jersey number with the Chicago Bulls?",
+                "answerOptions": [
+                    { "answerText": "23", "isCorrect": true },
+                    { "answerText": "45", "isCorrect": false },
+                    { "answerText": "12", "isCorrect": false },
+                    { "answerText": "9", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did LeBron James wear with the Miami Heat?",
+                "answerOptions": [
+                    { "answerText": "6", "isCorrect": true },
+                    { "answerText": "23", "isCorrect": false },
+                    { "answerText": "32", "isCorrect": false },
+                    { "answerText": "0", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number was Bill Russell known for with the Boston Celtics?",
+                "answerOptions": [
+                    { "answerText": "6", "isCorrect": true },
+                    { "answerText": "33", "isCorrect": false },
+                    { "answerText": "11", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Kareem Abdul-Jabbar wear with the Los Angeles Lakers?",
+                "answerOptions": [
+                    { "answerText": "33", "isCorrect": true },
+                    { "answerText": "32", "isCorrect": false },
+                    { "answerText": "34", "isCorrect": false },
+                    { "answerText": "24", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Magic Johnson wear throughout his career with the Los Angeles Lakers?",
+                "answerOptions": [
+                    { "answerText": "32", "isCorrect": true },
+                    { "answerText": "33", "isCorrect": false },
+                    { "answerText": "23", "isCorrect": false },
+                    { "answerText": "31", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was Tim Duncan's jersey number with the San Antonio Spurs?",
+                "answerOptions": [
+                    { "answerText": "21", "isCorrect": true },
+                    { "answerText": "20", "isCorrect": false },
+                    { "answerText": "50", "isCorrect": false },
+                    { "answerText": "34", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Kobe Bryant wear during the latter part of his career?",
+                "answerOptions": [
+                    { "answerText": "24", "isCorrect": true },
+                    { "answerText": "8", "isCorrect": false },
+                    { "answerText": "23", "isCorrect": false },
+                    { "answerText": "33", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Shaquille O'Neal wear with the Los Angeles Lakers?",
+                "answerOptions": [
+                    { "answerText": "34", "isCorrect": true },
+                    { "answerText": "32", "isCorrect": false },
+                    { "answerText": "36", "isCorrect": false },
+                    { "answerText": "33", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number has Stephen Curry worn with the Golden State Warriors?",
+                "answerOptions": [
+                    { "answerText": "30", "isCorrect": true },
+                    { "answerText": "11", "isCorrect": false },
+                    { "answerText": "23", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Larry Bird wear with the Boston Celtics?",
+                "answerOptions": [
+                    { "answerText": "33", "isCorrect": true },
+                    { "answerText": "32", "isCorrect": false },
+                    { "answerText": "34", "isCorrect": false },
+                    { "answerText": "31", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Dwyane Wade primarily wear with the Miami Heat?",
+                "answerOptions": [
+                    { "answerText": "3", "isCorrect": true },
+                    { "answerText": "1", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "9", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was Dirk Nowitzki's jersey number with the Dallas Mavericks?",
+                "answerOptions": [
+                    { "answerText": "41", "isCorrect": true },
+                    { "answerText": "40", "isCorrect": false },
+                    { "answerText": "21", "isCorrect": false },
+                    { "answerText": "31", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What jersey number did Kevin Durant wear with the Golden State Warriors?",
+                "answerOptions": [
+                    { "answerText": "35", "isCorrect": true },
+                    { "answerText": "30", "isCorrect": false },
+                    { "answerText": "11", "isCorrect": false },
+                    { "answerText": "7", "isCorrect": false }
                 ]
             }
         ],
