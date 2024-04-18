@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Category from './components/category';
+import Quiz from './components/quiz';
+import { categories } from './data';
 
 function App() {
+  const [currentCategory, setCurrentCategory] = useState(null);
+
+  const handleCategorySelect = (category) => {
+    setCurrentCategory(category);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        {currentCategory ? (
+            <Quiz questions={currentCategory.questions} />
+        ) : (
+            <Category categories={categories} onSelect={handleCategorySelect} />
+        )}
+      </div>
   );
 }
 
