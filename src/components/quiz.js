@@ -53,7 +53,7 @@ function Quiz({ questions }) {
                         <div className="question-count">
                             <span>Question {currentQuestion + 1}</span>/{questions.length}
                         </div>
-                        <div className="question-text">{questions[currentQuestion].questionText}</div>
+                        <div className="question-text emoji">{questions[currentQuestion].questionText}</div>
                     </div>
                     <div className="answer-section">
                         {questions[currentQuestion].answerOptions.map((answerOption, index) => (

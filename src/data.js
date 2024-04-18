@@ -1275,4 +1275,433 @@ export const categories = [
         ]
         ,
     },
+    {
+        id: 3,
+        name: "Flags",
+        questions: [
+            {
+                questionText: "🇫🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "France", isCorrect: true },
+                    { answerText: "Italy", isCorrect: false },
+                    { answerText: "Belgium", isCorrect: false },
+                    { answerText: "Romania", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇧🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Argentina", isCorrect: false },
+                    { answerText: "Brazil", isCorrect: true },
+                    { answerText: "Chile", isCorrect: false },
+                    { answerText: "Mexico", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇺🇸 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "United States", isCorrect: true },
+                    { answerText: "Liberia", isCorrect: false },
+                    { answerText: "Malaysia", isCorrect: false },
+                    { answerText: "Netherlands", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇬🇧 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Australia", isCorrect: false },
+                    { answerText: "New Zealand", isCorrect: false },
+                    { answerText: "United Kingdom", isCorrect: true },
+                    { answerText: "Fiji", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇩🇪 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Belgium", isCorrect: false },
+                    { answerText: "Germany", isCorrect: true },
+                    { answerText: "Luxembourg", isCorrect: false },
+                    { answerText: "Denmark", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇯🇵 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "China", isCorrect: false },
+                    { answerText: "Japan", isCorrect: true },
+                    { answerText: "South Korea", isCorrect: false },
+                    { answerText: "Taiwan", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇮🇳 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "India", isCorrect: true },
+                    { answerText: "Ireland", isCorrect: false },
+                    { answerText: "Iran", isCorrect: false },
+                    { answerText: "Indonesia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇧🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Portugal", isCorrect: false },
+                    { answerText: "Brazil", isCorrect: true },
+                    { answerText: "Bolivia", isCorrect: false },
+                    { answerText: "Belarus", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇨🇦 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Canada", isCorrect: true },
+                    { answerText: "Croatia", isCorrect: false },
+                    { answerText: "Chile", isCorrect: false },
+                    { answerText: "Cameroon", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇫🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Finland", isCorrect: false },
+                    { answerText: "France", isCorrect: true },
+                    { answerText: "Fiji", isCorrect: false },
+                    { answerText: "Estonia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇮🇹 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Ireland", isCorrect: false },
+                    { answerText: "Italy", isCorrect: true },
+                    { answerText: "Iceland", isCorrect: false },
+                    { answerText: "Iran", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇪🇸 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Spain", isCorrect: true },
+                    { answerText: "Sweden", isCorrect: false },
+                    { answerText: "Switzerland", isCorrect: false },
+                    { answerText: "Slovakia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇨🇳 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Japan", isCorrect: false },
+                    { answerText: "China", isCorrect: true },
+                    { answerText: "Thailand", isCorrect: false },
+                    { answerText: "South Korea", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇰🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "North Korea", isCorrect: false },
+                    { answerText: "South Korea", isCorrect: true },
+                    { answerText: "Taiwan", isCorrect: false },
+                    { answerText: "China", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇹🇼 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Japan", isCorrect: false },
+                    { answerText: "Philippines", isCorrect: false },
+                    { answerText: "Taiwan", isCorrect: true },
+                    { answerText: "Thailand", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇮🇪 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Scotland", isCorrect: false },
+                    { answerText: "New Zealand", isCorrect: false },
+                    { answerText: "Ireland", isCorrect: true },
+                    { answerText: "Iceland", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇮🇩 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "India", isCorrect: false },
+                    { answerText: "Iran", isCorrect: false },
+                    { answerText: "Indonesia", isCorrect: true },
+                    { answerText: "Iceland", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇵🇹 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Spain", isCorrect: false },
+                    { answerText: "Brazil", isCorrect: false },
+                    { answerText: "Portugal", isCorrect: true },
+                    { answerText: "Italy", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇧🇴 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Brazil", isCorrect: false },
+                    { answerText: "Bolivia", isCorrect: true },
+                    { answerText: "Peru", isCorrect: false },
+                    { answerText: "Paraguay", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇧🇾 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Ukraine", isCorrect: false },
+                    { answerText: "Russia", isCorrect: false },
+                    { answerText: "Belarus", isCorrect: true },
+                    { answerText: "Lithuania", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇭🇷 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Slovenia", isCorrect: false },
+                    { answerText: "Hungary", isCorrect: false },
+                    { answerText: "Serbia", isCorrect: false },
+                    { answerText: "Croatia", isCorrect: true }
+                ],
+            },
+            {
+                questionText: "🇨🇱 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Argentina", isCorrect: false },
+                    { answerText: "Chile", isCorrect: true },
+                    { answerText: "Mexico", isCorrect: false },
+                    { answerText: "Peru", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇨🇲 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Cameroon", isCorrect: true },
+                    { answerText: "Chad", isCorrect: false },
+                    { answerText: "Gabon", isCorrect: false },
+                    { answerText: "Congo", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇫🇮 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Sweden", isCorrect: false },
+                    { answerText: "Norway", isCorrect: false },
+                    { answerText: "Finland", isCorrect: true },
+                    { answerText: "Denmark", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇫🇯 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Samoa", isCorrect: false },
+                    { answerText: "Tonga", isCorrect: false },
+                    { answerText: "Fiji", isCorrect: true },
+                    { answerText: "Vanuatu", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇪🇪 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Latvia", isCorrect: false },
+                    { answerText: "Lithuania", isCorrect: false },
+                    { answerText: "Estonia", isCorrect: true },
+                    { answerText: "Belarus", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇳🇬 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Niger", isCorrect: false },
+                    { answerText: "Nigeria", isCorrect: true },
+                    { answerText: "Cameroon", isCorrect: false },
+                    { answerText: "Benin", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇰🇪 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Uganda", isCorrect: false },
+                    { answerText: "Tanzania", isCorrect: false },
+                    { answerText: "Kenya", isCorrect: true },
+                    { answerText: "Somalia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇲🇦 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Algeria", isCorrect: false },
+                    { answerText: "Libya", isCorrect: false },
+                    { answerText: "Morocco", isCorrect: true },
+                    { answerText: "Tunisia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇨🇩 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Republic of the Congo", isCorrect: false },
+                    { answerText: "Democratic Republic of the Congo", isCorrect: true },
+                    { answerText: "Central African Republic", isCorrect: false },
+                    { answerText: "Cameroon", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇬🇭 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Ghana", isCorrect: true },
+                    { answerText: "Togo", isCorrect: false },
+                    { answerText: "Côte d'Ivoire", isCorrect: false },
+                    { answerText: "Burkina Faso", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇸🇳 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Mali", isCorrect: false },
+                    { answerText: "Senegal", isCorrect: true },
+                    { answerText: "Gambia", isCorrect: false },
+                    { answerText: "Guinea", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇹🇿 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Kenya", isCorrect: false },
+                    { answerText: "Uganda", isCorrect: false },
+                    { answerText: "Tanzania", isCorrect: true },
+                    { answerText: "Rwanda", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇪🇹 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Eritrea", isCorrect: false },
+                    { answerText: "Ethiopia", isCorrect: true },
+                    { answerText: "Somalia", isCorrect: false },
+                    { answerText: "Djibouti", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇲🇬 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Mauritius", isCorrect: false },
+                    { answerText: "Madagascar", isCorrect: true },
+                    { answerText: "Maldives", isCorrect: false },
+                    { answerText: "Comoros", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇺🇬 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Uganda", isCorrect: true },
+                    { answerText: "Burundi", isCorrect: false },
+                    { answerText: "Zambia", isCorrect: false },
+                    { answerText: "Zimbabwe", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇦🇴 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Angola", isCorrect: true },
+                    { answerText: "Mozambique", isCorrect: false },
+                    { answerText: "Namibia", isCorrect: false },
+                    { answerText: "Botswana", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇨🇮 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Ghana", isCorrect: false },
+                    { answerText: "Côte d'Ivoire", isCorrect: true },
+                    { answerText: "Liberia", isCorrect: false },
+                    { answerText: "Burkina Faso", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇸🇴 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Yemen", isCorrect: false },
+                    { answerText: "Somalia", isCorrect: true },
+                    { answerText: "Ethiopia", isCorrect: false },
+                    { answerText: "Djibouti", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇩🇿 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Morocco", isCorrect: false },
+                    { answerText: "Tunisia", isCorrect: false },
+                    { answerText: "Algeria", isCorrect: true },
+                    { answerText: "Libya", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇸🇸 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Sudan", isCorrect: false },
+                    { answerText: "South Sudan", isCorrect: true },
+                    { answerText: "Central African Republic", isCorrect: false },
+                    { answerText: "Uganda", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇿🇼 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Zambia", isCorrect: false },
+                    { answerText: "Botswana", isCorrect: false },
+                    { answerText: "Zimbabwe", isCorrect: true },
+                    { answerText: "Mozambique", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇱🇾 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Egypt", isCorrect: false },
+                    { answerText: "Tunisia", isCorrect: false },
+                    { answerText: "Libya", isCorrect: true },
+                    { answerText: "Algeria", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇳🇦 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Namibia", isCorrect: true },
+                    { answerText: "Botswana", isCorrect: false },
+                    { answerText: "South Africa", isCorrect: false },
+                    { answerText: "Zambia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇹🇳 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Libya", isCorrect: false },
+                    { answerText: "Algeria", isCorrect: false },
+                    { answerText: "Tunisia", isCorrect: true },
+                    { answerText: "Egypt", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇧🇼 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Namibia", isCorrect: false },
+                    { answerText: "Botswana", isCorrect: true },
+                    { answerText: "Zimbabwe", isCorrect: false },
+                    { answerText: "Zambia", isCorrect: false }
+                ],
+            },
+            {
+                questionText: "🇸🇱 - Which country does this flag belong to?",
+                answerOptions: [
+                    { answerText: "Sierra Leone", isCorrect: true },
+                    { answerText: "Liberia", isCorrect: false },
+                    { answerText: "Guinea", isCorrect: false },
+                    { answerText: "Côte d'Ivoire", isCorrect: false }
+                ],
+            }
+        ],
+    },
 ];

@@ -61,3 +61,10 @@
 .answer-card.incorrect {
     background-color: #F44336; /* Red for incorrect answers */
 }
+
+.emoji {
+    font-size: 48px; /* Sets the size of the emoji */
+    line-height: 1;  /* Adjusts line height to match the larger emoji size */
+    vertical-align: middle; /* Aligns emoji vertically with surrounding text */
+}
+
