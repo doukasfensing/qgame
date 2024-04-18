@@ -26,7 +26,7 @@ export const categories = [
     },
     {
         id: 2,
-        name: "Sports",
+        name: "Football",
         questions: [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2000?",
@@ -3317,5 +3317,217 @@ export const categories = [
                 ]
             }
         ],
-    }
+    },
+    {
+        id: 10,
+        name: "NBA",
+        questions: [
+            {
+                "questionText": "Which team won the NBA Championship in 2010?",
+                "answerOptions": [
+                    { "answerText": "Los Angeles Lakers", "isCorrect": true },
+                    { "answerText": "Miami Heat", "isCorrect": false },
+                    { "answerText": "San Antonio Spurs", "isCorrect": false },
+                    { "answerText": "Boston Celtics", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2013?",
+                "answerOptions": [
+                    { "answerText": "Dallas Mavericks", "isCorrect": false },
+                    { "answerText": "Miami Heat", "isCorrect": true },
+                    { "answerText": "Golden State Warriors", "isCorrect": false },
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2016?",
+                "answerOptions": [
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": true },
+                    { "answerText": "Golden State Warriors", "isCorrect": false },
+                    { "answerText": "Houston Rockets", "isCorrect": false },
+                    { "answerText": "Toronto Raptors", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2019?",
+                "answerOptions": [
+                    { "answerText": "Milwaukee Bucks", "isCorrect": false },
+                    { "answerText": "Toronto Raptors", "isCorrect": true },
+                    { "answerText": "Los Angeles Lakers", "isCorrect": false },
+                    { "answerText": "Boston Celtics", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2020?",
+                "answerOptions": [
+                    { "answerText": "Miami Heat", "isCorrect": false },
+                    { "answerText": "Golden State Warriors", "isCorrect": false },
+                    { "answerText": "Los Angeles Lakers", "isCorrect": true },
+                    { "answerText": "Philadelphia 76ers", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2023?",
+                "answerOptions": [
+
+                    { "answerText": "Phoenix Suns", "isCorrect": false },
+                    { "answerText": "Memphis Grizzlies", "isCorrect": false },
+                    { "answerText": "Denver Nuggets", "isCorrect": true },
+                    { "answerText": "Miami Heat", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2011?",
+                "answerOptions": [
+                    { "answerText": "Dallas Mavericks", "isCorrect": true },
+                    { "answerText": "Miami Heat", "isCorrect": false },
+                    { "answerText": "Los Angeles Lakers", "isCorrect": false },
+                    { "answerText": "San Antonio Spurs", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2012?",
+                "answerOptions": [
+                    { "answerText": "Chicago Bulls", "isCorrect": false },
+                    { "answerText": "Miami Heat", "isCorrect": true },
+                    { "answerText": "Oklahoma City Thunder", "isCorrect": false },
+                    { "answerText": "Boston Celtics", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2014?",
+                "answerOptions": [
+                    { "answerText": "Miami Heat", "isCorrect": false },
+                    { "answerText": "San Antonio Spurs", "isCorrect": true },
+                    { "answerText": "Golden State Warriors", "isCorrect": false },
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2015?",
+                "answerOptions": [
+
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": false },
+                    { "answerText": "Houston Rockets", "isCorrect": false },
+                    { "answerText": "Atlanta Hawks", "isCorrect": false },
+                    { "answerText": "Golden State Warriors", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2017?",
+                "answerOptions": [
+
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": false },
+                    { "answerText": "Boston Celtics", "isCorrect": false },
+                    { "answerText": "San Antonio Spurs", "isCorrect": false },
+                    { "answerText": "Golden State Warriors", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2018?",
+                "answerOptions": [
+                    { "answerText": "Golden State Warriors", "isCorrect": true },
+                    { "answerText": "Cleveland Cavaliers", "isCorrect": false },
+                    { "answerText": "Houston Rockets", "isCorrect": false },
+                    { "answerText": "Toronto Raptors", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2021?",
+                "answerOptions": [
+                    { "answerText": "Phoenix Suns", "isCorrect": false },
+                    { "answerText": "Milwaukee Bucks", "isCorrect": true },
+                    { "answerText": "Atlanta Hawks", "isCorrect": false },
+                    { "answerText": "Los Angeles Clippers", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which team won the NBA Championship in 2022?",
+                "answerOptions": [
+
+                    { "answerText": "Boston Celtics", "isCorrect": false },
+                    { "answerText": "Miami Heat", "isCorrect": false },
+                    { "answerText": "Golden State Warriors", "isCorrect": true },
+                    { "answerText": "Memphis Grizzlies", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Los Angeles Lakers won?",
+                "answerOptions": [
+                    { "answerText": "17", "isCorrect": true },
+                    { "answerText": "16", "isCorrect": false },
+                    { "answerText": "18", "isCorrect": false },
+                    { "answerText": "15", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Boston Celtics won?",
+                "answerOptions": [
+
+                    { "answerText": "16", "isCorrect": false },
+                    { "answerText": "17", "isCorrect": true },
+                    { "answerText": "18", "isCorrect": false },
+                    { "answerText": "15", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Golden State Warriors won?",
+                "answerOptions": [
+
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "5", "isCorrect": false },
+                    { "answerText": "7", "isCorrect": true },
+                    { "answerText": "8", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the San Antonio Spurs won?",
+                "answerOptions": [
+                    { "answerText": "5", "isCorrect": true },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "6", "isCorrect": false },
+                    { "answerText": "7", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Philadelphia 76ers won?",
+                "answerOptions": [
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": true },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "1", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Miami Heat won?",
+                "answerOptions": [
+
+                    { "answerText": "2", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false },
+                    { "answerText": "1", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the New York Knicks won?",
+                "answerOptions": [
+
+                    { "answerText": "1", "isCorrect": false },
+                    { "answerText": "2", "isCorrect": true },
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "How many NBA championships have the Milwaukee Bucks won?",
+                "answerOptions": [
+                    { "answerText": "2", "isCorrect": true },
+                    { "answerText": "1", "isCorrect": false },
+                    { "answerText": "3", "isCorrect": false },
+                    { "answerText": "4", "isCorrect": false }
+                ]
+            }
+        ],
+    },
 ];
