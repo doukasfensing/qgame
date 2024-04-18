@@ -3066,15 +3066,6 @@ export const categories = [
             {
                 questionText: "Ποια είναι η σωστή ορθογραφία",
                 answerOptions: [
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: true },
-                    { answerText: "", isCorrect: false }
-                ],
-            },
-            {
-                questionText: "Ποια είναι η σωστή ορθογραφία",
-                answerOptions: [
                     { answerText: "κλειροτίδα", isCorrect: false },
                     { answerText: "κληρωτίδα", isCorrect: true },
                     { answerText: "κληρωττίδα", isCorrect: false },
@@ -3121,28 +3112,10 @@ export const categories = [
             {
                 questionText: "Ποια είναι η σωστή ορθογραφία",
                 answerOptions: [
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: true },
-                    { answerText: "", isCorrect: false }
-                ],
-            },
-            {
-                questionText: "Ποια είναι η σωστή ορθογραφία",
-                answerOptions: [
                     { answerText: "διώροφο", isCorrect: true },
                     { answerText: "διόροφο", isCorrect: false },
                     { answerText: "διώρροφο", isCorrect: false },
                     { answerText: "διόρροφο", isCorrect: false }
-                ],
-            },
-            {
-                questionText: "Ποια είναι η σωστή ορθογραφία",
-                answerOptions: [
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: true },
-                    { answerText: "", isCorrect: false }
                 ],
             },
             {
@@ -3170,16 +3143,6 @@ export const categories = [
                     { answerText: "ανναμμένος", isCorrect: false },
                     { answerText: "αναμένος", isCorrect: false },
                     { answerText: "αναμμένος", isCorrect: true }
-                ],
-            },
-            {
-                questionText: "Ποια είναι η σωστή ορθογραφία",
-                answerOptions: [
-
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: true },
-                    { answerText: "", isCorrect: false },
-                    { answerText: "", isCorrect: false }
                 ],
             },
             {
