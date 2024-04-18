@@ -3163,8 +3163,8 @@ export const categories = [
             {
                 "questionText": "🇮🇪 - Which country does this flag belong to?",
                 "answerOptions": [
+                    {"answerText": "Ivory Coast (Côte d'Ivoire)", "isCorrect": false},
                     {"answerText": "Ireland", "isCorrect": true},
-                    {"answerText": "Ivory Coast (Côte d'Ivoire)", "isCorrect": false}
                 ]
             },
             {
@@ -3177,8 +3177,8 @@ export const categories = [
             {
                 "questionText": "🇷🇴 - Which country does this flag belong to?",
                 "answerOptions": [
-                    {"answerText": "Romania", "isCorrect": true},
-                    {"answerText": "Chad", "isCorrect": false}
+                    {"answerText": "Chad", "isCorrect": false},
+                    {"answerText": "Romania", "isCorrect": true}
                 ]
             },
             {
@@ -3191,15 +3191,17 @@ export const categories = [
             {
                 "questionText": "🇱🇺 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Netherlands", "isCorrect": false},
                     {"answerText": "Luxembourg", "isCorrect": true},
-                    {"answerText": "Netherlands", "isCorrect": false}
                 ]
             },
             {
                 "questionText": "🇵🇱 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Indonesia", "isCorrect": false},
                     {"answerText": "Poland", "isCorrect": true},
-                    {"answerText": "Indonesia", "isCorrect": false}
                 ]
             },
             {
@@ -3212,8 +3214,9 @@ export const categories = [
             {
                 "questionText": "🇸🇳 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Mali", "isCorrect": false},
                     {"answerText": "Senegal", "isCorrect": true},
-                    {"answerText": "Mali", "isCorrect": false}
                 ]
             },
             {
@@ -3226,8 +3229,9 @@ export const categories = [
             {
                 "questionText": "🇨🇱 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Texas (U.S. State)", "isCorrect": false},
                     {"answerText": "Chile", "isCorrect": true},
-                    {"answerText": "Texas (U.S. State)", "isCorrect": false}
                 ]
             },
             {
@@ -3240,8 +3244,9 @@ export const categories = [
             {
                 "questionText": "🇨🇴 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Ecuador", "isCorrect": false},
                     {"answerText": "Colombia", "isCorrect": true},
-                    {"answerText": "Ecuador", "isCorrect": false}
                 ]
             },
             {
@@ -3254,8 +3259,9 @@ export const categories = [
             {
                 "questionText": "🇭🇺 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Italy", "isCorrect": false},
                     {"answerText": "Hungary", "isCorrect": true},
-                    {"answerText": "Italy", "isCorrect": false}
                 ]
             },
             {
@@ -3268,36 +3274,39 @@ export const categories = [
             {
                 "questionText": "🇷🇺 - Which country does this flag belong to?",
                 "answerOptions": [
+
+                    {"answerText": "Serbia", "isCorrect": false},
                     {"answerText": "Russia", "isCorrect": true},
-                    {"answerText": "Serbia", "isCorrect": false}
                 ]
             },
             {
                 "questionText": "🇦🇷 - Which country does this flag belong to?",
                 "answerOptions": [
-                    {"answerText": "Argentina", "isCorrect": true},
-                    {"answerText": "El Salvador", "isCorrect": false}
+
+                    {"answerText": "El Salvador", "isCorrect": false},
+                    {"answerText": "Argentina", "isCorrect": true}
                 ]
             },
             {
                 "questionText": "🇨🇷 - Which country does this flag belong to?",
                 "answerOptions": [
-                    {"answerText": "Costa Rica", "isCorrect": true},
-                    {"answerText": "Thailand", "isCorrect": false}
+
+                    {"answerText": "Thailand", "isCorrect": false},
+                    {"answerText": "Costa Rica", "isCorrect": true}
                 ]
             },
             {
                 "questionText": "🇧🇬 - Which country does this flag belong to?",
                 "answerOptions": [
                     {"answerText": "Bulgaria", "isCorrect": true},
-                    {"answerText": "Hungary", "isCorrect": false}
+                    {"answerText": "Hungary", "isCorrect": false},
                 ]
             },
             {
                 "questionText": "🇳🇬 - Which country does this flag belong to?",
                 "answerOptions": [
-                    {"answerText": "Nigeria", "isCorrect": true},
-                    {"answerText": "Niger", "isCorrect": false}
+                    {"answerText": "Niger", "isCorrect": false},
+                    {"answerText": "Nigeria", "isCorrect": true}
                 ]
             },
             {
