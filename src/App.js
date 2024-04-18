@@ -25,6 +25,7 @@ function App() {
     setCurrentCategory(category);
   };
 
+
   return (
       <div className="App">
         {currentCategory ? (

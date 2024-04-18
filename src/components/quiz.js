@@ -8,6 +8,7 @@ function Quiz({ questions }) {
     const [selectedAnswer, setSelectedAnswer] = useState(null);
     const [isAnswerRevealed, setIsAnswerRevealed] = useState(false);
 
+
     const handleAnswerOptionClick = (isCorrect, index) => {
         setSelectedAnswer(index);
         setIsAnswerRevealed(true);
@@ -37,6 +38,8 @@ function Quiz({ questions }) {
         }
         return '';
     }
+
+
 
     return (
         <div className="quiz">

@@ -31,17 +31,17 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2000?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Ajax", "isCorrect": false },
                     { "answerText": "Tottenham Hotspur", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Paris Saint-Germain", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2001?",
                 answerOptions: [
-                    { "answerText": "Bayern Munich", "isCorrect": true },
                     { "answerText": "Barcelona", "isCorrect": false },
+                    { "answerText": "Bayern Munich", "isCorrect": true },
                     { "answerText": "Ajax", "isCorrect": false },
                     { "answerText": "Sevilla", "isCorrect": false }
                 ]
@@ -49,8 +49,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2002?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Tottenham Hotspur", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Arsenal", "isCorrect": false },
                     { "answerText": "Ajax", "isCorrect": false }
                 ]
@@ -58,26 +58,26 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2003?",
                 answerOptions: [
-                    { "answerText": "Milan", "isCorrect": true },
                     { "answerText": "Real Madrid", "isCorrect": false },
                     { "answerText": "Sevilla", "isCorrect": false },
-                    { "answerText": "Borussia Dortmund", "isCorrect": false }
+                    { "answerText": "Borussia Dortmund", "isCorrect": false },
+                    { "answerText": "Milan", "isCorrect": true }
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2004?",
                 answerOptions: [
-                    { "answerText": "Porto", "isCorrect": true },
                     { "answerText": "Liverpool", "isCorrect": false },
                     { "answerText": "Inter Milan", "isCorrect": false },
-                    { "answerText": "Arsenal", "isCorrect": false }
+                    { "answerText": "Arsenal", "isCorrect": false },
+                    { "answerText": "Porto", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2005?",
                 answerOptions: [
-                    { "answerText": "Liverpool", "isCorrect": true },
                     { "answerText": "AC Milan", "isCorrect": false },
+                    { "answerText": "Liverpool", "isCorrect": true },
                     { "answerText": "Chelsea", "isCorrect": false },
                     { "answerText": "Manchester United", "isCorrect": false }
                 ]
@@ -94,17 +94,17 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2007?",
                 answerOptions: [
-                    { "answerText": "Milan", "isCorrect": true },
                     { "answerText": "Liverpool", "isCorrect": false },
                     { "answerText": "Barcelona", "isCorrect": false },
+                    { "answerText": "Milan", "isCorrect": true },
                     { "answerText": "Chelsea", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2008?",
                 answerOptions: [
-                    { "answerText": "Manchester United", "isCorrect": true },
                     { "answerText": "Chelsea", "isCorrect": false },
+                    { "answerText": "Manchester United", "isCorrect": true },
                     { "answerText": "Liverpool", "isCorrect": false },
                     { "answerText": "Barcelona", "isCorrect": false }
                 ]
@@ -112,17 +112,17 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2009?",
                 answerOptions: [
-                    { "answerText": "Barcelona", "isCorrect": true },
                     { "answerText": "Manchester United", "isCorrect": false },
                     { "answerText": "Arsenal", "isCorrect": false },
-                    { "answerText": "Real Madrid", "isCorrect": false }
+                    { "answerText": "Real Madrid", "isCorrect": false },
+                    { "answerText": "Barcelona", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2010?",
                 answerOptions: [
-                    { "answerText": "Inter", "isCorrect": true },
                     { "answerText": "Bayern Munich", "isCorrect": false },
+                    { "answerText": "Inter", "isCorrect": true },
                     { "answerText": "Barcelona", "isCorrect": false },
                     { "answerText": "Chelsea", "isCorrect": false }
                 ]
@@ -130,19 +130,19 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2011?",
                 answerOptions: [
-                    { "answerText": "Barcelona", "isCorrect": true },
                     { "answerText": "Manchester United", "isCorrect": false },
                     { "answerText": "Real Madrid", "isCorrect": false },
-                    { "answerText": "Chelsea", "isCorrect": false }
+                    { "answerText": "Chelsea", "isCorrect": false },
+                    { "answerText": "Barcelona", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2012?",
                 answerOptions: [
-                    { "answerText": "Chelsea", "isCorrect": true },
                     { "answerText": "Bayern Munich", "isCorrect": false },
                     { "answerText": "Barcelona", "isCorrect": false },
-                    { "answerText": "Real Madrid", "isCorrect": false }
+                    { "answerText": "Real Madrid", "isCorrect": false },
+                    { "answerText": "Chelsea", "isCorrect": true },
                 ]
             },
             {
@@ -157,8 +157,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2014?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Atletico Madrid", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Barcelona", "isCorrect": false },
                     { "answerText": "Bayern Munich", "isCorrect": false }
                 ]
@@ -166,8 +166,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2015?",
                 answerOptions: [
-                    { "answerText": "Barcelona", "isCorrect": true },
                     { "answerText": "Juventus", "isCorrect": false },
+                    { "answerText": "Barcelona", "isCorrect": true },
                     { "answerText": "Real Madrid", "isCorrect": false },
                     { "answerText": "Bayern Munich", "isCorrect": false }
                 ]
@@ -175,18 +175,18 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2016?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Atletico Madrid", "isCorrect": false },
                     { "answerText": "Barcelona", "isCorrect": false },
-                    { "answerText": "Bayern Munich", "isCorrect": false }
+                    { "answerText": "Bayern Munich", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2017?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Juventus", "isCorrect": false },
                     { "answerText": "Atletico Madrid", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Bayern Munich", "isCorrect": false }
                 ]
             },
@@ -202,8 +202,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2019?",
                 answerOptions: [
-                    { "answerText": "Liverpool", "isCorrect": true },
                     { "answerText": "Tottenham Hotspur", "isCorrect": false },
+                    { "answerText": "Liverpool", "isCorrect": true },
                     { "answerText": "Manchester City", "isCorrect": false },
                     { "answerText": "Barcelona", "isCorrect": false }
                 ]
@@ -211,8 +211,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2020?",
                 answerOptions: [
-                    { "answerText": "Bayern Munich", "isCorrect": true },
                     { "answerText": "Paris Saint-Germain", "isCorrect": false },
+                    { "answerText": "Bayern Munich", "isCorrect": true },
                     { "answerText": "Liverpool", "isCorrect": false },
                     { "answerText": "Manchester City", "isCorrect": false }
                 ]
@@ -220,8 +220,8 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2021?",
                 answerOptions: [
-                    { "answerText": "Chelsea", "isCorrect": true },
                     { "answerText": "Manchester City", "isCorrect": false },
+                    { "answerText": "Chelsea", "isCorrect": true },
                     { "answerText": "Real Madrid", "isCorrect": false },
                     { "answerText": "Paris Saint-Germain", "isCorrect": false }
                 ]
@@ -229,19 +229,21 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2022?",
                 answerOptions: [
-                    { "answerText": "Real Madrid", "isCorrect": true },
+
                     { "answerText": "Liverpool", "isCorrect": false },
                     { "answerText": "Manchester City", "isCorrect": false },
+                    { "answerText": "Real Madrid", "isCorrect": true },
                     { "answerText": "Chelsea", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA Champions League in 2023?",
                 answerOptions: [
-                    { "answerText": "Manchester City", "isCorrect": true },
+
                     { "answerText": "Real Madrid", "isCorrect": false },
                     { "answerText": "Liverpool", "isCorrect": false },
-                    { "answerText": "Barcelona", "isCorrect": false }
+                    { "answerText": "Barcelona", "isCorrect": false },
+                    { "answerText": "Manchester City", "isCorrect": true }
                 ]
             },
             {
@@ -256,17 +258,19 @@ export const categories = [
             {
                 questionText: "Who was the winner of the FIFA World Cup in 2006?",
                 answerOptions: [
-                    { "answerText": "Italy", "isCorrect": true },
+
                     { "answerText": "Portugal", "isCorrect": false },
                     { "answerText": "Croatia", "isCorrect": false },
+                    { "answerText": "Italy", "isCorrect": true },
                     { "answerText": "Argentina", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who was the winner of the FIFA World Cup in 2010?",
                 answerOptions: [
-                    { "answerText": "Spain", "isCorrect": true },
+
                     { "answerText": "Argentina", "isCorrect": false },
+                    { "answerText": "Spain", "isCorrect": true },
                     { "answerText": "England", "isCorrect": false },
                     { "answerText": "Uruguay", "isCorrect": false }
                 ]
@@ -274,10 +278,11 @@ export const categories = [
             {
                 questionText: "Who was the winner of the FIFA World Cup in 2014?",
                 answerOptions: [
-                    { "answerText": "Germany", "isCorrect": true },
+
                     { "answerText": "Argentina", "isCorrect": false },
                     { "answerText": "Colombia", "isCorrect": false },
-                    { "answerText": "Uruguay", "isCorrect": false }
+                    { "answerText": "Uruguay", "isCorrect": false },
+                    { "answerText": "Germany", "isCorrect": true }
                 ]
             },
             {
@@ -310,8 +315,9 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA European Championship in 2008?",
                 answerOptions: [
-                    { "answerText": "Spain", "isCorrect": true },
+
                     { "answerText": "Brazil", "isCorrect": false },
+                    { "answerText": "Spain", "isCorrect": true },
                     { "answerText": "Uruguay", "isCorrect": false },
                     { "answerText": "Croatia", "isCorrect": false }
                 ]
@@ -328,17 +334,19 @@ export const categories = [
             {
                 questionText: "Who was the winner of the UEFA European Championship in 2016?",
                 answerOptions: [
-                    { "answerText": "Portugal", "isCorrect": true },
+
                     { "answerText": "Belgium", "isCorrect": false },
                     { "answerText": "Italy", "isCorrect": false },
+                    { "answerText": "Portugal", "isCorrect": true },
                     { "answerText": "Spain", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who was the winner of the UEFA European Championship in 2020?",
                 answerOptions: [
-                    { "answerText": "Italy", "isCorrect": true },
+
                     { "answerText": "Portugal", "isCorrect": false },
+                    { "answerText": "Italy", "isCorrect": true },
                     { "answerText": "Colombia", "isCorrect": false },
                     { "answerText": "Spain", "isCorrect": false }
                 ]
@@ -352,9 +360,10 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 1999 and which country did they represent?",
                 answerOptions: [
+                    { "answerText": "Olsen Brothers, Denmark", "isCorrect": false },
                     { "answerText": "Charlotte Nilsson, Sweden", "isCorrect": true },
                     { "answerText": "Dana International, Israel", "isCorrect": false },
-                    { "answerText": "Olsen Brothers, Denmark", "isCorrect": false },
+
                     { "answerText": "Sertab Erener, Turkey", "isCorrect": false }
                 ]
             },
@@ -406,17 +415,19 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2005 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Helena Paparizou, Greece", "isCorrect": true },
+
                     { "answerText": "Chiara, Malta", "isCorrect": false },
                     { "answerText": "Luminita Anghel & Sistem, Romania", "isCorrect": false },
+                    { "answerText": "Helena Paparizou, Greece", "isCorrect": true },
                     { "answerText": "Shiri Maimon, Israel", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who won the Eurovision Song Contest in 2006 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Lordi, Finland", "isCorrect": true },
+
                     { "answerText": "Dima Bilan, Russia", "isCorrect": false },
+                    { "answerText": "Lordi, Finland", "isCorrect": true },
                     { "answerText": "Carola, Sweden", "isCorrect": false },
                     { "answerText": "Anna Vissi, Greece", "isCorrect": false }
                 ]
@@ -425,8 +436,9 @@ export const categories = [
                 questionText: "Who won the Eurovision Song Contest in 2007 and which country did they represent?",
                 answerOptions: [
                     { "answerText": "Verka Serduchka, Ukraine", "isCorrect": false },
-                    { "answerText": "Marija Šerifović, Serbia", "isCorrect": true },
+
                     { "answerText": "Serebro, Russia", "isCorrect": false },
+                    { "answerText": "Marija Šerifović, Serbia", "isCorrect": true },
                     { "answerText": "Kenan Doğulu, Turkey", "isCorrect": false }
                 ]
             },
@@ -451,19 +463,21 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2010 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Lena, Germany", "isCorrect": true },
+
                     { "answerText": "maNga, Turkey", "isCorrect": false },
                     { "answerText": "Giorgos Alkaios & Friends, Greece", "isCorrect": false },
-                    { "answerText": "Safura, Azerbaijan", "isCorrect": false }
+                    { "answerText": "Safura, Azerbaijan", "isCorrect": false },
+                    { "answerText": "Lena, Germany", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who won the Eurovision Song Contest in 2011 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Ell & Nikki, Azerbaijan", "isCorrect": true },
+
                     { "answerText": "Raphael Gualazzi, Italy", "isCorrect": false },
                     { "answerText": "Eric Saade, Sweden", "isCorrect": false },
-                    { "answerText": "Jedward, Ireland", "isCorrect": false }
+                    { "answerText": "Jedward, Ireland", "isCorrect": false },
+                    { "answerText": "Ell & Nikki, Azerbaijan", "isCorrect": true }
                 ]
             },
             {
@@ -478,8 +492,9 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2013 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Emmelie de Forest, Denmark", "isCorrect": true },
+
                     { "answerText": "Farid Mammadov, Azerbaijan", "isCorrect": false },
+                    { "answerText": "Emmelie de Forest, Denmark", "isCorrect": true },
                     { "answerText": "Margaret Berger, Norway", "isCorrect": false },
                     { "answerText": "Anouk, Netherlands", "isCorrect": false }
                 ]
@@ -506,8 +521,8 @@ export const categories = [
                 questionText: "Who won the Eurovision Song Contest in 2016 and which country did they represent?",
                 answerOptions: [
                     { "answerText": "Dami Im, Australia", "isCorrect": false },
-                    { "answerText": "Sergey Lazarev, Russia", "isCorrect": false },
                     { "answerText": "Jamala, Ukraine", "isCorrect": true },
+                    { "answerText": "Sergey Lazarev, Russia", "isCorrect": false },
                     { "answerText": "Michał Szpak, Poland", "isCorrect": false }
                 ]
             },
@@ -532,9 +547,10 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2019 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Duncan Laurence, Netherlands", "isCorrect": true },
+
                     { "answerText": "Mahmood, Italy", "isCorrect": false },
                     { "answerText": "KEiiNO, Norway", "isCorrect": false },
+                    { "answerText": "Duncan Laurence, Netherlands", "isCorrect": true },
                     { "answerText": "John Lundvik, Sweden", "isCorrect": false }
                 ]
             },
@@ -550,8 +566,9 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2021 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Måneskin, Italy", "isCorrect": true },
+
                     { "answerText": "Barbara Pravi, France", "isCorrect": false },
+                    { "answerText": "Måneskin, Italy", "isCorrect": true },
                     { "answerText": "Gjon's Tears, Switzerland", "isCorrect": false },
                     { "answerText": "Go_A, Ukraine", "isCorrect": false }
                 ]
@@ -559,9 +576,10 @@ export const categories = [
             {
                 questionText: "Who won the Eurovision Song Contest in 2022 and which country did they represent?",
                 answerOptions: [
-                    { "answerText": "Kalush Orchestra, Ukraine", "isCorrect": true },
+
                     { "answerText": "Sam Ryder, United Kingdom", "isCorrect": false },
                     { "answerText": "Chanel, Spain", "isCorrect": false },
+                    { "answerText": "Kalush Orchestra, Ukraine", "isCorrect": true },
                     { "answerText": "S10, Netherlands", "isCorrect": false }
                 ]
             },
@@ -631,9 +649,10 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2005?",
                 answerOptions: [
-                    { "answerText": "My Number One", "isCorrect": true },
+
                     { "answerText": "Angel", "isCorrect": false },
                     { "answerText": "Let Me Try", "isCorrect": false },
+                    { "answerText": "My Number One", "isCorrect": true },
                     { "answerText": "Rimi Rimi Ley", "isCorrect": false }
                 ]
             },
@@ -649,26 +668,29 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2007?",
                 answerOptions: [
-                    { "answerText": "Molitva", "isCorrect": true },
+
                     { "answerText": "Dancing Lasha Tumbai", "isCorrect": false },
                     { "answerText": "Shake It Up Şekerim", "isCorrect": false },
-                    { "answerText": "Water", "isCorrect": false }
+                    { "answerText": "Water", "isCorrect": false },
+                    { "answerText": "Molitva", "isCorrect": true }
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2008?",
                 answerOptions: [
-                    { "answerText": "Believe", "isCorrect": true },
+
                     { "answerText": "Shady Lady", "isCorrect": false },
                     { "answerText": "Qélé, Qélé", "isCorrect": false },
+                    { "answerText": "Believe", "isCorrect": true },
                     { "answerText": "Secret Combination", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2009?",
                 answerOptions: [
-                    { "answerText": "Fairytale", "isCorrect": true },
+
                     { "answerText": "Is It True?", "isCorrect": false },
+                    { "answerText": "Fairytale", "isCorrect": true },
                     { "answerText": "Always", "isCorrect": false },
                     { "answerText": "Düm Tek Tek", "isCorrect": false }
                 ]
@@ -676,10 +698,11 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2010?",
                 answerOptions: [
-                    { "answerText": "Satellite", "isCorrect": true },
+
                     { "answerText": "We Could Be the Same", "isCorrect": false },
                     { "answerText": "OPA!", "isCorrect": false },
-                    { "answerText": "Drip Drop", "isCorrect": false }
+                    { "answerText": "Drip Drop", "isCorrect": false },
+                    { "answerText": "Satellite", "isCorrect": true },
                 ]
             },
             {
@@ -694,26 +717,28 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2012?",
                 answerOptions: [
-                    { "answerText": "Euphoria", "isCorrect": true },
+
                     { "answerText": "Party for Everybody", "isCorrect": false },
                     { "answerText": "Nije ljubav stvar", "isCorrect": false },
+                    { "answerText": "Euphoria", "isCorrect": true },
                     { "answerText": "When the Music Dies", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2013?",
                 answerOptions: [
-                    { "answerText": "Only Teardrops", "isCorrect": true },
+
                     { "answerText": "Hold Me", "isCorrect": false },
                     { "answerText": "I Feed You My Love", "isCorrect": false },
-                    { "answerText": "Birds", "isCorrect": false }
+                    { "answerText": "Birds", "isCorrect": false },
+                    { "answerText": "Only Teardrops", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2014?",
                 answerOptions: [
-                    { "answerText": "Rise Like a Phoenix", "isCorrect": true },
                     { "answerText": "Calm After the Storm", "isCorrect": false },
+                    { "answerText": "Rise Like a Phoenix", "isCorrect": true },
                     { "answerText": "Undo", "isCorrect": false },
                     { "answerText": "Not Alone", "isCorrect": false }
                 ]
@@ -721,17 +746,18 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2015?",
                 answerOptions: [
-                    { "answerText": "Heroes", "isCorrect": true },
                     { "answerText": "Grande amore", "isCorrect": false },
                     { "answerText": "A Million Voices", "isCorrect": false },
-                    { "answerText": "Rhythm Inside", "isCorrect": false }
+                    { "answerText": "Rhythm Inside", "isCorrect": false },
+                    { "answerText": "Heroes", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2016?",
                 answerOptions: [
-                    { "answerText": "1944", "isCorrect": true },
+
                     { "answerText": "Sound of Silence", "isCorrect": false },
+                    { "answerText": "1944", "isCorrect": true },
                     { "answerText": "You Are the Only One", "isCorrect": false },
                     { "answerText": "Color of Your Life", "isCorrect": false }
                 ]
@@ -739,18 +765,20 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2017?",
                 answerOptions: [
-                    { "answerText": "Amar pelos dois", "isCorrect": true },
+
                     { "answerText": "Beautiful Mess", "isCorrect": false },
                     { "answerText": "Hey Mamma", "isCorrect": false },
-                    { "answerText": "City Lights", "isCorrect": false }
+                    { "answerText": "City Lights", "isCorrect": false },
+                    { "answerText": "Amar pelos dois", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2018?",
                 answerOptions: [
-                    { "answerText": "Toy", "isCorrect": true },
+
                     { "answerText": "Fuego", "isCorrect": false },
                     { "answerText": "Nobody but You", "isCorrect": false },
+                    { "answerText": "Toy", "isCorrect": true },
                     { "answerText": "You Let Me Walk Alone", "isCorrect": false }
                 ]
             },
@@ -775,28 +803,30 @@ export const categories = [
             {
                 questionText: "Which song won the Eurovision Song Contest in 2021?",
                 answerOptions: [
-                    { "answerText": "Zitti e buoni", "isCorrect": true },
+
                     { "answerText": "Voilà", "isCorrect": false },
                     { "answerText": "Tout l'univers", "isCorrect": false },
-                    { "answerText": "Shum", "isCorrect": false }
+                    { "answerText": "Shum", "isCorrect": false },
+                    { "answerText": "Zitti e buoni", "isCorrect": true }
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2022?",
                 answerOptions: [
-                    { "answerText": "Stefania", "isCorrect": true },
                     { "answerText": "SPACE MAN", "isCorrect": false },
                     { "answerText": "SloMo", "isCorrect": false },
+                    { "answerText": "Stefania", "isCorrect": true },
                     { "answerText": "De diepte", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Which song won the Eurovision Song Contest in 2023?",
                 answerOptions: [
-                    { "answerText": "Cha Cha Cha", "isCorrect": true },
+
                     { "answerText": "Unicorn", "isCorrect": false },
                     { "answerText": "Eat Your Salad", "isCorrect": false },
-                    { "answerText": "I Wrote a Song", "isCorrect": false }
+                    { "answerText": "I Wrote a Song", "isCorrect": false },
+                    { "answerText": "Cha Cha Cha", "isCorrect": true },
                 ]
             },
             {
@@ -811,27 +841,29 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2000?",
                 answerOptions: [
-                    { "answerText": "18th", "isCorrect": true },
                     { "answerText": "13th", "isCorrect": false },
                     { "answerText": "16th", "isCorrect": false },
+                    { "answerText": "18th", "isCorrect": true },
                     { "answerText": "20th", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2001?",
                 answerOptions: [
-                    { "answerText": "3rd", "isCorrect": true },
+
                     { "answerText": "10th", "isCorrect": false },
                     { "answerText": "17th", "isCorrect": false },
+                    { "answerText": "3rd", "isCorrect": true },
                     { "answerText": "25th", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2002?",
                 answerOptions: [
-                    { "answerText": "17th", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
                     { "answerText": "12th", "isCorrect": false },
+                    { "answerText": "17th", "isCorrect": true },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
             },
@@ -839,16 +871,17 @@ export const categories = [
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2003?",
                 answerOptions: [
                     { "answerText": "17th", "isCorrect": false },
-                    { "answerText": "3rd", "isCorrect": true },
                     { "answerText": "10th", "isCorrect": false },
+                    { "answerText": "3rd", "isCorrect": true },
                     { "answerText": "25th", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2004?",
                 answerOptions: [
-                    { "answerText": "3rd", "isCorrect": true },
+
                     { "answerText": "12th", "isCorrect": false },
+                    { "answerText": "3rd", "isCorrect": true },
                     { "answerText": "15th", "isCorrect": false },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
@@ -856,44 +889,49 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2005?",
                 answerOptions: [
-                    { "answerText": "1st", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
                     { "answerText": "10th", "isCorrect": false },
-                    { "answerText": "20th", "isCorrect": false }
+                    { "answerText": "20th", "isCorrect": false },
+                    { "answerText": "1st", "isCorrect": true }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2006?",
                 answerOptions: [
-                    { "answerText": "9th", "isCorrect": true },
+
                     { "answerText": "1st", "isCorrect": false },
                     { "answerText": "15th", "isCorrect": false },
+                    { "answerText": "9th", "isCorrect": true },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2007?",
                 answerOptions: [
-                    { "answerText": "7th", "isCorrect": true },
+
                     { "answerText": "12th", "isCorrect": false },
                     { "answerText": "3rd", "isCorrect": false },
+                    { "answerText": "7th", "isCorrect": true },
                     { "answerText": "18th", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2008?",
                 answerOptions: [
-                    { "answerText": "3rd", "isCorrect": true },
+
                     { "answerText": "10th", "isCorrect": false },
                     { "answerText": "15th", "isCorrect": false },
+                    { "answerText": "3rd", "isCorrect": true },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2009?",
                 answerOptions: [
-                    { "answerText": "7th", "isCorrect": true },
+
                     { "answerText": "2nd", "isCorrect": false },
+                    { "answerText": "7th", "isCorrect": true },
                     { "answerText": "11th", "isCorrect": false },
                     { "answerText": "18th", "isCorrect": false }
                 ]
@@ -910,8 +948,9 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2011?",
                 answerOptions: [
-                    { "answerText": "7th", "isCorrect": true },
+
                     { "answerText": "15th", "isCorrect": false },
+                    { "answerText": "7th", "isCorrect": true },
                     { "answerText": "2nd", "isCorrect": false },
                     { "answerText": "21st", "isCorrect": false }
                 ]
@@ -919,26 +958,29 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2012?",
                 answerOptions: [
-                    { "answerText": "17th", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
                     { "answerText": "10th", "isCorrect": false },
+                    { "answerText": "17th", "isCorrect": true },
                     { "answerText": "23rd", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2013?",
                 answerOptions: [
-                    { "answerText": "6th", "isCorrect": true },
+
                     { "answerText": "1st", "isCorrect": false },
                     { "answerText": "12th", "isCorrect": false },
-                    { "answerText": "20th", "isCorrect": false }
+                    { "answerText": "20th", "isCorrect": false },
+                    { "answerText": "6th", "isCorrect": true },
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2014?",
                 answerOptions: [
-                    { "answerText": "20th", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
+                    { "answerText": "20th", "isCorrect": true },
                     { "answerText": "10th", "isCorrect": false },
                     { "answerText": "15th", "isCorrect": false }
                 ]
@@ -946,9 +988,10 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2015?",
                 answerOptions: [
-                    { "answerText": "19th", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
                     { "answerText": "12th", "isCorrect": false },
+                    { "answerText": "19th", "isCorrect": true },
                     { "answerText": "25th", "isCorrect": false }
                 ]
             },
@@ -964,8 +1007,9 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2017?",
                 answerOptions: [
-                    { "answerText": "19th", "isCorrect": true },
+
                     { "answerText": "8th", "isCorrect": false },
+                    { "answerText": "19th", "isCorrect": true },
                     { "answerText": "15th", "isCorrect": false },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
@@ -973,46 +1017,51 @@ export const categories = [
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2018?",
                 answerOptions: [
-                    { "answerText": "14th in the semi-final (did not qualify)", "isCorrect": true },
+
                     { "answerText": "10th", "isCorrect": false },
                     { "answerText": "7th", "isCorrect": false },
+                    { "answerText": "14th in the semi-final (did not qualify)", "isCorrect": true },
                     { "answerText": "20th", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2019?",
                 answerOptions: [
-                    { "answerText": "21st", "isCorrect": true },
+
                     { "answerText": "5th", "isCorrect": false },
                     { "answerText": "12th", "isCorrect": false },
-                    { "answerText": "18th", "isCorrect": false }
+                    { "answerText": "18th", "isCorrect": false },
+                    { "answerText": "21st", "isCorrect": true }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2021?",
                 answerOptions: [
-                    { "answerText": "10th", "isCorrect": true },
+
                     { "answerText": "3rd", "isCorrect": false },
                     { "answerText": "15th", "isCorrect": false },
+                    { "answerText": "10th", "isCorrect": true },
                     { "answerText": "22nd", "isCorrect": false }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2022?",
                 answerOptions: [
-                    { "answerText": "8th", "isCorrect": true },
+
                     { "answerText": "2nd", "isCorrect": false },
                     { "answerText": "17th", "isCorrect": false },
-                    { "answerText": "25th", "isCorrect": false }
+                    { "answerText": "25th", "isCorrect": false },
+                    { "answerText": "8th", "isCorrect": true }
                 ]
             },
             {
                 questionText: "What was the position of Greece in the Eurovision Song Contest 2023?",
                 answerOptions: [
-                    { "answerText": "9th", "isCorrect": true },
+
                     { "answerText": "1st", "isCorrect": false },
                     { "answerText": "14th", "isCorrect": false },
-                    { "answerText": "22nd", "isCorrect": false }
+                    { "answerText": "22nd", "isCorrect": false },
+                    { "answerText": "9th", "isCorrect": true },
                 ]
             },
             {
@@ -1063,17 +1112,19 @@ export const categories = [
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2006 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Anna Vissi, 'Everything'", "isCorrect": true },
+
                     { "answerText": "Helena Paparizou, 'My Number One'", "isCorrect": false },
                     { "answerText": "Sakis Rouvas, 'This Is Our Night'", "isCorrect": false },
-                    { "answerText": "Mando, 'Never Let You Go'", "isCorrect": false }
+                    { "answerText": "Mando, 'Never Let You Go'", "isCorrect": false },
+                    { "answerText": "Anna Vissi, 'Everything'", "isCorrect": true }
                 ]
             },
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2007 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Sarbel, 'Yassou Maria'", "isCorrect": true },
+
                     { "answerText": "Anna Vissi, 'Everything'", "isCorrect": false },
+                    { "answerText": "Sarbel, 'Yassou Maria'", "isCorrect": true },
                     { "answerText": "Helena Paparizou, 'My Number One'", "isCorrect": false },
                     { "answerText": "Kalomoira, 'Secret Combination'", "isCorrect": false }
                 ]
@@ -1081,17 +1132,19 @@ export const categories = [
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2008 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Kalomoira, 'Secret Combination'", "isCorrect": true },
+
                     { "answerText": "Sarbel, 'Yassou Maria'", "isCorrect": false },
                     { "answerText": "Sakis Rouvas, 'This Is Our Night'", "isCorrect": false },
+                    { "answerText": "Kalomoira, 'Secret Combination'", "isCorrect": true },
                     { "answerText": "Giorgos Alkaios, 'OPA!'", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2009 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Sakis Rouvas, 'This Is Our Night'", "isCorrect": true },
+
                     { "answerText": "Kalomoira, 'Secret Combination'", "isCorrect": false },
+                    { "answerText": "Sakis Rouvas, 'This Is Our Night'", "isCorrect": true },
                     { "answerText": "Giorgos Alkaios, 'OPA!'", "isCorrect": false },
                     { "answerText": "Loukas Giorkas feat. Stereo Mike, 'Watch My Dance'", "isCorrect": false }
                 ]
@@ -1099,19 +1152,21 @@ export const categories = [
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2010 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Giorgos Alkaios & Friends, 'OPA!'", "isCorrect": true },
+
                     { "answerText": "Sakis Rouvas, 'This Is Our Night'", "isCorrect": false },
                     { "answerText": "Kalomira, 'Secret Combination'", "isCorrect": false },
-                    { "answerText": "Eleftheria Eleftheriou, 'Aphrodisiac'", "isCorrect": false }
+                    { "answerText": "Eleftheria Eleftheriou, 'Aphrodisiac'", "isCorrect": false },
+                    { "answerText": "Giorgos Alkaios & Friends, 'OPA!'", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2011 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Loukas Giorkas feat. Stereo Mike, 'Watch My Dance'", "isCorrect": true },
+
                     { "answerText": "Eleftheria Eleftheriou, 'Aphrodisiac'", "isCorrect": false },
                     { "answerText": "Koza Mostra & Agathonas Iakovidis, 'Alcohol Is Free'", "isCorrect": false },
-                    { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": false }
+                    { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": false },
+                    { "answerText": "Loukas Giorkas feat. Stereo Mike, 'Watch My Dance'", "isCorrect": true },
                 ]
             },
             {
@@ -1126,26 +1181,29 @@ export const categories = [
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2013 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Koza Mostra & Agathonas Iakovidis, 'Alcohol Is Free'", "isCorrect": true },
+
                     { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": false },
                     { "answerText": "Maria Elena Kyriakou, 'One Last Breath'", "isCorrect": false },
-                    { "answerText": "Demy, 'This Is Love'", "isCorrect": false }
+                    { "answerText": "Demy, 'This Is Love'", "isCorrect": false },
+                    { "answerText": "Koza Mostra & Agathonas Iakovidis, 'Alcohol Is Free'", "isCorrect": true },
                 ]
             },
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2014 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": true },
+
                     { "answerText": "Maria Elena Kyriakou, 'One Last Breath'", "isCorrect": false },
                     { "answerText": "Argo, 'Utopian Land'", "isCorrect": false },
+                    { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": true },
                     { "answerText": "Demy, 'This Is Love'", "isCorrect": false }
                 ]
             },
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2015 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Maria Elena Kyriakou, 'One Last Breath'", "isCorrect": true },
+
                     { "answerText": "Freaky Fortune feat. Riskykidd, 'Rise Up'", "isCorrect": false },
+                    { "answerText": "Maria Elena Kyriakou, 'One Last Breath'", "isCorrect": true },
                     { "answerText": "Argo, 'Utopian Land'", "isCorrect": false },
                     { "answerText": "Demy, 'This Is Love'", "isCorrect": false }
                 ]
@@ -1153,9 +1211,10 @@ export const categories = [
             {
                 questionText: "Who represented Greece in the Eurovision Song Contest 2016 and what song did they perform?",
                 answerOptions: [
-                    { "answerText": "Argo, 'Utopian Land'", "isCorrect": true },
+
                     { "answerText": "Demy, 'This Is Love'", "isCorrect": false },
                     { "answerText": "Yianna Terzi, 'Oniro Mou'", "isCorrect": false },
+                    { "answerText": "Argo, 'Utopian Land'", "isCorrect": true },
                     { "answerText": "Katerine Duska, 'Better Love'", "isCorrect": false }
                 ]
             },
