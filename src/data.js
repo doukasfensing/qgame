@@ -1703,8 +1703,8 @@ export const categories = [
                 ],
             },
             {
-                "questionText": "🇧🇩 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇧🇩 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Bangladesh", "isCorrect": true},
                     {"answerText": "India", "isCorrect": false},
                     {"answerText": "Pakistan", "isCorrect": false},
@@ -1712,8 +1712,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇵🇭 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇵🇭 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Thailand", "isCorrect": false},
                     {"answerText": "Philippines", "isCorrect": true},
                     {"answerText": "Indonesia", "isCorrect": false},
@@ -1721,8 +1721,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇻🇳 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇻🇳 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Vietnam", "isCorrect": true},
                     {"answerText": "China", "isCorrect": false},
                     {"answerText": "Cambodia", "isCorrect": false},
@@ -1730,8 +1730,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇹🇭 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇹🇭 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Cambodia", "isCorrect": false},
                     {"answerText": "Myanmar", "isCorrect": false},
                     {"answerText": "Laos", "isCorrect": false},
@@ -1739,8 +1739,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇲🇲 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇲🇲 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Thailand", "isCorrect": false},
                     {"answerText": "Bangladesh", "isCorrect": false},
                     {"answerText": "Myanmar", "isCorrect": true},
@@ -1748,8 +1748,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇦🇫 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇦🇫 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Pakistan", "isCorrect": false},
                     {"answerText": "Iran", "isCorrect": false},
                     {"answerText": "Afghanistan", "isCorrect": true},
@@ -1757,8 +1757,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇸🇦 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇸🇦 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Iran", "isCorrect": false},
                     {"answerText": "Iraq", "isCorrect": false},
                     {"answerText": "Yemen", "isCorrect": false},
@@ -1766,8 +1766,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇺🇿 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇺🇿 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Turkmenistan", "isCorrect": false},
                     {"answerText": "Kazakhstan", "isCorrect": false},
                     {"answerText": "Uzbekistan", "isCorrect": true},
@@ -1775,8 +1775,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇾🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇾🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Oman", "isCorrect": false},
                     {"answerText": "Saudi Arabia", "isCorrect": false},
                     {"answerText": "Yemen", "isCorrect": true},
@@ -1784,8 +1784,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇳🇵 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇳🇵 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "India", "isCorrect": false},
                     {"answerText": "Bhutan", "isCorrect": false},
                     {"answerText": "Nepal", "isCorrect": true},
@@ -1793,8 +1793,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇰🇵 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇰🇵 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "South Korea", "isCorrect": false},
                     {"answerText": "China", "isCorrect": false},
                     {"answerText": "North Korea", "isCorrect": true},
@@ -1802,8 +1802,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇸🇾 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇸🇾 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Lebanon", "isCorrect": false},
                     {"answerText": "Jordan", "isCorrect": false},
                     {"answerText": "Syria", "isCorrect": true},
@@ -1811,8 +1811,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇱🇰 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇱🇰 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Maldives", "isCorrect": false},
                     {"answerText": "India", "isCorrect": false},
                     {"answerText": "Sri Lanka", "isCorrect": true},
@@ -1820,8 +1820,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇰🇿 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇰🇿 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Kyrgyzstan", "isCorrect": false},
                     {"answerText": "Turkmenistan", "isCorrect": false},
                     {"answerText": "Uzbekistan", "isCorrect": false},
@@ -1829,8 +1829,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇦🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇦🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Saudi Arabia", "isCorrect": false},
                     {"answerText": "Qatar", "isCorrect": false},
                     {"answerText": "Oman", "isCorrect": false},
@@ -1838,8 +1838,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇰🇬 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇰🇬 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Kazakhstan", "isCorrect": false},
                     {"answerText": "Turkmenistan", "isCorrect": false},
                     {"answerText": "Kyrgyzstan", "isCorrect": true},
@@ -1847,8 +1847,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇹🇲 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇹🇲 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Tajikistan", "isCorrect": false},
                     {"answerText": "Kazakhstan", "isCorrect": false},
                     {"answerText": "Turkmenistan", "isCorrect": true},
@@ -1856,8 +1856,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇰🇼 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇰🇼 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Qatar", "isCorrect": false},
                     {"answerText": "Bahrain", "isCorrect": false},
                     {"answerText": "Kuwait", "isCorrect": true},
@@ -1865,8 +1865,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇹🇼 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇹🇼 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "South Korea", "isCorrect": false},
                     {"answerText": "Japan", "isCorrect": false},
                     {"answerText": "Taiwan", "isCorrect": true},
@@ -1874,8 +1874,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇭🇰 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇭🇰 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Macau", "isCorrect": false},
                     {"answerText": "Singapore", "isCorrect": false},
                     {"answerText": "Hong Kong", "isCorrect": true},
@@ -1883,8 +1883,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇲🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇲🇴 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Taiwan", "isCorrect": false},
                     {"answerText": "Hong Kong", "isCorrect": false},
                     {"answerText": "Macau", "isCorrect": true},
@@ -1892,8 +1892,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇦🇷 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇦🇷 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Argentina", "isCorrect": true},
                     {"answerText": "Mexico", "isCorrect": false},
                     {"answerText": "Spain", "isCorrect": false},
@@ -1901,8 +1901,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇧🇷 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇧🇷 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Brazil", "isCorrect": true},
                     {"answerText": "Bolivia", "isCorrect": false},
                     {"answerText": "Peru", "isCorrect": false},
@@ -1910,8 +1910,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇨🇱 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇨🇱 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Chile", "isCorrect": true},
                     {"answerText": "Argentina", "isCorrect": false},
                     {"answerText": "Mexico", "isCorrect": false},
@@ -1919,8 +1919,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇲🇽 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇲🇽 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Mexico", "isCorrect": true},
                     {"answerText": "Guatemala", "isCorrect": false},
                     {"answerText": "El Salvador", "isCorrect": false},
@@ -1928,8 +1928,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇵🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇵🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Peru", "isCorrect": true},
                     {"answerText": "Chile", "isCorrect": false},
                     {"answerText": "Ecuador", "isCorrect": false},
@@ -1937,8 +1937,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇨🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇨🇴 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Colombia", "isCorrect": true},
                     {"answerText": "Venezuela", "isCorrect": false},
                     {"answerText": "Panama", "isCorrect": false},
@@ -1946,8 +1946,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇻🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇻🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Venezuela", "isCorrect": true},
                     {"answerText": "Colombia", "isCorrect": false},
                     {"answerText": "Bolivia", "isCorrect": false},
@@ -1955,8 +1955,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇪🇨 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇪🇨 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Ecuador", "isCorrect": true},
                     {"answerText": "Colombia", "isCorrect": false},
                     {"answerText": "Peru", "isCorrect": false},
@@ -1964,8 +1964,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇧🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇧🇴 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Bolivia", "isCorrect": true},
                     {"answerText": "Peru", "isCorrect": false},
                     {"answerText": "Ecuador", "isCorrect": false},
@@ -1973,8 +1973,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇺🇾 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇺🇾 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Uruguay", "isCorrect": true},
                     {"answerText": "Paraguay", "isCorrect": false},
                     {"answerText": "Brazil", "isCorrect": false},
@@ -1983,8 +1983,8 @@ export const categories = [
             },
             // Additional questions for other Latin American countries like Paraguay, Guatemala, etc.
             {
-                "questionText": "🇬🇹 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇬🇹 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Guatemala", "isCorrect": true},
                     {"answerText": "Honduras", "isCorrect": false},
                     {"answerText": "El Salvador", "isCorrect": false},
@@ -1992,8 +1992,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "🇵🇾 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇵🇾 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Paraguay", "isCorrect": true},
                     {"answerText": "Uruguay", "isCorrect": false},
                     {"answerText": "Bolivia", "isCorrect": false},
@@ -3226,171 +3226,171 @@ export const categories = [
         name: "Flags Special",
         questions: [
             {
-                "questionText": "🇮🇩 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇮🇩 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Indonesia", "isCorrect": true},
                     {"answerText": "Monaco", "isCorrect": false},
                 ]
             },
             {
-                "questionText": "🇮🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇮🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Ivory Coast (Côte d'Ivoire)", "isCorrect": false},
                     {"answerText": "Ireland", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇳🇿 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇳🇿 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "New Zealand", "isCorrect": true},
                     {"answerText": "Australia", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇷🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇷🇴 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Chad", "isCorrect": false},
                     {"answerText": "Romania", "isCorrect": true}
                 ]
             },
             {
-                "questionText": "🇳🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇳🇴 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Norway", "isCorrect": true},
                     {"answerText": "Iceland", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇱🇺 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇱🇺 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Netherlands", "isCorrect": false},
                     {"answerText": "Luxembourg", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇵🇱 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇵🇱 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Indonesia", "isCorrect": false},
                     {"answerText": "Poland", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇺🇸 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇺🇸 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "United States", "isCorrect": true},
                     {"answerText": "Liberia", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇸🇳 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇸🇳 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Mali", "isCorrect": false},
                     {"answerText": "Senegal", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇧🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇧🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Belgium", "isCorrect": true},
                     {"answerText": "Germany", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇨🇱 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇨🇱 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Texas (U.S. State)", "isCorrect": false},
                     {"answerText": "Chile", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇵🇾 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇵🇾 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Paraguay", "isCorrect": true},
                     {"answerText": "Netherlands", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇨🇴 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇨🇴 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Ecuador", "isCorrect": false},
                     {"answerText": "Colombia", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇸🇪 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇸🇪 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Sweden", "isCorrect": true},
                     {"answerText": "Finland", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇭🇺 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇭🇺 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Italy", "isCorrect": false},
                     {"answerText": "Hungary", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇸🇰 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇸🇰 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Slovakia", "isCorrect": true},
                     {"answerText": "Slovenia", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "🇷🇺 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇷🇺 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Serbia", "isCorrect": false},
                     {"answerText": "Russia", "isCorrect": true},
                 ]
             },
             {
-                "questionText": "🇦🇷 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇦🇷 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "El Salvador", "isCorrect": false},
                     {"answerText": "Argentina", "isCorrect": true}
                 ]
             },
             {
-                "questionText": "🇨🇷 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇨🇷 - Which country does this flag belong to?",
+                answerOptions: [
 
                     {"answerText": "Thailand", "isCorrect": false},
                     {"answerText": "Costa Rica", "isCorrect": true}
                 ]
             },
             {
-                "questionText": "🇧🇬 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇧🇬 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Bulgaria", "isCorrect": true},
                     {"answerText": "Hungary", "isCorrect": false},
                 ]
             },
             {
-                "questionText": "🇳🇬 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇳🇬 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Niger", "isCorrect": false},
                     {"answerText": "Nigeria", "isCorrect": true}
                 ]
             },
             {
-                "questionText": "🇲🇽 - Which country does this flag belong to?",
-                "answerOptions": [
+                questionText: "🇲🇽 - Which country does this flag belong to?",
+                answerOptions: [
                     {"answerText": "Mexico", "isCorrect": true},
                     {"answerText": "Italy", "isCorrect": false}
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "United States", "isCorrect": false},
                     {"answerText": "Australia", "isCorrect": false},
                     {"answerText": "China", "isCorrect": false},
@@ -3398,8 +3398,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Turkey", "isCorrect": false},
                     {"answerText": "Panama", "isCorrect": false},
                     {"answerText": "Israel", "isCorrect": false},
@@ -3407,8 +3407,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Vietnam", "isCorrect": false},
                     {"answerText": "North Korea", "isCorrect": false},
                     {"answerText": "Somalia", "isCorrect": false},
@@ -3416,8 +3416,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Brazil", "isCorrect": false},
                     {"answerText": "New Zealand", "isCorrect": false},
                     {"answerText": "Cuba", "isCorrect": false},
@@ -3425,8 +3425,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Pakistan", "isCorrect": false},
                     {"answerText": "Singapore", "isCorrect": false},
                     {"answerText": "Morocco", "isCorrect": false},
@@ -3434,8 +3434,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Chile", "isCorrect": false},
                     {"answerText": "Philippines", "isCorrect": false},
                     {"answerText": "Jordan", "isCorrect": false},
@@ -3443,8 +3443,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Cameroon", "isCorrect": false},
                     {"answerText": "Ethiopia", "isCorrect": false},
                     {"answerText": "Myanmar", "isCorrect": false},
@@ -3452,8 +3452,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Syria", "isCorrect": false},
                     {"answerText": "Somalia", "isCorrect": false},
                     {"answerText": "Venezuela", "isCorrect": false},
@@ -3461,8 +3461,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Malaysia", "isCorrect": false},
                     {"answerText": "Ghana", "isCorrect": false},
                     {"answerText": "Israel", "isCorrect": false},
@@ -3470,8 +3470,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have a star in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have a star in its flag?",
+                answerOptions: [
                     {"answerText": "Nepal", "isCorrect": false},
                     {"answerText": "North Korea", "isCorrect": false},
                     {"answerText": "Turkey", "isCorrect": false},
@@ -3479,8 +3479,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Germany", "isCorrect": true},
                     {"answerText": "France", "isCorrect": false},
                     {"answerText": "United States", "isCorrect": false},
@@ -3488,8 +3488,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Libya (1977-2011 flag)", "isCorrect": true},
                     {"answerText": "India", "isCorrect": false},
                     {"answerText": "Italy", "isCorrect": false},
@@ -3497,8 +3497,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Jamaica", "isCorrect": true},
                     {"answerText": "South Korea", "isCorrect": false},
                     {"answerText": "Canada", "isCorrect": false},
@@ -3506,8 +3506,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Mauritania", "isCorrect": true},
                     {"answerText": "Panama", "isCorrect": false},
                     {"answerText": "United Kingdom", "isCorrect": false},
@@ -3515,8 +3515,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Sri Lanka", "isCorrect": false},
                     {"answerText": "Qatar", "isCorrect": true},
                     {"answerText": "Philippines", "isCorrect": false},
@@ -3524,8 +3524,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Bangladesh", "isCorrect": false},
                     {"answerText": "India", "isCorrect": false},
                     {"answerText": "Bhutan", "isCorrect": true},
@@ -3533,8 +3533,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Kenya", "isCorrect": false},
                     {"answerText": "Zambia", "isCorrect": true},
                     {"answerText": "Uganda", "isCorrect": false},
@@ -3542,8 +3542,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Morocco", "isCorrect": false},
                     {"answerText": "Algeria", "isCorrect": false},
                     {"answerText": "Libya", "isCorrect": false},
@@ -3551,8 +3551,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Saudi Arabia", "isCorrect": false},
                     {"answerText": "Iran", "isCorrect": false},
                     {"answerText": "Iraq", "isCorrect": true},
@@ -3560,8 +3560,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country doesn't have white in its flag?",
-                "answerOptions": [
+                questionText: "Which country doesn't have white in its flag?",
+                answerOptions: [
                     {"answerText": "Brazil", "isCorrect": false},
                     {"answerText": "Argentina", "isCorrect": false},
                     {"answerText": "Chile", "isCorrect": false},
@@ -3569,8 +3569,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Latvia", "isCorrect": true},
                     {"answerText": "Estonia", "isCorrect": false},
                     {"answerText": "Lithuania", "isCorrect": false},
@@ -3578,8 +3578,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Austria", "isCorrect": true},
                     {"answerText": "Hungary", "isCorrect": false},
                     {"answerText": "Germany", "isCorrect": false},
@@ -3587,8 +3587,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "United States", "isCorrect": true},
                     {"answerText": "Canada", "isCorrect": false},
                     {"answerText": "Mexico", "isCorrect": false},
@@ -3596,8 +3596,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Belarus", "isCorrect": true},
                     {"answerText": "Russia", "isCorrect": false},
                     {"answerText": "Ukraine", "isCorrect": false},
@@ -3605,8 +3605,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Trinidad and Tobago", "isCorrect": true},
                     {"answerText": "Jamaica", "isCorrect": false},
                     {"answerText": "Barbados", "isCorrect": false},
@@ -3614,8 +3614,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "North Korea", "isCorrect": true},
                     {"answerText": "South Korea", "isCorrect": false},
                     {"answerText": "Japan", "isCorrect": false},
@@ -3623,8 +3623,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Iran", "isCorrect": true},
                     {"answerText": "Iraq", "isCorrect": false},
                     {"answerText": "Afghanistan", "isCorrect": false},
@@ -3632,8 +3632,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Peru", "isCorrect": true},
                     {"answerText": "Bolivia", "isCorrect": false},
                     {"answerText": "Chile", "isCorrect": false},
@@ -3641,8 +3641,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Bahrain", "isCorrect": true},
                     {"answerText": "Qatar", "isCorrect": false},
                     {"answerText": "United Arab Emirates", "isCorrect": false},
@@ -3650,8 +3650,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have a red stripe in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have a red stripe in its flag?",
+                answerOptions: [
                     {"answerText": "Denmark", "isCorrect": true},
                     {"answerText": "Sweden", "isCorrect": false},
                     {"answerText": "Norway", "isCorrect": false},
@@ -3659,8 +3659,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Germany", "isCorrect": true},
                     {"answerText": "Belgium", "isCorrect": false},
                     {"answerText": "Italy", "isCorrect": false},
@@ -3668,8 +3668,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Netherlands", "isCorrect": true},
                     {"answerText": "Russia", "isCorrect": false},
                     {"answerText": "Serbia", "isCorrect": false},
@@ -3677,8 +3677,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Estonia", "isCorrect": true},
                     {"answerText": "Latvia", "isCorrect": false},
                     {"answerText": "Lithuania", "isCorrect": false},
@@ -3686,8 +3686,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Hungary", "isCorrect": true},
                     {"answerText": "Austria", "isCorrect": false},
                     {"answerText": "Switzerland", "isCorrect": false},
@@ -3695,8 +3695,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Bulgaria", "isCorrect": true},
                     {"answerText": "Romania", "isCorrect": false},
                     {"answerText": "Moldova", "isCorrect": false},
@@ -3704,8 +3704,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Gabon", "isCorrect": true},
                     {"answerText": "Kenya", "isCorrect": false},
                     {"answerText": "Senegal", "isCorrect": false},
@@ -3713,8 +3713,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Argentina", "isCorrect": true},
                     {"answerText": "Brazil", "isCorrect": false},
                     {"answerText": "Chile", "isCorrect": false},
@@ -3722,8 +3722,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Colombia", "isCorrect": true},
                     {"answerText": "Ecuador", "isCorrect": false},
                     {"answerText": "Venezuela", "isCorrect": false},
@@ -3731,8 +3731,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Russia", "isCorrect": true},
                     {"answerText": "Slovakia", "isCorrect": false},
                     {"answerText": "Slovenia", "isCorrect": false},
@@ -3740,8 +3740,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country does have only horizontal lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country does have only horizontal lines in its flag?",
+                answerOptions: [
                     {"answerText": "Botswana", "isCorrect": true},
                     {"answerText": "South Africa", "isCorrect": false},
                     {"answerText": "Zimbabwe", "isCorrect": false},
@@ -3749,8 +3749,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "France", "isCorrect": true},
                     {"answerText": "Germany", "isCorrect": false},
                     {"answerText": "Italy", "isCorrect": false},
@@ -3758,8 +3758,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Italy", "isCorrect": true},
                     {"answerText": "Ireland", "isCorrect": false},
                     {"answerText": "Germany", "isCorrect": false},
@@ -3767,8 +3767,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Belgium", "isCorrect": true},
                     {"answerText": "Germany", "isCorrect": false},
                     {"answerText": "Austria", "isCorrect": false},
@@ -3776,8 +3776,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Ireland", "isCorrect": true},
                     {"answerText": "Italy", "isCorrect": false},
                     {"answerText": "France", "isCorrect": false},
@@ -3785,8 +3785,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Guatemala", "isCorrect": true},
                     {"answerText": "El Salvador", "isCorrect": false},
                     {"answerText": "Honduras", "isCorrect": false},
@@ -3794,8 +3794,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Romania", "isCorrect": true},
                     {"answerText": "Russia", "isCorrect": false},
                     {"answerText": "Serbia", "isCorrect": false},
@@ -3803,8 +3803,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Mali", "isCorrect": true},
                     {"answerText": "Senegal", "isCorrect": false},
                     {"answerText": "Guinea", "isCorrect": false},
@@ -3812,8 +3812,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Ivory Coast", "isCorrect": true},
                     {"answerText": "Liberia", "isCorrect": false},
                     {"answerText": "Burkina Faso", "isCorrect": false},
@@ -3821,8 +3821,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Niger", "isCorrect": true},
                     {"answerText": "Chad", "isCorrect": false},
                     {"answerText": "Sudan", "isCorrect": false},
@@ -3830,8 +3830,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which country only has vertical lines in its flag?",
-                "answerOptions": [
+                questionText: "Which country only has vertical lines in its flag?",
+                answerOptions: [
                     {"answerText": "Chad", "isCorrect": true},
                     {"answerText": "Cameroon", "isCorrect": false},
                     {"answerText": "Central African Republic", "isCorrect": false},
@@ -3841,12 +3841,798 @@ export const categories = [
         ],
     },
     {
+        id: 8,
+        name: "Drinks",
+        questions: [
+            {
+                "questionText": "Which country is known for inventing Pisco?",
+                "answerOptions": [
+                    { "answerText": "Chile", "isCorrect": false },
+                    { "answerText": "Peru", "isCorrect": true },
+                    { "answerText": "Mexico", "isCorrect": false },
+                    { "answerText": "Brazil", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of alcohol is traditionally used in a Mojito?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Whiskey", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which drink is made from juniper berries?",
+                "answerOptions": [
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": true },
+                    { "answerText": "Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Champagne can only come from which region?",
+                "answerOptions": [
+                    { "answerText": "Bordeaux", "isCorrect": false },
+                    { "answerText": "Napa Valley", "isCorrect": false },
+                    { "answerText": "Champagne", "isCorrect": true },
+                    { "answerText": "Tuscany", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the main ingredient in Sake?",
+                "answerOptions": [
+                    { "answerText": "Potatoes", "isCorrect": false },
+                    { "answerText": "Rice", "isCorrect": true },
+                    { "answerText": "Barley", "isCorrect": false },
+                    { "answerText": "Grapes", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which cocktail contains vodka, triple sec, cranberry juice, and freshly squeezed or sweetened lime juice?",
+                "answerOptions": [
+                    { "answerText": "Margarita", "isCorrect": false },
+                    { "answerText": "Cosmopolitan", "isCorrect": true },
+                    { "answerText": "Mojito", "isCorrect": false },
+                    { "answerText": "Martini", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is whiskey made from?",
+                "answerOptions": [
+                    { "answerText": "Rice", "isCorrect": false },
+                    { "answerText": "Grapes", "isCorrect": false },
+                    { "answerText": "Grain", "isCorrect": true },
+                    { "answerText": "Potatoes", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of wine is 'Port'?",
+                "answerOptions": [
+                    { "answerText": "Red", "isCorrect": false },
+                    { "answerText": "Sparkling", "isCorrect": false },
+                    { "answerText": "Dessert", "isCorrect": true },
+                    { "answerText": "White", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which country is the largest producer of beer in the world?",
+                "answerOptions": [
+                    { "answerText": "United States", "isCorrect": false },
+                    { "answerText": "Germany", "isCorrect": false },
+                    { "answerText": "China", "isCorrect": true },
+                    { "answerText": "Belgium", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What flavor is Cointreau?",
+                "answerOptions": [
+                    { "answerText": "Mint", "isCorrect": false },
+                    { "answerText": "Orange", "isCorrect": true },
+                    { "answerText": "Coffee", "isCorrect": false },
+                    { "answerText": "Vanilla", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which alcoholic beverage is most commonly associated with Russia?",
+                "answerOptions": [
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Tequila is made from what plant?",
+                "answerOptions": [
+                    { "answerText": "Blue agave", "isCorrect": true },
+                    { "answerText": "Corn", "isCorrect": false },
+                    { "answerText": "Sugarcane", "isCorrect": false },
+                    { "answerText": "Cactus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the traditional base spirit in a Bloody Mary?",
+                "answerOptions": [
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the primary alcohol in a Margarita?",
+                "answerOptions": [
+                    { "answerText": "Whiskey", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": true },
+                    { "answerText": "Vodka", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which fruit is most commonly associated with Sangria?",
+                "answerOptions": [
+                    { "answerText": "Peach", "isCorrect": false },
+                    { "answerText": "Apple", "isCorrect": false },
+                    { "answerText": "Orange", "isCorrect": true },
+                    { "answerText": "Pear", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "A 'Cuba Libre' traditionally consists of lime, cola, and what type of alcohol?",
+                "answerOptions": [
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Tequila", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a fortified wine?",
+                "answerOptions": [
+                    { "answerText": "Chardonnay", "isCorrect": false },
+                    { "answerText": "Sherry", "isCorrect": true },
+                    { "answerText": "Merlot", "isCorrect": false },
+                    { "answerText": "Sauvignon Blanc", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Absinthe is a high-alcohol spirit known for its association with which historical art movement?",
+                "answerOptions": [
+                    { "answerText": "Renaissance", "isCorrect": false },
+                    { "answerText": "Baroque", "isCorrect": false },
+                    { "answerText": "Impressionism", "isCorrect": true },
+                    { "answerText": "Cubism", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of liquor is traditionally used to make a 'Sazerac'?",
+                "answerOptions": [
+                    { "answerText": "Bourbon", "isCorrect": true },
+                    { "answerText": "Scotch", "isCorrect": false },
+                    { "answerText": "Brandy", "isCorrect": false },
+                    { "answerText": "Rye Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these beverages is made by fermenting honey with water?",
+                "answerOptions": [
+                    { "answerText": "Mead", "isCorrect": true },
+                    { "answerText": "Cider", "isCorrect": false },
+                    { "answerText": "Beer", "isCorrect": false },
+                    { "answerText": "Wine", "isCorrect": false }
+                ]
+            },
+{
+                "questionText": "Which of these is a traditional ingredient in a 'Mai Tai' cocktail?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of alcohol is traditionally used in a 'Moscow Mule'?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a traditional ingredient in a 'Mojito' cocktail?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a traditional ingredient in a 'Margarita' cocktail?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": true },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a traditional ingredient in a 'Martini' cocktail?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a traditional ingredient in a 'Manhattan' cocktail?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Whiskey", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which country is known for inventing Pisco?",
+                "answerOptions": [
+                    { "answerText": "Chile", "isCorrect": false },
+                    { "answerText": "Peru", "isCorrect": true },
+                    { "answerText": "Mexico", "isCorrect": false },
+                    { "answerText": "Brazil", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of alcohol is traditionally used in a Mojito?",
+                "answerOptions": [
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Whiskey", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Gin", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which drink is made from juniper berries?",
+                "answerOptions": [
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false },
+                    { "answerText": "Gin", "isCorrect": true },
+                    { "answerText": "Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Champagne can only come from which region?",
+                "answerOptions": [
+                    { "answerText": "Bordeaux", "isCorrect": false },
+                    { "answerText": "Napa Valley", "isCorrect": false },
+                    { "answerText": "Champagne", "isCorrect": true },
+                    { "answerText": "Tuscany", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the main ingredient in Sake?",
+                "answerOptions": [
+                    { "answerText": "Potatoes", "isCorrect": false },
+                    { "answerText": "Rice", "isCorrect": true },
+                    { "answerText": "Barley", "isCorrect": false },
+                    { "answerText": "Grapes", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which cocktail contains vodka, triple sec, cranberry juice, and freshly squeezed or sweetened lime juice?",
+                "answerOptions": [
+                    { "answerText": "Margarita", "isCorrect": false },
+                    { "answerText": "Cosmopolitan", "isCorrect": true },
+                    { "answerText": "Mojito", "isCorrect": false },
+                    { "answerText": "Martini", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is whiskey made from?",
+                "answerOptions": [
+                    { "answerText": "Rice", "isCorrect": false },
+                    { "answerText": "Grapes", "isCorrect": false },
+                    { "answerText": "Grain", "isCorrect": true },
+                    { "answerText": "Potatoes", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of wine is 'Port'?",
+                "answerOptions": [
+                    { "answerText": "Red", "isCorrect": false },
+                    { "answerText": "Sparkling", "isCorrect": false },
+                    { "answerText": "Dessert", "isCorrect": true },
+                    { "answerText": "White", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which country is the largest producer of beer in the world?",
+                "answerOptions": [
+                    { "answerText": "United States", "isCorrect": false },
+                    { "answerText": "Germany", "isCorrect": false },
+                    { "answerText": "China", "isCorrect": true },
+                    { "answerText": "Belgium", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What flavor is Cointreau?",
+                "answerOptions": [
+                    { "answerText": "Mint", "isCorrect": false },
+                    { "answerText": "Orange", "isCorrect": true },
+                    { "answerText": "Coffee", "isCorrect": false },
+                    { "answerText": "Vanilla", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which alcoholic beverage is most commonly associated with Russia?",
+                "answerOptions": [
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Tequila is made from what plant?",
+                "answerOptions": [
+                    { "answerText": "Blue agave", "isCorrect": true },
+                    { "answerText": "Corn", "isCorrect": false },
+                    { "answerText": "Sugarcane", "isCorrect": false },
+                    { "answerText": "Cactus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the traditional base spirit in a Bloody Mary?",
+                "answerOptions": [
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": true },
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the primary alcohol in a Margarita?",
+                "answerOptions": [
+                    { "answerText": "Whiskey", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": false },
+                    { "answerText": "Tequila", "isCorrect": true },
+                    { "answerText": "Vodka", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which fruit is most commonly associated with Sangria?",
+                "answerOptions": [
+                    { "answerText": "Peach", "isCorrect": false },
+                    { "answerText": "Apple", "isCorrect": false },
+                    { "answerText": "Orange", "isCorrect": true },
+                    { "answerText": "Pear", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "A 'Cuba Libre' traditionally consists of lime, cola, and what type of alcohol?",
+                "answerOptions": [
+                    { "answerText": "Gin", "isCorrect": false },
+                    { "answerText": "Vodka", "isCorrect": false },
+                    { "answerText": "Rum", "isCorrect": true },
+                    { "answerText": "Tequila", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these is a fortified wine?",
+                "answerOptions": [
+                    { "answerText": "Chardonnay", "isCorrect": false },
+                    { "answerText": "Sherry", "isCorrect": true },
+                    { "answerText": "Merlot", "isCorrect": false },
+                    { "answerText": "Sauvignon Blanc", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Absinthe is a high-alcohol spirit known for its association with which historical art movement?",
+                "answerOptions": [
+                    { "answerText": "Renaissance", "isCorrect": false },
+                    { "answerText": "Baroque", "isCorrect": false },
+                    { "answerText": "Impressionism", "isCorrect": true },
+                    { "answerText": "Cubism", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of liquor is traditionally used to make a 'Sazerac'?",
+                "answerOptions": [
+                    { "answerText": "Bourbon", "isCorrect": true },
+                    { "answerText": "Scotch", "isCorrect": false },
+                    { "answerText": "Brandy", "isCorrect": false },
+                    { "answerText": "Rye Whiskey", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which of these beverages is made by fermenting honey with water?",
+                "answerOptions": [
+                    { "answerText": "Mead", "isCorrect": true },
+                    { "answerText": "Cider", "isCorrect": false },
+                    { "answerText": "Beer", "isCorrect": false },
+                    { "answerText": "Wine", "isCorrect": false }
+                ]
+            }
+        ],
+    },
+    {
+        id: 9,
+        name: "Ancient Egypt",
+        questions: [
+            {
+                "questionText": "Who was the first pharaoh of Egypt?",
+                "answerOptions": [
+                    { "answerText": "Ramses II", "isCorrect": false },
+                    { "answerText": "Narmer", "isCorrect": true },
+                    { "answerText": "Tutankhamun", "isCorrect": false },
+                    { "answerText": "Cleopatra", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the main writing material used by ancient Egyptians?",
+                "answerOptions": [
+                    { "answerText": "Papyrus", "isCorrect": true },
+                    { "answerText": "Canvas", "isCorrect": false },
+                    { "answerText": "Bark", "isCorrect": false },
+                    { "answerText": "Silk", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which river was crucial to the agricultural and daily life of ancient Egyptians?",
+                "answerOptions": [
+                    { "answerText": "Amazon", "isCorrect": false },
+                    { "answerText": "Yangtze", "isCorrect": false },
+                    { "answerText": "Nile", "isCorrect": true },
+                    { "answerText": "Mississippi", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What structure is considered one of the Seven Wonders of the Ancient World located in Egypt?",
+                "answerOptions": [
+                    { "answerText": "Great Wall of China", "isCorrect": false },
+                    { "answerText": "Statue of Zeus at Olympia", "isCorrect": false },
+                    { "answerText": "Great Pyramid of Giza", "isCorrect": true },
+                    { "answerText": "Hanging Gardens of Babylon", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which goddess is known as the protector of children and women in ancient Egyptian mythology?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": true },
+                    { "answerText": "Hathor", "isCorrect": false },
+                    { "answerText": "Sekhmet", "isCorrect": false },
+                    { "answerText": "Bastet", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which pharaoh is known for his extensive building projects and long reign in the New Kingdom?",
+                "answerOptions": [
+                    { "answerText": "Akhenaten", "isCorrect": false },
+                    { "answerText": "Tutankhamun", "isCorrect": false },
+                    { "answerText": "Ramses II", "isCorrect": true },
+                    { "answerText": "Khufu", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the name of the ancient Egyptian sun god?",
+                "answerOptions": [
+                    { "answerText": "Osiris", "isCorrect": false },
+                    { "answerText": "Anubis", "isCorrect": false },
+                    { "answerText": "Ra", "isCorrect": true },
+                    { "answerText": "Horus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What monumental tombs were built for pharaohs and covered in hieroglyphic carvings?",
+                "answerOptions": [
+                    { "answerText": "Obelisks", "isCorrect": false },
+                    { "answerText": "Pyramids", "isCorrect": true },
+                    { "answerText": "Temples", "isCorrect": false },
+                    { "answerText": "Sphinxes", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was the primary purpose of the mummification process in ancient Egypt?",
+                "answerOptions": [
+                    { "answerText": "Decoration", "isCorrect": false },
+                    { "answerText": "Preservation for afterlife", "isCorrect": true },
+                    { "answerText": "Artistic expression", "isCorrect": false },
+                    { "answerText": "Medical research", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which ancient Egyptian artifact was instrumental in deciphering hieroglyphs?",
+                "answerOptions": [
+                    { "answerText": "Rosetta Stone", "isCorrect": true },
+                    { "answerText": "Narmer Palette", "isCorrect": false },
+                    { "answerText": "Tutankhamun's mask", "isCorrect": false },
+                    { "answerText": "Cleopatra's needle", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which queen of Egypt was the last ruler of the Ptolemaic dynasty?",
+                "answerOptions": [
+                    { "answerText": "Nefertiti", "isCorrect": false },
+                    { "answerText": "Cleopatra", "isCorrect": true },
+                    { "answerText": "Hatshepsut", "isCorrect": false },
+                    { "answerText": "Sobekneferu", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What is the ancient Egyptian writing system that uses picture symbols?",
+                "answerOptions": [
+                    { "answerText": "Cuneiform", "isCorrect": false },
+                    { "answerText": "Alphabet", "isCorrect": false },
+                    { "answerText": "Hieroglyphics", "isCorrect": true },
+                    { "answerText": "Pictograms", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What type of government was ancient Egypt primarily known for?",
+                "answerOptions": [
+                    { "answerText": "Democracy", "isCorrect": false },
+                    { "answerText": "Monarchy", "isCorrect": true },
+                    { "answerText": "Oligarchy", "isCorrect": false },
+                    { "answerText": "Republic", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was the primary role of the Sphinx in ancient Egypt?",
+                "answerOptions": [
+                    { "answerText": "A marketplace", "isCorrect": false },
+                    { "answerText": "A guardian of tombs and temples", "isCorrect": true },
+                    { "answerText": "A royal residence", "isCorrect": false },
+                    { "answerText": "A religious temple", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which material was commonly used by ancient Egyptians to make jewelry?",
+                "answerOptions": [
+                    { "answerText": "Iron", "isCorrect": false },
+                    { "answerText": "Gold", "isCorrect": true },
+                    { "answerText": "Copper", "isCorrect": false },
+                    { "answerText": "Lead", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which ancient Egyptian god is depicted as having the head of a jackal?",
+                "answerOptions": [
+                    { "answerText": "Ra", "isCorrect": false },
+                    { "answerText": "Osiris", "isCorrect": false },
+                    { "answerText": "Anubis", "isCorrect": true },
+                    { "answerText": "Horus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What purpose did the Book of the Dead serve in ancient Egyptian society?",
+                "answerOptions": [
+                    { "answerText": "A textbook for medicine", "isCorrect": false },
+                    { "answerText": "A guide to the underworld for the deceased", "isCorrect": true },
+                    { "answerText": "A record of the pharaoh's reign", "isCorrect": false },
+                    { "answerText": "Instructions for building pyramids", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which animal was considered sacred in ancient Egypt?",
+                "answerOptions": [
+                    { "answerText": "Horse", "isCorrect": false },
+                    { "answerText": "Cat", "isCorrect": true },
+                    { "answerText": "Eagle", "isCorrect": false },
+                    { "answerText": "Wolf", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which period is known as the 'Age of the Pyramids' in ancient Egyptian history?",
+                "answerOptions": [
+                    { "answerText": "Old Kingdom", "isCorrect": true },
+                    { "answerText": "Middle Kingdom", "isCorrect": false },
+                    { "answerText": "New Kingdom", "isCorrect": false },
+                    { "answerText": "Ptolemaic Period", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What was the name of the ancient Egyptian god of chaos who fought against the sun god Ra?",
+                "answerOptions": [
+                    { "answerText": "Set", "isCorrect": true },
+                    { "answerText": "Thoth", "isCorrect": false },
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Amun", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which Egyptian god was primarily associated with the afterlife?",
+                "answerOptions": [
+                    { "answerText": "Ra", "isCorrect": false },
+                    { "answerText": "Osiris", "isCorrect": true },
+                    { "answerText": "Anubis", "isCorrect": false },
+                    { "answerText": "Horus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who is the Egyptian god of knowledge and writing?",
+                "answerOptions": [
+                    { "answerText": "Seth", "isCorrect": false },
+                    { "answerText": "Thoth", "isCorrect": true },
+                    { "answerText": "Ptah", "isCorrect": false },
+                    { "answerText": "Amun", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which goddess is often depicted as a cow and associated with motherhood?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Hathor", "isCorrect": true },
+                    { "answerText": "Nut", "isCorrect": false },
+                    { "answerText": "Maat", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What role did the god Amun play in Egyptian mythology?",
+                "answerOptions": [
+                    { "answerText": "God of Chaos", "isCorrect": false },
+                    { "answerText": "God of the Underworld", "isCorrect": false },
+                    { "answerText": "King of the Gods", "isCorrect": true },
+                    { "answerText": "God of War", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god is known as the 'Lord of the Sacred Land'?",
+                "answerOptions": [
+                    { "answerText": "Osiris", "isCorrect": true },
+                    { "answerText": "Set", "isCorrect": false },
+                    { "answerText": "Horus", "isCorrect": false },
+                    { "answerText": "Anubis", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who is the goddess of justice and harmony?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Nut", "isCorrect": false },
+                    { "answerText": "Maat", "isCorrect": true },
+                    { "answerText": "Bastet", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god is depicted with the head of a falcon?",
+                "answerOptions": [
+                    { "answerText": "Set", "isCorrect": false },
+                    { "answerText": "Horus", "isCorrect": true },
+                    { "answerText": "Ra", "isCorrect": false },
+                    { "answerText": "Thoth", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which goddess is depicted with a lioness head, symbolizing war and healing?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Hathor", "isCorrect": false },
+                    { "answerText": "Sekhmet", "isCorrect": true },
+                    { "answerText": "Tefnut", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who is the protector of graves and cemeteries in Egyptian mythology?",
+                "answerOptions": [
+                    { "answerText": "Osiris", "isCorrect": false },
+                    { "answerText": "Anubis", "isCorrect": true },
+                    { "answerText": "Set", "isCorrect": false },
+                    { "answerText": "Horus", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god is associated with the creation of the world and is depicted as a potter?",
+                "answerOptions": [
+                    { "answerText": "Khnum", "isCorrect": true },
+                    { "answerText": "Geb", "isCorrect": false },
+                    { "answerText": "Atum", "isCorrect": false },
+                    { "answerText": "Ptah", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who is the goddess of the sky and stars?",
+                "answerOptions": [
+                    { "answerText": "Nut", "isCorrect": true },
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Maat", "isCorrect": false },
+                    { "answerText": "Hathor", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god is represented as a man with the head of an ibis or a baboon?",
+                "answerOptions": [
+                    { "answerText": "Ra", "isCorrect": false },
+                    { "answerText": "Thoth", "isCorrect": true },
+                    { "answerText": "Anubis", "isCorrect": false },
+                    { "answerText": "Osiris", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god was considered the divine defender of the king and is depicted as a man with a hawk head?",
+                "answerOptions": [
+                    { "answerText": "Horus", "isCorrect": true },
+                    { "answerText": "Set", "isCorrect": false },
+                    { "answerText": "Ptah", "isCorrect": false },
+                    { "answerText": "Amun", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who was the god of chaos and storms often depicted as an animal with a curved snout?",
+                "answerOptions": [
+                    { "answerText": "Geb", "isCorrect": false },
+                    { "answerText": "Set", "isCorrect": true },
+                    { "answerText": "Khnum", "isCorrect": false },
+                    { "answerText": "Ra", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which goddess is known for her role as a mother and nature deity, depicted as a woman with a headdress of cow horns and a sun disk?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Hathor", "isCorrect": true },
+                    { "answerText": "Nut", "isCorrect": false },
+                    { "answerText": "Sekhmet", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which deity is known as the god of the earth, father of snakes, and is depicted lying beneath the sky goddess?",
+                "answerOptions": [
+                    { "answerText": "Set", "isCorrect": false },
+                    { "answerText": "Osiris", "isCorrect": false },
+                    { "answerText": "Geb", "isCorrect": true },
+                    { "answerText": "Anubis", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god is depicted as a mummified man holding a scepter and ankh, symbolizing his role in the resurrection and the afterlife?",
+                "answerOptions": [
+                    { "answerText": "Ptah", "isCorrect": false },
+                    { "answerText": "Osiris", "isCorrect": true },
+                    { "answerText": "Thoth", "isCorrect": false },
+                    { "answerText": "Ra", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which goddess was primarily worshiped as the protector of the pharaohs and depicted as a lioness or a woman with the head of a lioness?",
+                "answerOptions": [
+                    { "answerText": "Isis", "isCorrect": false },
+                    { "answerText": "Bastet", "isCorrect": false },
+                    { "answerText": "Sekhmet", "isCorrect": true },
+                    { "answerText": "Hathor", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who is the god of embalming and the dead, often depicted with green or black skin to represent rebirth?",
+                "answerOptions": [
+                    { "answerText": "Osiris", "isCorrect": true },
+                    { "answerText": "Anubis", "isCorrect": false },
+                    { "answerText": "Ra", "isCorrect": false },
+                    { "answerText": "Set", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which god was worshiped as the creator of all and often merged with Ra to form Amun-Ra?",
+                "answerOptions": [
+                    { "answerText": "Ptah", "isCorrect": false },
+                    { "answerText": "Amun", "isCorrect": true },
+                    { "answerText": "Osiris", "isCorrect": false },
+                    { "answerText": "Thoth", "isCorrect": false }
+                ]
+            }
+        ],
+    },
+    {
         id: 10,
         name: "NBA",
         questions: [
             {
-                "questionText": "Which team won the NBA Championship in 2010?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2010?",
+                answerOptions: [
                     { "answerText": "Los Angeles Lakers", "isCorrect": true },
                     { "answerText": "Miami Heat", "isCorrect": false },
                     { "answerText": "San Antonio Spurs", "isCorrect": false },
@@ -3854,8 +4640,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2013?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2013?",
+                answerOptions: [
                     { "answerText": "Dallas Mavericks", "isCorrect": false },
                     { "answerText": "Miami Heat", "isCorrect": true },
                     { "answerText": "Golden State Warriors", "isCorrect": false },
@@ -3863,8 +4649,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2016?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2016?",
+                answerOptions: [
                     { "answerText": "Cleveland Cavaliers", "isCorrect": true },
                     { "answerText": "Golden State Warriors", "isCorrect": false },
                     { "answerText": "Houston Rockets", "isCorrect": false },
@@ -3872,8 +4658,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2019?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2019?",
+                answerOptions: [
                     { "answerText": "Milwaukee Bucks", "isCorrect": false },
                     { "answerText": "Toronto Raptors", "isCorrect": true },
                     { "answerText": "Los Angeles Lakers", "isCorrect": false },
@@ -3881,8 +4667,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2020?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2020?",
+                answerOptions: [
                     { "answerText": "Miami Heat", "isCorrect": false },
                     { "answerText": "Golden State Warriors", "isCorrect": false },
                     { "answerText": "Los Angeles Lakers", "isCorrect": true },
@@ -3890,8 +4676,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2023?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2023?",
+                answerOptions: [
 
                     { "answerText": "Phoenix Suns", "isCorrect": false },
                     { "answerText": "Memphis Grizzlies", "isCorrect": false },
@@ -3900,8 +4686,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2011?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2011?",
+                answerOptions: [
                     { "answerText": "Dallas Mavericks", "isCorrect": true },
                     { "answerText": "Miami Heat", "isCorrect": false },
                     { "answerText": "Los Angeles Lakers", "isCorrect": false },
@@ -3909,8 +4695,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2012?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2012?",
+                answerOptions: [
                     { "answerText": "Chicago Bulls", "isCorrect": false },
                     { "answerText": "Miami Heat", "isCorrect": true },
                     { "answerText": "Oklahoma City Thunder", "isCorrect": false },
@@ -3918,8 +4704,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2014?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2014?",
+                answerOptions: [
                     { "answerText": "Miami Heat", "isCorrect": false },
                     { "answerText": "San Antonio Spurs", "isCorrect": true },
                     { "answerText": "Golden State Warriors", "isCorrect": false },
@@ -3927,8 +4713,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2015?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2015?",
+                answerOptions: [
 
                     { "answerText": "Cleveland Cavaliers", "isCorrect": false },
                     { "answerText": "Houston Rockets", "isCorrect": false },
@@ -3937,8 +4723,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2017?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2017?",
+                answerOptions: [
 
                     { "answerText": "Cleveland Cavaliers", "isCorrect": false },
                     { "answerText": "Boston Celtics", "isCorrect": false },
@@ -3947,8 +4733,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2018?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2018?",
+                answerOptions: [
                     { "answerText": "Golden State Warriors", "isCorrect": true },
                     { "answerText": "Cleveland Cavaliers", "isCorrect": false },
                     { "answerText": "Houston Rockets", "isCorrect": false },
@@ -3956,8 +4742,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2021?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2021?",
+                answerOptions: [
                     { "answerText": "Phoenix Suns", "isCorrect": false },
                     { "answerText": "Milwaukee Bucks", "isCorrect": true },
                     { "answerText": "Atlanta Hawks", "isCorrect": false },
@@ -3965,8 +4751,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "Which team won the NBA Championship in 2022?",
-                "answerOptions": [
+                questionText: "Which team won the NBA Championship in 2022?",
+                answerOptions: [
 
                     { "answerText": "Boston Celtics", "isCorrect": false },
                     { "answerText": "Miami Heat", "isCorrect": false },
@@ -3975,8 +4761,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Los Angeles Lakers won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Los Angeles Lakers won?",
+                answerOptions: [
                     { "answerText": "17", "isCorrect": true },
                     { "answerText": "16", "isCorrect": false },
                     { "answerText": "18", "isCorrect": false },
@@ -3984,8 +4770,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Boston Celtics won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Boston Celtics won?",
+                answerOptions: [
 
                     { "answerText": "16", "isCorrect": false },
                     { "answerText": "17", "isCorrect": true },
@@ -3994,8 +4780,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Golden State Warriors won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Golden State Warriors won?",
+                answerOptions: [
 
                     { "answerText": "6", "isCorrect": false },
                     { "answerText": "5", "isCorrect": false },
@@ -4004,8 +4790,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the San Antonio Spurs won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the San Antonio Spurs won?",
+                answerOptions: [
                     { "answerText": "5", "isCorrect": true },
                     { "answerText": "4", "isCorrect": false },
                     { "answerText": "6", "isCorrect": false },
@@ -4013,8 +4799,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Philadelphia 76ers won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Philadelphia 76ers won?",
+                answerOptions: [
                     { "answerText": "2", "isCorrect": false },
                     { "answerText": "3", "isCorrect": true },
                     { "answerText": "4", "isCorrect": false },
@@ -4022,8 +4808,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Miami Heat won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Miami Heat won?",
+                answerOptions: [
 
                     { "answerText": "2", "isCorrect": false },
                     { "answerText": "4", "isCorrect": false },
@@ -4032,8 +4818,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the New York Knicks won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the New York Knicks won?",
+                answerOptions: [
 
                     { "answerText": "1", "isCorrect": false },
                     { "answerText": "2", "isCorrect": true },
@@ -4042,8 +4828,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships have the Milwaukee Bucks won?",
-                "answerOptions": [
+                questionText: "How many NBA championships have the Milwaukee Bucks won?",
+                answerOptions: [
                     { "answerText": "1", "isCorrect": false },
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "2", "isCorrect": true },
@@ -4051,8 +4837,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Michael Jordan won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Michael Jordan won?",
+                answerOptions: [
                     { "answerText": "5", "isCorrect": false },
                     { "answerText": "7", "isCorrect": false },
                     { "answerText": "4", "isCorrect": false },
@@ -4060,8 +4846,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has LeBron James won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has LeBron James won?",
+                answerOptions: [
 
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "5", "isCorrect": false },
@@ -4070,8 +4856,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Bill Russell won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Bill Russell won?",
+                answerOptions: [
                     { "answerText": "11", "isCorrect": true },
                     { "answerText": "10", "isCorrect": false },
                     { "answerText": "12", "isCorrect": false },
@@ -4079,8 +4865,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Michael Jordan won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Michael Jordan won?",
+                answerOptions: [
                     { "answerText": "5", "isCorrect": false },
                     { "answerText": "7", "isCorrect": false },
                     { "answerText": "6", "isCorrect": true },
@@ -4088,8 +4874,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has LeBron James won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has LeBron James won?",
+                answerOptions: [
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "4", "isCorrect": true },
                     { "answerText": "5", "isCorrect": false },
@@ -4097,8 +4883,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Bill Russell won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Bill Russell won?",
+                answerOptions: [
                     { "answerText": "10", "isCorrect": false },
                     { "answerText": "11", "isCorrect": true },
                     { "answerText": "12", "isCorrect": false },
@@ -4106,8 +4892,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Kareem Abdul-Jabbar won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Kareem Abdul-Jabbar won?",
+                answerOptions: [
 
                     { "answerText": "5", "isCorrect": false },
                     { "answerText": "4", "isCorrect": false },
@@ -4116,8 +4902,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Magic Johnson won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Magic Johnson won?",
+                answerOptions: [
 
                     { "answerText": "4", "isCorrect": false },
                     { "answerText": "5", "isCorrect": true },
@@ -4126,8 +4912,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Tim Duncan won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Tim Duncan won?",
+                answerOptions: [
                     { "answerText": "4", "isCorrect": false },
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "6", "isCorrect": false },
@@ -4135,8 +4921,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Kobe Bryant won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Kobe Bryant won?",
+                answerOptions: [
 
                     { "answerText": "6", "isCorrect": false },
                     { "answerText": "4", "isCorrect": false },
@@ -4145,8 +4931,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Shaquille O'Neal won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Shaquille O'Neal won?",
+                answerOptions: [
 
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "4", "isCorrect": true },
@@ -4155,8 +4941,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Stephen Curry won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Stephen Curry won?",
+                answerOptions: [
                     { "answerText": "3", "isCorrect": false },
                     { "answerText": "5", "isCorrect": false },
                     { "answerText": "2", "isCorrect": false },
@@ -4164,8 +4950,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Larry Bird won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Larry Bird won?",
+                answerOptions: [
 
                     { "answerText": "2", "isCorrect": false },
                     { "answerText": "4", "isCorrect": false },
@@ -4174,8 +4960,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Dwyane Wade won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Dwyane Wade won?",
+                answerOptions: [
 
                     { "answerText": "2", "isCorrect": false },
                     { "answerText": "3", "isCorrect": true },
@@ -4184,8 +4970,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Dirk Nowitzki won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Dirk Nowitzki won?",
+                answerOptions: [
 
                     { "answerText": "2", "isCorrect": false },
                     { "answerText": "1", "isCorrect": true },
@@ -4194,8 +4980,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "How many NBA championships has Kevin Durant won?",
-                "answerOptions": [
+                questionText: "How many NBA championships has Kevin Durant won?",
+                answerOptions: [
 
                     { "answerText": "1", "isCorrect": false },
                     { "answerText": "2", "isCorrect": true },
@@ -4204,8 +4990,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What was Michael Jordan's primary jersey number with the Chicago Bulls?",
-                "answerOptions": [
+                questionText: "What was Michael Jordan's primary jersey number with the Chicago Bulls?",
+                answerOptions: [
                     { "answerText": "23", "isCorrect": true },
                     { "answerText": "45", "isCorrect": false },
                     { "answerText": "12", "isCorrect": false },
@@ -4213,8 +4999,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did LeBron James wear with the Miami Heat?",
-                "answerOptions": [
+                questionText: "What jersey number did LeBron James wear with the Miami Heat?",
+                answerOptions: [
                     { "answerText": "6", "isCorrect": true },
                     { "answerText": "23", "isCorrect": false },
                     { "answerText": "32", "isCorrect": false },
@@ -4222,8 +5008,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number was Bill Russell known for with the Boston Celtics?",
-                "answerOptions": [
+                questionText: "What jersey number was Bill Russell known for with the Boston Celtics?",
+                answerOptions: [
                     { "answerText": "6", "isCorrect": true },
                     { "answerText": "33", "isCorrect": false },
                     { "answerText": "11", "isCorrect": false },
@@ -4231,8 +5017,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Kareem Abdul-Jabbar wear with the Los Angeles Lakers?",
-                "answerOptions": [
+                questionText: "What jersey number did Kareem Abdul-Jabbar wear with the Los Angeles Lakers?",
+                answerOptions: [
                     { "answerText": "33", "isCorrect": true },
                     { "answerText": "32", "isCorrect": false },
                     { "answerText": "34", "isCorrect": false },
@@ -4240,8 +5026,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Magic Johnson wear throughout his career with the Los Angeles Lakers?",
-                "answerOptions": [
+                questionText: "What jersey number did Magic Johnson wear throughout his career with the Los Angeles Lakers?",
+                answerOptions: [
                     { "answerText": "32", "isCorrect": true },
                     { "answerText": "33", "isCorrect": false },
                     { "answerText": "23", "isCorrect": false },
@@ -4249,8 +5035,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What was Tim Duncan's jersey number with the San Antonio Spurs?",
-                "answerOptions": [
+                questionText: "What was Tim Duncan's jersey number with the San Antonio Spurs?",
+                answerOptions: [
                     { "answerText": "21", "isCorrect": true },
                     { "answerText": "20", "isCorrect": false },
                     { "answerText": "50", "isCorrect": false },
@@ -4258,8 +5044,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Kobe Bryant wear during the latter part of his career?",
-                "answerOptions": [
+                questionText: "What jersey number did Kobe Bryant wear during the latter part of his career?",
+                answerOptions: [
                     { "answerText": "24", "isCorrect": true },
                     { "answerText": "8", "isCorrect": false },
                     { "answerText": "23", "isCorrect": false },
@@ -4267,8 +5053,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Shaquille O'Neal wear with the Los Angeles Lakers?",
-                "answerOptions": [
+                questionText: "What jersey number did Shaquille O'Neal wear with the Los Angeles Lakers?",
+                answerOptions: [
                     { "answerText": "34", "isCorrect": true },
                     { "answerText": "32", "isCorrect": false },
                     { "answerText": "36", "isCorrect": false },
@@ -4276,8 +5062,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number has Stephen Curry worn with the Golden State Warriors?",
-                "answerOptions": [
+                questionText: "What jersey number has Stephen Curry worn with the Golden State Warriors?",
+                answerOptions: [
                     { "answerText": "30", "isCorrect": true },
                     { "answerText": "11", "isCorrect": false },
                     { "answerText": "23", "isCorrect": false },
@@ -4285,8 +5071,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Larry Bird wear with the Boston Celtics?",
-                "answerOptions": [
+                questionText: "What jersey number did Larry Bird wear with the Boston Celtics?",
+                answerOptions: [
                     { "answerText": "33", "isCorrect": true },
                     { "answerText": "32", "isCorrect": false },
                     { "answerText": "34", "isCorrect": false },
@@ -4294,8 +5080,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Dwyane Wade primarily wear with the Miami Heat?",
-                "answerOptions": [
+                questionText: "What jersey number did Dwyane Wade primarily wear with the Miami Heat?",
+                answerOptions: [
                     { "answerText": "3", "isCorrect": true },
                     { "answerText": "1", "isCorrect": false },
                     { "answerText": "6", "isCorrect": false },
@@ -4303,8 +5089,8 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What was Dirk Nowitzki's jersey number with the Dallas Mavericks?",
-                "answerOptions": [
+                questionText: "What was Dirk Nowitzki's jersey number with the Dallas Mavericks?",
+                answerOptions: [
                     { "answerText": "41", "isCorrect": true },
                     { "answerText": "40", "isCorrect": false },
                     { "answerText": "21", "isCorrect": false },
@@ -4312,12 +5098,1529 @@ export const categories = [
                 ]
             },
             {
-                "questionText": "What jersey number did Kevin Durant wear with the Golden State Warriors?",
-                "answerOptions": [
+                questionText: "What jersey number did Kevin Durant wear with the Golden State Warriors?",
+                answerOptions: [
                     { "answerText": "35", "isCorrect": true },
                     { "answerText": "30", "isCorrect": false },
                     { "answerText": "11", "isCorrect": false },
                     { "answerText": "7", "isCorrect": false }
+                ]
+            }
+        ],
+    },
+    {
+        id: 11,
+        name: "Geography",
+        questions: [
+            {
+                questionText: "What is the capital of Australia?",
+                answerOptions: [
+                    { "answerText": "Sydney", "isCorrect": false },
+                    { "answerText": "Melbourne", "isCorrect": false },
+                    { "answerText": "Canberra", "isCorrect": true },
+                    { "answerText": "Brisbane", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Canada?",
+                answerOptions: [
+                    { "answerText": "Toronto", "isCorrect": false },
+                    { "answerText": "Montreal", "isCorrect": false },
+                    { "answerText": "Ottawa", "isCorrect": true },
+                    { "answerText": "Vancouver", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of China?",
+                answerOptions: [
+                    { "answerText": "Shanghai", "isCorrect": false },
+                    { "answerText": "Beijing", "isCorrect": true },
+                    { "answerText": "Guangzhou", "isCorrect": false },
+                    { "answerText": "Shenzhen", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of France?",
+                answerOptions: [
+                    { "answerText": "Marseille", "isCorrect": false },
+                    { "answerText": "Lyon", "isCorrect": false },
+                    { "answerText": "Paris", "isCorrect": true },
+                    { "answerText": "Toulouse", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Germany?",
+                answerOptions: [
+                    { "answerText": "Munich", "isCorrect": false },
+                    { "answerText": "Hamburg", "isCorrect": false },
+                    { "answerText": "Berlin", "isCorrect": true },
+                    { "answerText": "Cologne", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of India?",
+                answerOptions: [
+                    { "answerText": "Mumbai", "isCorrect": false },
+                    { "answerText": "New Delhi", "isCorrect": true },
+                    { "answerText": "Bangalore", "isCorrect": false },
+                    { "answerText": "Hyderabad", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Germany?",
+                answerOptions: [
+                    { "answerText": "Berlin", "isCorrect": true },
+                    { "answerText": "Munich", "isCorrect": false },
+                    { "answerText": "Frankfurt", "isCorrect": false },
+                    { "answerText": "Hamburg", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of France?",
+                answerOptions: [
+                    { "answerText": "Paris", "isCorrect": true },
+                    { "answerText": "Lyon", "isCorrect": false },
+                    { "answerText": "Marseille", "isCorrect": false },
+                    { "answerText": "Nice", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Italy?",
+                answerOptions: [
+                    { "answerText": "Rome", "isCorrect": true },
+                    { "answerText": "Milan", "isCorrect": false },
+                    { "answerText": "Naples", "isCorrect": false },
+                    { "answerText": "Venice", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Spain?",
+                answerOptions: [
+                    { "answerText": "Madrid", "isCorrect": true },
+                    { "answerText": "Barcelona", "isCorrect": false },
+                    { "answerText": "Valencia", "isCorrect": false },
+                    { "answerText": "Seville", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of the United Kingdom?",
+                answerOptions: [
+                    { "answerText": "London", "isCorrect": true },
+                    { "answerText": "Manchester", "isCorrect": false },
+                    { "answerText": "Birmingham", "isCorrect": false },
+                    { "answerText": "Liverpool", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of the United States?",
+                answerOptions: [
+                    { "answerText": "New York City", "isCorrect": false },
+                    { "answerText": "Los Angeles", "isCorrect": false },
+                    { "answerText": "Washington, D.C.", "isCorrect": true },
+                    { "answerText": "Chicago", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Russia?",
+                answerOptions: [
+                    { "answerText": "Moscow", "isCorrect": true },
+                    { "answerText": "Saint Petersburg", "isCorrect": false },
+                    { "answerText": "Novosibirsk", "isCorrect": false },
+                    { "answerText": "Yekaterinburg", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Brazil?",
+                answerOptions: [
+                    { "answerText": "São Paulo", "isCorrect": false },
+                    { "answerText": "Rio de Janeiro", "isCorrect": false },
+                    { "answerText": "Brasília", "isCorrect": true },
+                    { "answerText": "Salvador", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mexico?",
+                answerOptions: [
+                    { "answerText": "Mexico City", "isCorrect": true },
+                    { "answerText": "Guadalajara", "isCorrect": false },
+                    { "answerText": "Monterrey", "isCorrect": false },
+                    { "answerText": "Puebla", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Argentina?",
+                answerOptions: [
+                    { "answerText": "Buenos Aires", "isCorrect": true},
+                    { "answerText": "Córdoba", "isCorrect": false },
+                    { "answerText": "Rosario", "isCorrect": false },
+                    { "answerText": "Mendoza", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of South Africa?",
+                answerOptions: [
+                    { "answerText": "Johannesburg", "isCorrect": false },
+                    { "answerText": "Cape Town", "isCorrect": false },
+                    { "answerText": "Durban", "isCorrect": false },
+                    { "answerText": "Pretoria", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Nigeria?",
+                answerOptions: [
+                    { "answerText": "Lagos", "isCorrect": false },
+                    { "answerText": "Kano", "isCorrect": false },
+                    { "answerText": "Ibadan", "isCorrect": false },
+                    { "answerText": "Abuja", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Egypt?",
+                answerOptions: [
+                    { "answerText": "Cairo", "isCorrect": true },
+                    { "answerText": "Alexandria", "isCorrect": false },
+                    { "answerText": "Giza", "isCorrect": false },
+                    { "answerText": "Luxor", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Kenya?",
+                answerOptions: [
+                    { "answerText": "Nairobi", "isCorrect": true },
+                    { "answerText": "Mombasa", "isCorrect": false },
+                    { "answerText": "Kisumu", "isCorrect": false },
+                    { "answerText": "Nakuru", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Morocco?",
+                answerOptions: [
+                    { "answerText": "Casablanca", "isCorrect": false },
+                    { "answerText": "Rabat", "isCorrect": true },
+                    { "answerText": "Marrakesh", "isCorrect": false },
+                    { "answerText": "Fez", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of South Korea?",
+                answerOptions: [
+                    { "answerText": "Seoul", "isCorrect": true },
+                    { "answerText": "Busan", "isCorrect": false },
+                    { "answerText": "Incheon", "isCorrect": false },
+                    { "answerText": "Daegu", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Japan?",
+                answerOptions: [
+                    { "answerText": "Tokyo", "isCorrect": true },
+                    { "answerText": "Osaka", "isCorrect": false },
+                    { "answerText": "Kyoto", "isCorrect": false },
+                    { "answerText": "Yokohama", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Thailand?",
+                answerOptions: [
+                    { "answerText": "Bangkok", "isCorrect": true },
+                    { "answerText": "Chiang Mai", "isCorrect": false },
+                    { "answerText": "Pattaya", "isCorrect": false },
+                    { "answerText": "Phuket", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Turkey?",
+                answerOptions: [
+                    { "answerText": "Istanbul", "isCorrect": false },
+                    { "answerText": "Ankara", "isCorrect": true },
+                    { "answerText": "Izmir", "isCorrect": false },
+                    { "answerText": "Antalya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Saudi Arabia?",
+                answerOptions: [
+                    { "answerText": "Riyadh", "isCorrect": true },
+                    { "answerText": "Jeddah", "isCorrect": false },
+                    { "answerText": "Mecca", "isCorrect": false },
+                    { "answerText": "Medina", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Iran?",
+                answerOptions: [
+                    { "answerText": "Tehran", "isCorrect": true },
+                    { "answerText": "Isfahan", "isCorrect": false },
+                    { "answerText": "Shiraz", "isCorrect": false },
+                    { "answerText": "Tabriz", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Iraq?",
+                answerOptions: [
+                    { "answerText": "Basra", "isCorrect": false },
+                    { "answerText": "Baghdad", "isCorrect": true },
+                    { "answerText": "Erbil", "isCorrect": false },
+                    { "answerText": "Mosul", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Austria?",
+                answerOptions: [
+                    { "answerText": "Graz", "isCorrect": false },
+                    { "answerText": "Linz", "isCorrect": false },
+                    { "answerText": "Vienna", "isCorrect": true },
+                    { "answerText": "Salzburg", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Belgium?",
+                answerOptions: [
+
+                    { "answerText": "Antwerp", "isCorrect": false },
+                    { "answerText": "Ghent", "isCorrect": false },
+                    { "answerText": "Bruges", "isCorrect": false },
+                    { "answerText": "Brussels", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Portugal?",
+                answerOptions: [
+
+                    { "answerText": "Porto", "isCorrect": false },
+                    { "answerText": "Lisbon", "isCorrect": true },
+                    { "answerText": "Braga", "isCorrect": false },
+                    { "answerText": "Faro", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Sweden?",
+                answerOptions: [
+                    { "answerText": "Stockholm", "isCorrect": true },
+                    { "answerText": "Gothenburg", "isCorrect": false },
+                    { "answerText": "Malmö", "isCorrect": false },
+                    { "answerText": "Uppsala", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Denmark?",
+                answerOptions: [
+
+                    { "answerText": "Aarhus", "isCorrect": false },
+                    { "answerText": "Odense", "isCorrect": false },
+                    { "answerText": "Copenhagen", "isCorrect": true },
+                    { "answerText": "Aalborg", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Greece?",
+                answerOptions: [
+
+                    { "answerText": "Thessaloniki", "isCorrect": false },
+                    { "answerText": "Patras", "isCorrect": false },
+                    { "answerText": "Athens", "isCorrect": true },
+                    { "answerText": "Heraklion", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Switzerland?",
+                answerOptions: [
+
+                    { "answerText": "Zurich", "isCorrect": false },
+                    { "answerText": "Geneva", "isCorrect": false },
+                    { "answerText": "Lucerne", "isCorrect": false },
+                    { "answerText": "Bern", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Norway?",
+                answerOptions: [
+
+                    { "answerText": "Bergen", "isCorrect": false },
+                    { "answerText": "Oslo", "isCorrect": true },
+                    { "answerText": "Trondheim", "isCorrect": false },
+                    { "answerText": "Stavanger", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Finland?",
+                answerOptions: [
+
+                    { "answerText": "Espoo", "isCorrect": false },
+                    { "answerText": "Tampere", "isCorrect": false },
+                    { "answerText": "Turku", "isCorrect": false },
+                    { "answerText": "Helsinki", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Netherlands?",
+                answerOptions: [
+
+                    { "answerText": "Rotterdam", "isCorrect": false },
+                    { "answerText": "The Hague", "isCorrect": false },
+                    { "answerText": "Utrecht", "isCorrect": false },
+                    { "answerText": "Amsterdam", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ireland?",
+                answerOptions: [
+
+                    { "answerText": "Cork", "isCorrect": false },
+                    { "answerText": "Dublin", "isCorrect": true },
+                    { "answerText": "Limerick", "isCorrect": false },
+                    { "answerText": "Galway", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Poland?",
+                answerOptions: [
+
+                    { "answerText": "Kraków", "isCorrect": false },
+                    { "answerText": "Łódź", "isCorrect": false },
+                    { "answerText": "Warsaw", "isCorrect": true },
+                    { "answerText": "Wrocław", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Hungary?",
+                answerOptions: [
+
+                    { "answerText": "Debrecen", "isCorrect": false },
+                    { "answerText": "Budapest", "isCorrect": true },
+                    { "answerText": "Szeged", "isCorrect": false },
+                    { "answerText": "Miskolc", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ukraine?",
+                answerOptions: [
+
+                    { "answerText": "Kharkiv", "isCorrect": false },
+                    { "answerText": "Odessa", "isCorrect": false },
+                    { "answerText": "Lviv", "isCorrect": false },
+                    { "answerText": "Kyiv", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Romania?",
+                answerOptions: [
+                    { "answerText": "Bucharest", "isCorrect": true },
+                    { "answerText": "Cluj-Napoca", "isCorrect": false },
+                    { "answerText": "Timișoara", "isCorrect": false },
+                    { "answerText": "Iași", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Bulgaria?",
+                answerOptions: [
+
+                    { "answerText": "Plovdiv", "isCorrect": false },
+                    { "answerText": "Sofia", "isCorrect": true },
+                    { "answerText": "Varna", "isCorrect": false },
+                    { "answerText": "Burgas", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Serbia?",
+                answerOptions: [
+
+                    { "answerText": "Novi Sad", "isCorrect": false },
+                    { "answerText": "Niš", "isCorrect": false },
+                    { "answerText": "Belgrade", "isCorrect": true },
+                    { "answerText": "Kragujevac", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Croatia?",
+                answerOptions: [
+
+                    { "answerText": "Split", "isCorrect": false },
+                    { "answerText": "Rijeka", "isCorrect": false },
+                    { "answerText": "Dubrovnik", "isCorrect": false },
+                    { "answerText": "Zagreb", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Bosnia and Herzegovina?",
+                answerOptions: [
+
+                    { "answerText": "Banja Luka", "isCorrect": false },
+                    { "answerText": "Mostar", "isCorrect": false },
+                    { "answerText": "Tuzla", "isCorrect": false },
+                    { "answerText": "Sarajevo", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Slovakia?",
+                answerOptions: [
+
+                    { "answerText": "Košice", "isCorrect": false },
+                    { "answerText": "Bratislava", "isCorrect": true },
+                    { "answerText": "Prešov", "isCorrect": false },
+                    { "answerText": "Žilina", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of the Czech Republic?",
+                answerOptions: [
+
+                    { "answerText": "Brno", "isCorrect": false },
+                    { "answerText": "Ostrava", "isCorrect": false },
+                    { "answerText": "Prague", "isCorrect": true },
+                    { "answerText": "Plzeň", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Slovenia?",
+                answerOptions: [
+
+                    { "answerText": "Maribor", "isCorrect": false },
+                    { "answerText": "Kranj", "isCorrect": false },
+                    { "answerText": "Celje", "isCorrect": false },
+                    { "answerText": "Ljubljana", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Latvia?",
+                answerOptions: [
+                    { "answerText": "Riga", "isCorrect": true },
+                    { "answerText": "Daugavpils", "isCorrect": false },
+                    { "answerText": "Liepāja", "isCorrect": false },
+                    { "answerText": "Jelgava", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Lithuania?",
+                answerOptions: [
+                    { "answerText": "Vilnius", "isCorrect": true },
+                    { "answerText": "Kaunas", "isCorrect": false },
+                    { "answerText": "Klaipėda", "isCorrect": false },
+                    { "answerText": "Šiauliai", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Estonia?",
+                answerOptions: [
+
+                    { "answerText": "Tartu", "isCorrect": false },
+                    { "answerText": "Pärnu", "isCorrect": false },
+                    { "answerText": "Tallinn", "isCorrect": true },
+                    { "answerText": "Narva", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Belarus?",
+                answerOptions: [
+
+                    { "answerText": "Gomel", "isCorrect": false },
+                    { "answerText": "Minsk", "isCorrect": true },
+                    { "answerText": "Mogilev", "isCorrect": false },
+                    { "answerText": "Vitebsk", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Moldova?",
+                answerOptions: [
+
+                    { "answerText": "Bălți", "isCorrect": false },
+                    { "answerText": "Tiraspol", "isCorrect": false },
+                    { "answerText": "Bender", "isCorrect": false },
+                    { "answerText": "Chișinău", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Albania?",
+                answerOptions: [
+                    { "answerText": "Tirana", "isCorrect": true },
+                    { "answerText": "Durrës", "isCorrect": false },
+                    { "answerText": "Vlorë", "isCorrect": false },
+                    { "answerText": "Shkodër", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of North Macedonia?",
+                answerOptions: [
+
+                    { "answerText": "Bitola", "isCorrect": false },
+                    { "answerText": "Skopje", "isCorrect": true },
+                    { "answerText": "Kumanovo", "isCorrect": false },
+                    { "answerText": "Prilep", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Kosovo?",
+                answerOptions: [
+
+                    { "answerText": "Prizren", "isCorrect": false },
+                    { "answerText": "Peja", "isCorrect": false },
+                    { "answerText": "Pristina", "isCorrect": true },
+                    { "answerText": "Gjakova", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Montenegro?",
+                answerOptions: [
+
+                    { "answerText": "Nikšić", "isCorrect": false },
+                    { "answerText": "Budva", "isCorrect": false },
+                    { "answerText": "Bar", "isCorrect": false },
+                    { "answerText": "Podgorica", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Cyprus?",
+                answerOptions: [
+
+                    { "answerText": "Limassol", "isCorrect": false },
+                    { "answerText": "Nicosia", "isCorrect": true },
+                    { "answerText": "Larnaca", "isCorrect": false },
+                    { "answerText": "Paphos", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Malta?",
+                answerOptions: [
+
+                    { "answerText": "Sliema", "isCorrect": false },
+                    { "answerText": "Mdina", "isCorrect": false },
+                    { "answerText": "Valletta", "isCorrect": true },
+                    { "answerText": "Rabat", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Andorra?",
+                answerOptions: [
+
+                    { "answerText": "Escaldes-Engordany", "isCorrect": false },
+                    { "answerText": "Andorra la Vella", "isCorrect": true },
+                    { "answerText": "Encamp", "isCorrect": false },
+                    { "answerText": "Sant Julià de Lòria", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Monaco?",
+                answerOptions: [
+
+                    { "answerText": "Monte Carlo", "isCorrect": false },
+                    { "answerText": "La Condamine", "isCorrect": false },
+                    { "answerText": "Monaco", "isCorrect": true },
+                    { "answerText": "Fontvieille", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of San Marino?",
+                answerOptions: [
+
+                    { "answerText": "Serravalle", "isCorrect": false },
+                    { "answerText": "Borgo Maggiore", "isCorrect": false },
+                    { "answerText": "Domagnano", "isCorrect": false },
+                    { "answerText": "San Marino", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Liechtenstein?",
+                answerOptions: [
+
+                    { "answerText": "Schaan", "isCorrect": false },
+                    { "answerText": "Balzers", "isCorrect": false },
+                    { "answerText": "Triesen", "isCorrect": false },
+                    { "answerText": "Vaduz", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Luxembourg?",
+                answerOptions: [
+
+                    { "answerText": "Esch-sur-Alzette", "isCorrect": false },
+                    { "answerText": "Luxembourg", "isCorrect": true },
+                    { "answerText": "Dudelange", "isCorrect": false },
+                    { "answerText": "Schifflange", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Iceland?",
+                answerOptions: [
+
+                    { "answerText": "Akureyri", "isCorrect": false },
+                    { "answerText": "Keflavík", "isCorrect": false },
+                    { "answerText": "Reykjavík", "isCorrect": true },
+                    { "answerText": "Hafnarfjörður", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Russia?",
+                answerOptions: [
+                    { "answerText": "Moscow", "isCorrect": true },
+                    { "answerText": "Saint Petersburg", "isCorrect": false },
+                    { "answerText": "Novosibirsk", "isCorrect": false },
+                    { "answerText": "Yekaterinburg", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Armenia?",
+                answerOptions: [
+                    { "answerText": "Yerevan", "isCorrect": true },
+                    { "answerText": "Gyumri", "isCorrect": false },
+                    { "answerText": "Vanadzor", "isCorrect": false },
+                    { "answerText": "Hrazdan", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Georgia?",
+                answerOptions: [
+
+                    { "answerText": "Kutaisi", "isCorrect": false },
+                    { "answerText": "Batumi", "isCorrect": false },
+                    { "answerText": "Rustavi", "isCorrect": false },
+                    { "answerText": "Tbilisi", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Azerbaijan?",
+                answerOptions: [
+
+                    { "answerText": "Ganja", "isCorrect": false },
+                    { "answerText": "Sumqayit", "isCorrect": false },
+                    { "answerText": "Mingachevir", "isCorrect": false },
+                    { "answerText": "Baku", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Brazil?",
+                answerOptions: [
+
+                    { "answerText": "Rio de Janeiro", "isCorrect": false },
+                    { "answerText": "São Paulo", "isCorrect": false },
+                    { "answerText": "Brasília", "isCorrect": true },
+                    { "answerText": "Salvador", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mexico?",
+                answerOptions: [
+
+                    { "answerText": "Guadalajara", "isCorrect": false },
+                    { "answerText": "Monterrey", "isCorrect": false },
+                    { "answerText": "Puebla", "isCorrect": false },
+                    { "answerText": "Mexico City", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Argentina?",
+                answerOptions: [
+
+                    { "answerText": "Córdoba", "isCorrect": false },
+                    { "answerText": "Buenos Aires", "isCorrect": true },
+                    { "answerText": "Rosario", "isCorrect": false },
+                    { "answerText": "Mendoza", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Chile?",
+                answerOptions: [
+
+                    { "answerText": "Valparaíso", "isCorrect": false },
+                    { "answerText": "Concepción", "isCorrect": false },
+                    { "answerText": "Antofagasta", "isCorrect": false },
+                    { "answerText": "Santiago", "isCorrect": true },
+                ]
+            },
+            {
+                questionText: "What is the capital of Colombia?",
+                answerOptions: [
+
+                    { "answerText": "Medellín", "isCorrect": false },
+                    { "answerText": "Cali", "isCorrect": false },
+                    { "answerText": "Bogotá", "isCorrect": true },
+                    { "answerText": "Barranquilla", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Peru?",
+                answerOptions: [
+
+                    { "answerText": "Cusco", "isCorrect": false },
+                    { "answerText": "Arequipa", "isCorrect": false },
+                    { "answerText": "Trujillo", "isCorrect": false },
+                    { "answerText": "Lima", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "What is the capital of Venezuela?",
+                answerOptions: [
+
+                    { "answerText": "Maracaibo", "isCorrect": false },
+                    { "answerText": "Valencia", "isCorrect": false },
+                    { "answerText": "Caracas", "isCorrect": true },
+                    { "answerText": "Barquisimeto", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ecuador?",
+                answerOptions: [
+
+                    { "answerText": "Guayaquil", "isCorrect": false },
+                    { "answerText": "Quito", "isCorrect": true },
+                    { "answerText": "Cuenca", "isCorrect": false },
+                    { "answerText": "Santo Domingo", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Bolivia?",
+                answerOptions: [
+
+                    { "answerText": "La Paz", "isCorrect": false },
+                    { "answerText": "Santa Cruz", "isCorrect": false },
+                    { "answerText": "Sucre", "isCorrect": true },
+                    { "answerText": "Cochabamba", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Uruguay?",
+                answerOptions: [
+                    { "answerText": "Montevideo", "isCorrect": true },
+                    { "answerText": "Salto", "isCorrect": false },
+                    { "answerText": "Paysandú", "isCorrect": false },
+                    { "answerText": "Rivera", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city is the Eiffel Tower located?",
+                answerOptions: [
+                    { "answerText": "Marseille", "isCorrect": false },
+                    { "answerText": "Paris", "isCorrect": true },
+                    { "answerText": "Lyon", "isCorrect": false },
+                    { "answerText": "Bordeaux", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city can you visit the Statue of Liberty?",
+                answerOptions: [
+                    { "answerText": "Boston", "isCorrect": false },
+                    { "answerText": "Philadelphia", "isCorrect": false },
+                    { "answerText": "New York City", "isCorrect": true },
+                    { "answerText": "Washington D.C.", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Where is the Colosseum located?",
+                answerOptions: [
+                    { "answerText": "Florence", "isCorrect": false },
+                    { "answerText": "Milan", "isCorrect": false },
+                    { "answerText": "Naples", "isCorrect": false },
+                    { "answerText": "Rome", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "Which city is home to the Sydney Opera House?",
+                answerOptions: [
+                    { "answerText": "Perth", "isCorrect": false },
+                    { "answerText": "Sydney", "isCorrect": true },
+                    { "answerText": "Brisbane", "isCorrect": false },
+                    { "answerText": "Melbourne", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city is the Taj Mahal located?",
+                answerOptions: [
+                    { "answerText": "Mumbai", "isCorrect": false },
+                    { "answerText": "Jaipur", "isCorrect": false },
+                    { "answerText": "Delhi", "isCorrect": false },
+                    { "answerText": "Agra", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "Where can you find the Great Wall of China?",
+                answerOptions: [
+                    { "answerText": "Xi'an", "isCorrect": false },
+                    { "answerText": "Beijing", "isCorrect": true },
+                    { "answerText": "Shanghai", "isCorrect": false },
+                    { "answerText": "Guangzhou", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Which city is known for the Christ the Redeemer statue?",
+                answerOptions: [
+                    { "answerText": "Brasília", "isCorrect": false },
+                    { "answerText": "São Paulo", "isCorrect": false },
+                    { "answerText": "Rio de Janeiro", "isCorrect": true },
+                    { "answerText": "Salvador", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Where is the Golden Gate Bridge located?",
+                answerOptions: [
+                    { "answerText": "San Diego", "isCorrect": false },
+                    { "answerText": "Los Angeles", "isCorrect": false },
+                    { "answerText": "San Francisco", "isCorrect": true },
+                    { "answerText": "Seattle", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city can you visit the Acropolis?",
+                answerOptions: [
+                    { "answerText": "Thessaloniki", "isCorrect": false },
+                    { "answerText": "Athens", "isCorrect": true },
+                    { "answerText": "Patras", "isCorrect": false },
+                    { "answerText": "Heraklion", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Which city features the Burj Khalifa?",
+                answerOptions: [
+                    { "answerText": "Abu Dhabi", "isCorrect": false },
+                    { "answerText": "Doha", "isCorrect": false },
+                    { "answerText": "Dubai", "isCorrect": true },
+                    { "answerText": "Riyadh", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Where is the Tower Bridge located?",
+                answerOptions: [
+                    { "answerText": "Liverpool", "isCorrect": false },
+                    { "answerText": "Manchester", "isCorrect": false },
+                    { "answerText": "London", "isCorrect": true },
+                    { "answerText": "Bristol", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city is the Kremlin located?",
+                answerOptions: [
+                    { "answerText": "Saint Petersburg", "isCorrect": false },
+                    { "answerText": "Yekaterinburg", "isCorrect": false },
+                    { "answerText": "Moscow", "isCorrect": true },
+                    { "answerText": "Novosibirsk", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Which city is home to the Imperial Palace?",
+                answerOptions: [
+                    { "answerText": "Osaka", "isCorrect": false },
+                    { "answerText": "Tokyo", "isCorrect": true },
+                    { "answerText": "Nagoya", "isCorrect": false },
+                    { "answerText": "Kyoto", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Where can you visit the Table Mountain?",
+                answerOptions: [
+                    { "answerText": "Pretoria", "isCorrect": false },
+                    { "answerText": "Durban", "isCorrect": false },
+                    { "answerText": "Johannesburg", "isCorrect": false },
+                    { "answerText": "Cape Town", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "In which city is the Sagrada Familia located?",
+                answerOptions: [
+                    { "answerText": "Valencia", "isCorrect": false },
+                    { "answerText": "Madrid", "isCorrect": false },
+                    { "answerText": "Seville", "isCorrect": false },
+                    { "answerText": "Barcelona", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "Which city features the Blue Mosque?",
+                answerOptions: [
+                    { "answerText": "Ankara", "isCorrect": false },
+                    { "answerText": "Antalya", "isCorrect": false },
+                    { "answerText": "Izmir", "isCorrect": false },
+                    { "answerText": "Istanbul", "isCorrect": true }
+                ]
+            },
+            {
+                questionText: "Where is the Mount Rushmore National Memorial located?",
+                answerOptions: [
+                    { "answerText": "Wyoming", "isCorrect": false },
+                    { "answerText": "South Dakota", "isCorrect": true },
+                    { "answerText": "North Dakota", "isCorrect": false },
+                    { "answerText": "Montana", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "In which city can you visit the Louvre Museum?",
+                answerOptions: [
+                    { "answerText": "Toulouse", "isCorrect": false },
+                    { "answerText": "Paris", "isCorrect": true },
+                    { "answerText": "Lyon", "isCorrect": false },
+                    { "answerText": "Marseille", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Which city is known for the CN Tower?",
+                answerOptions: [
+                    { "answerText": "Vancouver", "isCorrect": false },
+                    { "answerText": "Toronto", "isCorrect": true },
+                    { "answerText": "Montreal", "isCorrect": false },
+                    { "answerText": "Calgary", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "Where can you find the Angel of Independence?",
+                answerOptions: [
+                    { "answerText": "Puebla", "isCorrect": false },
+                    { "answerText": "Mexico City", "isCorrect": true },
+                    { "answerText": "Guadalajara", "isCorrect": false },
+                    { "answerText": "Monterrey", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Nigeria?",
+                answerOptions: [
+                    { "answerText": "Lagos", "isCorrect": false },
+                    { "answerText": "Abuja", "isCorrect": true },
+                    { "answerText": "Kano", "isCorrect": false },
+                    { "answerText": "Ibadan", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Egypt?",
+                answerOptions: [
+                    { "answerText": "Alexandria", "isCorrect": false },
+                    { "answerText": "Giza", "isCorrect": false },
+                    { "answerText": "Cairo", "isCorrect": true },
+                    { "answerText": "Luxor", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of South Africa?",
+                answerOptions: [
+                    { "answerText": "Johannesburg", "isCorrect": false },
+                    { "answerText": "Pretoria", "isCorrect": true },
+                    { "answerText": "Cape Town", "isCorrect": false },
+                    { "answerText": "Durban", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Kenya?",
+                answerOptions: [
+                    { "answerText": "Mombasa", "isCorrect": false },
+                    { "answerText": "Nairobi", "isCorrect": true },
+                    { "answerText": "Kisumu", "isCorrect": false },
+                    { "answerText": "Nakuru", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ethiopia?",
+                answerOptions: [
+                    { "answerText": "Dire Dawa", "isCorrect": false },
+                    { "answerText": "Mek'ele", "isCorrect": false },
+                    { "answerText": "Addis Ababa", "isCorrect": true },
+                    { "answerText": "Gondar", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Morocco?",
+                answerOptions: [
+                    { "answerText": "Casablanca", "isCorrect": false },
+                    { "answerText": "Marrakesh", "isCorrect": false },
+                    { "answerText": "Rabat", "isCorrect": true },
+                    { "answerText": "Fes", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Angola?",
+                answerOptions: [
+                    { "answerText": "Huambo", "isCorrect": false },
+                    { "answerText": "Lobito", "isCorrect": false },
+                    { "answerText": "Luanda", "isCorrect": true },
+                    { "answerText": "Benguela", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ghana?",
+                answerOptions: [
+                    { "answerText": "Kumasi", "isCorrect": false },
+                    { "answerText": "Tamale", "isCorrect": false },
+                    { "answerText": "Accra", "isCorrect": true },
+                    { "answerText": "Sekondi-Takoradi", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Tunisia?",
+                answerOptions: [
+                    { "answerText": "Sfax", "isCorrect": false },
+                    { "answerText": "Sousse", "isCorrect": false },
+                    { "answerText": "Tunis", "isCorrect": true },
+                    { "answerText": "Ettadhamen", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Uganda?",
+                answerOptions: [
+                    { "answerText": "Entebbe", "isCorrect": false },
+                    { "answerText": "Kampala", "isCorrect": true },
+                    { "answerText": "Jinja", "isCorrect": false },
+                    { "answerText": "Gulu", "isCorrect": false }
+                ]
+            },
+{
+                questionText: "What is the capital of Zambia?",
+                answerOptions: [
+                    { "answerText": "Ndola", "isCorrect": false },
+                    { "answerText": "Kitwe", "isCorrect": false },
+                    { "answerText": "Lusaka", "isCorrect": true },
+                    { "answerText": "Kabwe", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Zimbabwe?",
+                answerOptions: [
+                    { "answerText": "Bulawayo", "isCorrect": false },
+                    { "answerText": "Chitungwiza", "isCorrect": false },
+                    { "answerText": "Harare", "isCorrect": true },
+                    { "answerText": "Mutare", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mozambique?",
+                answerOptions: [
+                    { "answerText": "Nampula", "isCorrect": false },
+                    { "answerText": "Beira", "isCorrect": false },
+                    { "answerText": "Maputo", "isCorrect": true },
+                    { "answerText": "Matola", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Madagascar?",
+                answerOptions: [
+                    { "answerText": "Antananarivo", "isCorrect": true },
+                    { "answerText": "Toamasina", "isCorrect": false },
+                    { "answerText": "Antsirabe", "isCorrect": false },
+                    { "answerText": "Fianarantsoa", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Cameroon?",
+                answerOptions: [
+                    { "answerText": "Douala", "isCorrect": false },
+                    { "answerText": "Yaoundé", "isCorrect": true },
+                    { "answerText": "Bamenda", "isCorrect": false },
+                    { "answerText": "Bafoussam", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Senegal?",
+                answerOptions: [
+                    { "answerText": "Dakar", "isCorrect": true },
+                    { "answerText": "Thiès", "isCorrect": false },
+                    { "answerText": "Pikine", "isCorrect": false },
+                    { "answerText": "Touba", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ivory Coast?",
+                answerOptions: [
+                    { "answerText": "Abidjan", "isCorrect": false },
+                    { "answerText": "Yamoussoukro", "isCorrect": true },
+                    { "answerText": "Bouaké", "isCorrect": false },
+                    { "answerText": "Daloa", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Ghana?",
+                answerOptions: [
+                    { "answerText": "Kumasi", "isCorrect": false },
+                    { "answerText": "Tamale", "isCorrect": false },
+                    { "answerText": "Accra", "isCorrect": true },
+                    { "answerText": "Sekondi-Takoradi", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mali?",
+                answerOptions: [
+                    { "answerText": "Bamako", "isCorrect": true },
+                    { "answerText": "Sikasso", "isCorrect": false },
+                    { "answerText": "Mopti", "isCorrect": false },
+                    { "answerText": "Koutiala", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mauritania?",
+                answerOptions: [
+                    { "answerText": "Nouakchott", "isCorrect": true },
+                    { "answerText": "Nouadhibou", "isCorrect": false },
+                    { "answerText": "Kiffa", "isCorrect": false },
+                    { "answerText": "Kaédi", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Burkina Faso?",
+                answerOptions: [
+                    { "answerText": "Ouagadougou", "isCorrect": true },
+                    { "answerText": "Bobo-Dioulasso", "isCorrect": false },
+                    { "answerText": "Koudougou", "isCorrect": false },
+                    { "answerText": "Ouahigouya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Niger?",
+                answerOptions: [
+                    { "answerText": "Niamey", "isCorrect": true },
+                    { "answerText": "Zinder", "isCorrect": false },
+                    { "answerText": "Maradi", "isCorrect": false },
+                    { "answerText": "Agadez", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Algeria?",
+                answerOptions: [
+                    { "answerText": "Oran", "isCorrect": false },
+                    { "answerText": "Algiers", "isCorrect": true },
+                    { "answerText": "Constantine", "isCorrect": false },
+                    { "answerText": "Annaba", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Libya?",
+                answerOptions: [
+                    { "answerText": "Benghazi", "isCorrect": false },
+                    { "answerText": "Tripoli", "isCorrect": true },
+                    { "answerText": "Misrata", "isCorrect": false },
+                    { "answerText": "Zawiya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Senegal?",
+                answerOptions: [
+                    { "answerText": "Touba", "isCorrect": false },
+                    { "answerText": "Dakar", "isCorrect": true },
+                    { "answerText": "Thiès", "isCorrect": false },
+                    { "answerText": "Kaolack", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Zimbabwe?",
+                answerOptions: [
+                    { "answerText": "Bulawayo", "isCorrect": false },
+                    { "answerText": "Harare", "isCorrect": true },
+                    { "answerText": "Gweru", "isCorrect": false },
+                    { "answerText": "Mutare", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Namibia?",
+                answerOptions: [
+                    { "answerText": "Swakopmund", "isCorrect": false },
+                    { "answerText": "Windhoek", "isCorrect": true },
+                    { "answerText": "Walvis Bay", "isCorrect": false },
+                    { "answerText": "Oshakati", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Zambia?",
+                answerOptions: [
+                    { "answerText": "Ndola", "isCorrect": false },
+                    { "answerText": "Lusaka", "isCorrect": true },
+                    { "answerText": "Kitwe", "isCorrect": false },
+                    { "answerText": "Livingstone", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Madagascar?",
+                answerOptions: [
+                    { "answerText": "Toamasina", "isCorrect": false },
+                    { "answerText": "Antananarivo", "isCorrect": true },
+                    { "answerText": "Fianarantsoa", "isCorrect": false },
+                    { "answerText": "Mahajanga", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Cameroon?",
+                answerOptions: [
+                    { "answerText": "Douala", "isCorrect": false },
+                    { "answerText": "Yaoundé", "isCorrect": true },
+                    { "answerText": "Garoua", "isCorrect": false },
+                    { "answerText": "Bamenda", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Botswana?",
+                answerOptions: [
+                    { "answerText": "Francistown", "isCorrect": false },
+                    { "answerText": "Gaborone", "isCorrect": true },
+                    { "answerText": "Molepolole", "isCorrect": false },
+                    { "answerText": "Maun", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mali?",
+                answerOptions: [
+                    { "answerText": "Timbuktu", "isCorrect": false },
+                    { "answerText": "Bamako", "isCorrect": true },
+                    { "answerText": "Ségou", "isCorrect": false },
+                    { "answerText": "Mopti", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Rwanda?",
+                answerOptions: [
+                    { "answerText": "Butare", "isCorrect": false },
+                    { "answerText": "Kigali", "isCorrect": true },
+                    { "answerText": "Gitarama", "isCorrect": false },
+                    { "answerText": "Ruhengeri", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mozambique?",
+                answerOptions: [
+                    { "answerText": "Nampula", "isCorrect": false },
+                    { "answerText": "Beira", "isCorrect": false },
+                    { "answerText": "Maputo", "isCorrect": true },
+                    { "answerText": "Tete", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Burkina Faso?",
+                answerOptions: [
+                    { "answerText": "Bobo-Dioulasso", "isCorrect": false },
+                    { "answerText": "Ouagadougou", "isCorrect": true },
+                    { "answerText": "Koudougou", "isCorrect": false },
+                    { "answerText": "Ouahigouya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Chad?",
+                answerOptions: [
+                    { "answerText": "Moundou", "isCorrect": false },
+                    { "answerText": "N'Djamena", "isCorrect": true },
+                    { "answerText": "Sarh", "isCorrect": false },
+                    { "answerText": "Abéché", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Niger?",
+                answerOptions: [
+                    { "answerText": "Zinder", "isCorrect": false },
+                    { "answerText": "Niamey", "isCorrect": true },
+                    { "answerText": "Maradi", "isCorrect": false },
+                    { "answerText": "Agadez", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Benin?",
+                answerOptions: [
+                    { "answerText": "Porto-Novo", "isCorrect": true },
+                    { "answerText": "Cotonou", "isCorrect": false },
+                    { "answerText": "Parakou", "isCorrect": false },
+                    { "answerText": "Djougou", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mauritius?",
+                answerOptions: [
+                    { "answerText": "Curepipe", "isCorrect": false },
+                    { "answerText": "Port Louis", "isCorrect": true },
+                    { "answerText": "Vacoas", "isCorrect": false },
+                    { "answerText": "Quatre Bornes", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Eritrea?",
+                answerOptions: [
+                    { "answerText": "Keren", "isCorrect": false },
+                    { "answerText": "Massawa", "isCorrect": false },
+                    { "answerText": "Asmara", "isCorrect": true },
+                    { "answerText": "Assab", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Guinea?",
+                answerOptions: [
+                    { "answerText": "Nzérékoré", "isCorrect": false },
+                    { "answerText": "Conakry", "isCorrect": true },
+                    { "answerText": "Kankan", "isCorrect": false },
+                    { "answerText": "Kindia", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of the Democratic Republic of the Congo?",
+                answerOptions: [
+                    { "answerText": "Lubumbashi", "isCorrect": false },
+                    { "answerText": "Kinshasa", "isCorrect": true },
+                    { "answerText": "Mbuji-Mayi", "isCorrect": false },
+                    { "answerText": "Kisangani", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Algeria?",
+                answerOptions: [
+                    { "answerText": "Oran", "isCorrect": false },
+                    { "answerText": "Algiers", "isCorrect": true },
+                    { "answerText": "Constantine", "isCorrect": false },
+                    { "answerText": "Annaba", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Libya?",
+                answerOptions: [
+                    { "answerText": "Benghazi", "isCorrect": false },
+                    { "answerText": "Tripoli", "isCorrect": true },
+                    { "answerText": "Misrata", "isCorrect": false },
+                    { "answerText": "Zawiya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Senegal?",
+                answerOptions: [
+                    { "answerText": "Touba", "isCorrect": false },
+                    { "answerText": "Dakar", "isCorrect": true },
+                    { "answerText": "Thiès", "isCorrect": false },
+                    { "answerText": "Kaolack", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Zimbabwe?",
+                answerOptions: [
+                    { "answerText": "Bulawayo", "isCorrect": false },
+                    { "answerText": "Harare", "isCorrect": true },
+                    { "answerText": "Gweru", "isCorrect": false },
+                    { "answerText": "Mutare", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Namibia?",
+                answerOptions: [
+                    { "answerText": "Swakopmund", "isCorrect": false },
+                    { "answerText": "Windhoek", "isCorrect": true },
+                    { "answerText": "Walvis Bay", "isCorrect": false },
+                    { "answerText": "Oshakati", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Zambia?",
+                answerOptions: [
+                    { "answerText": "Ndola", "isCorrect": false },
+                    { "answerText": "Lusaka", "isCorrect": true },
+                    { "answerText": "Kitwe", "isCorrect": false },
+                    { "answerText": "Livingstone", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Madagascar?",
+                answerOptions: [
+                    { "answerText": "Toamasina", "isCorrect": false },
+                    { "answerText": "Antananarivo", "isCorrect": true },
+                    { "answerText": "Fianarantsoa", "isCorrect": false },
+                    { "answerText": "Mahajanga", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Cameroon?",
+                answerOptions: [
+                    { "answerText": "Douala", "isCorrect": false },
+                    { "answerText": "Yaoundé", "isCorrect": true },
+                    { "answerText": "Garoua", "isCorrect": false },
+                    { "answerText": "Bamenda", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Botswana?",
+                answerOptions: [
+                    { "answerText": "Francistown", "isCorrect": false },
+                    { "answerText": "Gaborone", "isCorrect": true },
+                    { "answerText": "Molepolole", "isCorrect": false },
+                    { "answerText": "Maun", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mali?",
+                answerOptions: [
+                    { "answerText": "Timbuktu", "isCorrect": false },
+                    { "answerText": "Bamako", "isCorrect": true },
+                    { "answerText": "Ségou", "isCorrect": false },
+                    { "answerText": "Mopti", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Rwanda?",
+                answerOptions: [
+                    { "answerText": "Butare", "isCorrect": false },
+                    { "answerText": "Kigali", "isCorrect": true },
+                    { "answerText": "Gitarama", "isCorrect": false },
+                    { "answerText": "Ruhengeri", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mozambique?",
+                answerOptions: [
+                    { "answerText": "Nampula", "isCorrect": false },
+                    { "answerText": "Beira", "isCorrect": false },
+                    { "answerText": "Maputo", "isCorrect": true },
+                    { "answerText": "Tete", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Burkina Faso?",
+                answerOptions: [
+                    { "answerText": "Bobo-Dioulasso", "isCorrect": false },
+                    { "answerText": "Ouagadougou", "isCorrect": true },
+                    { "answerText": "Koudougou", "isCorrect": false },
+                    { "answerText": "Ouahigouya", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Chad?",
+                answerOptions: [
+                    { "answerText": "Moundou", "isCorrect": false },
+                    { "answerText": "N'Djamena", "isCorrect": true },
+                    { "answerText": "Sarh", "isCorrect": false },
+                    { "answerText": "Abéché", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Niger?",
+                answerOptions: [
+                    { "answerText": "Zinder", "isCorrect": false },
+                    { "answerText": "Niamey", "isCorrect": true },
+                    { "answerText": "Maradi", "isCorrect": false },
+                    { "answerText": "Agadez", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Benin?",
+                answerOptions: [
+                    { "answerText": "Porto-Novo", "isCorrect": true },
+                    { "answerText": "Cotonou", "isCorrect": false },
+                    { "answerText": "Parakou", "isCorrect": false },
+                    { "answerText": "Djougou", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Mauritius?",
+                answerOptions: [
+                    { "answerText": "Curepipe", "isCorrect": false },
+                    { "answerText": "Port Louis", "isCorrect": true },
+                    { "answerText": "Vacoas", "isCorrect": false },
+                    { "answerText": "Quatre Bornes", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Eritrea?",
+                answerOptions: [
+                    { "answerText": "Keren", "isCorrect": false },
+                    { "answerText": "Massawa", "isCorrect": false },
+                    { "answerText": "Asmara", "isCorrect": true },
+                    { "answerText": "Assab", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of Guinea?",
+                answerOptions: [
+                    { "answerText": "Nzérékoré", "isCorrect": false },
+                    { "answerText": "Conakry", "isCorrect": true },
+                    { "answerText": "Kankan", "isCorrect": false },
+                    { "answerText": "Kindia", "isCorrect": false }
+                ]
+            },
+            {
+                questionText: "What is the capital of the Democratic Republic of the Congo?",
+                answerOptions: [
+                    { "answerText": "Lubumbashi", "isCorrect": false },
+                    { "answerText": "Kinshasa", "isCorrect": true },
+                    { "answerText": "Mbuji-Mayi", "isCorrect": false },
+                    { "answerText": "Kisangani", "isCorrect": false }
                 ]
             }
         ],
