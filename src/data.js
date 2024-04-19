@@ -6625,4 +6625,966 @@ export const categories = [
             }
         ],
     },
+    {
+        id: 12,
+        name: "Movies",
+        questions: [
+            {
+                "questionText": "Which actor is known for his role as Tony Stark in the Marvel Cinematic Universe?",
+                "answerOptions": [
+
+                    { "answerText": "Chris Evans", "isCorrect": false },
+                    { "answerText": "Mark Ruffalo", "isCorrect": false },
+                    { "answerText": "Robert Downey Jr.", "isCorrect": true },
+                    { "answerText": "Tom Hiddleston", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress won an Academy Award for her role in 'La La Land'?",
+                "answerOptions": [
+
+                    { "answerText": "Anne Hathaway", "isCorrect": false },
+                    { "answerText": "Emma Stone", "isCorrect": true },
+                    { "answerText": "Jennifer Lawrence", "isCorrect": false },
+                    { "answerText": "Natalie Portman", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the role of Jack Dawson in 'Titanic'?",
+                "answerOptions": [
+
+                    { "answerText": "Brad Pitt", "isCorrect": false },
+                    { "answerText": "Johnny Depp", "isCorrect": false },
+                    { "answerText": "Leonardo DiCaprio", "isCorrect": true },
+                    { "answerText": "Tom Cruise", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is known for portraying Jason Bourne?",
+                "answerOptions": [
+
+                    { "answerText": "Ben Affleck", "isCorrect": false },
+                    { "answerText": "Jeremy Renner", "isCorrect": false },
+                    { "answerText": "Matt Damon", "isCorrect": true },
+                    { "answerText": "Daniel Craig", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who won an Oscar for playing the lead in 'Monster's Ball'?",
+                "answerOptions": [
+
+                    { "answerText": "Charlize Theron", "isCorrect": false },
+                    { "answerText": "Halle Berry", "isCorrect": true },
+                    { "answerText": "Sandra Bullock", "isCorrect": false },
+                    { "answerText": "Hilary Swank", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress stars as the heroine Katniss Everdeen in the 'Hunger Games' series?",
+                "answerOptions": [
+
+                    { "answerText": "Emma Watson", "isCorrect": false },
+                    { "answerText": "Shailene Woodley", "isCorrect": false },
+                    { "answerText": "Jennifer Lawrence", "isCorrect": true },
+                    { "answerText": "Zoe Saldana", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor played the title role in 'Forrest Gump'?",
+                "answerOptions": [
+
+                    { "answerText": "Bill Murray", "isCorrect": false },
+                    { "answerText": "Kevin Costner", "isCorrect": false },
+                    { "answerText": "Michael Douglas", "isCorrect": false },
+                    { "answerText": "Tom Hanks", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Who portrayed Black Widow in the Marvel Cinematic Universe?",
+                "answerOptions": [
+
+                    { "answerText": "Elizabeth Olsen", "isCorrect": false },
+                    { "answerText": "Brie Larson", "isCorrect": false },
+                    { "answerText": "Scarlett Johansson", "isCorrect": true },
+                    { "answerText": "Zoe Saldana", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor starred in the movie 'The Revenant', which earned him his first Oscar?",
+                "answerOptions": [
+
+                    { "answerText": "Tom Hardy", "isCorrect": false },
+                    { "answerText": "Christian Bale", "isCorrect": false },
+                    { "answerText": "Hugh Jackman", "isCorrect": false },
+                    { "answerText": "Leonardo DiCaprio", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Who played the role of the Joker in the 2008 film 'The Dark Knight'?",
+                "answerOptions": [
+
+                    { "answerText": "Jack Nicholson", "isCorrect": false },
+                    { "answerText": "Heath Ledger", "isCorrect": true },
+                    { "answerText": "Jared Leto", "isCorrect": false },
+                    { "answerText": "Joaquin Phoenix", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie features a love story aboard the ill-fated RMS Titanic?",
+                "answerOptions": [
+
+                    { "answerText": "The Notebook", "isCorrect": false },
+                    { "answerText": "Gone with the Wind", "isCorrect": false },
+                    { "answerText": "Casablanca", "isCorrect": false },
+                    { "answerText": "Titanic", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "What is the name of the fictional African country in 'Black Panther'?",
+                "answerOptions": [
+
+                    { "answerText": "Zamunda", "isCorrect": false },
+                    { "answerText": "Genovia", "isCorrect": false },
+                    { "answerText": "Aldovia", "isCorrect": false },
+                    { "answerText": "Wakanda", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "In which movie does a group of friends find a treasure map that leads them on an underground adventure?",
+                "answerOptions": [
+
+                    { "answerText": "Indiana Jones", "isCorrect": false },
+                    { "answerText": "National Treasure", "isCorrect": false },
+                    { "answerText": "Pirates of the Caribbean", "isCorrect": false },
+                    { "answerText": "The Goonies", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which film features a dystopian future where teens must participate in a deadly game?",
+                "answerOptions": [
+
+                    { "answerText": "Divergent", "isCorrect": false },
+                    { "answerText": "The Maze Runner", "isCorrect": false },
+                    { "answerText": "The Hunger Games", "isCorrect": true },
+                    { "answerText": "Ender's Game", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What 1993 blockbuster involves dinosaurs on an island?",
+                "answerOptions": [
+
+                    { "answerText": "Godzilla", "isCorrect": false },
+                    { "answerText": "Jurassic Park", "isCorrect": true },
+                    { "answerText": "King Kong", "isCorrect": false },
+                    { "answerText": "Jumanji", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie introduced us to the phrase 'May the Force be with you'?",
+                "answerOptions": [
+
+                    { "answerText": "Star Trek", "isCorrect": false },
+                    { "answerText": "Guardians of the Galaxy", "isCorrect": false },
+                    { "answerText": "Avatar", "isCorrect": false },
+                    { "answerText": "Star Wars", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "In what film does a character famously declare, 'I'm king of the world!'?",
+                "answerOptions": [
+
+                    { "answerText": "The Great Gatsby", "isCorrect": false },
+                    { "answerText": "Inception", "isCorrect": false },
+                    { "answerText": "Shutter Island", "isCorrect": false },
+                    { "answerText": "Titanic", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Which movie is centered around a character named Andy Dufresne?",
+                "answerOptions": [
+
+                    { "answerText": "The Green Mile", "isCorrect": false },
+                    { "answerText": "Forrest Gump", "isCorrect": false },
+                    { "answerText": "The Shawshank Redemption", "isCorrect": true },
+                    { "answerText": "Catch Me If You Can", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie features a character with a unique ability to bend and manipulate reality within dreams?",
+                "answerOptions": [
+                    { "answerText": "Inception", "isCorrect": true },
+                    { "answerText": "The Matrix", "isCorrect": false },
+                    { "answerText": "Doctor Strange", "isCorrect": false },
+                    { "answerText": "Interstellar", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What 2001 film features a journey to destroy a powerful ring?",
+                "answerOptions": [
+
+                    { "answerText": "Harry Potter and the Sorcerer's Stone", "isCorrect": false },
+                    { "answerText": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "isCorrect": false },
+                    { "answerText": "The Lord of the Rings: The Fellowship of the Ring", "isCorrect": true },
+                    { "answerText": "Pirates of the Caribbean: The Curse of the Black Pearl", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress is known for her role in 'Pretty Woman'?",
+                "answerOptions": [
+
+                    { "answerText": "Sandra Bullock", "isCorrect": false },
+                    { "answerText": "Cameron Diaz", "isCorrect": false },
+                    { "answerText": "Julia Roberts", "isCorrect": true },
+                    { "answerText": "Nicole Kidman", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played Wolverine in the X-Men film series?",
+                "answerOptions": [
+
+                    { "answerText": "Chris Hemsworth", "isCorrect": false },
+                    { "answerText": "Liam Hemsworth", "isCorrect": false },
+                    { "answerText": "Hugh Jackman", "isCorrect": true },
+                    { "answerText": "Patrick Stewart", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress starred in 'Breakfast at Tiffany's'?",
+                "answerOptions": [
+
+                    { "answerText": "Elizabeth Taylor", "isCorrect": false },
+                    { "answerText": "Marilyn Monroe", "isCorrect": false },
+                    { "answerText": "Grace Kelly", "isCorrect": false },
+                    { "answerText": "Audrey Hepburn", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Who played the lead role in 'Cast Away'?",
+                "answerOptions": [
+
+                    { "answerText": "Matt Damon", "isCorrect": false },
+                    { "answerText": "Tom Hanks", "isCorrect": true },
+                    { "answerText": "Brad Pitt", "isCorrect": false },
+                    { "answerText": "George Clooney", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor starred as Neo in 'The Matrix' series?",
+                "answerOptions": [
+
+                    { "answerText": "Laurence Fishburne", "isCorrect": false },
+                    { "answerText": "Johnny Depp", "isCorrect": false },
+                    { "answerText": "Brad Pitt", "isCorrect": false },
+                    { "answerText": "Keanu Reeves", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Who played the role of Erin Brockovich in the film 'Erin Brockovich'?",
+                "answerOptions": [
+
+                    { "answerText": "Reese Witherspoon", "isCorrect": false },
+                    { "answerText": "Julia Roberts", "isCorrect": true },
+                    { "answerText": "Nicole Kidman", "isCorrect": false },
+                    { "answerText": "Sandra Bullock", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is known for his role in 'Mission: Impossible'?",
+                "answerOptions": [
+
+                    { "answerText": "Jeremy Renner", "isCorrect": false },
+                    { "answerText": "Tom Cruise", "isCorrect": true },
+                    { "answerText": "Simon Pegg", "isCorrect": false },
+                    { "answerText": "Ving Rhames", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the Godfather in the movie 'The Godfather'?",
+                "answerOptions": [
+
+                    { "answerText": "Al Pacino", "isCorrect": false },
+                    { "answerText": "Robert De Niro", "isCorrect": false },
+                    { "answerText": "James Caan", "isCorrect": false },
+                    { "answerText": "Marlon Brando", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Which actress won an Academy Award for her role in 'Sophie's Choice'?",
+                "answerOptions": [
+
+                    { "answerText": "Glenn Close", "isCorrect": false },
+                    { "answerText": "Shirley MacLaine", "isCorrect": false },
+                    { "answerText": "Meryl Streep", "isCorrect": true },
+                    { "answerText": "Sally Field", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who starred as Captain Jack Sparrow in 'Pirates of the Caribbean'?",
+                "answerOptions": [
+
+                    { "answerText": "Orlando Bloom", "isCorrect": false },
+                    { "answerText": "Johnny Depp", "isCorrect": true },
+                    { "answerText": "Keira Knightley", "isCorrect": false },
+                    { "answerText": "Geoffrey Rush", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is known for playing Captain America in the Marvel Cinematic Universe?",
+                "answerOptions": [
+                    { "answerText": "Chris Evans", "isCorrect": true },
+                    { "answerText": "Chris Hemsworth", "isCorrect": false },
+                    { "answerText": "Chris Pratt", "isCorrect": false },
+                    { "answerText": "Robert Downey Jr.", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the lead in 'Mary Poppins'?",
+                "answerOptions": [
+
+                    { "answerText": "Audrey Hepburn", "isCorrect": false },
+                    { "answerText": "Julie Andrews", "isCorrect": true },
+                    { "answerText": "Dame Maggie Smith", "isCorrect": false },
+                    { "answerText": "Vanessa Redgrave", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor won an Oscar for his role in 'Philadelphia'?",
+                "answerOptions": [
+
+                    { "answerText": "Denzel Washington", "isCorrect": false },
+                    { "answerText": "Antonio Banderas", "isCorrect": false },
+                    { "answerText": "Tom Hanks", "isCorrect": true },
+                    { "answerText": "Sean Penn", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who portrayed Sherlock Holmes in the 2009 film and its sequel?",
+                "answerOptions": [
+
+                    { "answerText": "Jude Law", "isCorrect": false },
+                    { "answerText": "Benedict Cumberbatch", "isCorrect": false },
+                    { "answerText": "Ian McKellen", "isCorrect": false },
+                    { "answerText": "Robert Downey Jr.", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which actress played the lead role in 'The Queen'?",
+                "answerOptions": [
+
+                    { "answerText": "Judi Dench", "isCorrect": false },
+                    { "answerText": "Maggie Smith", "isCorrect": false },
+                    { "answerText": "Helen Mirren", "isCorrect": true },
+                    { "answerText": "Emma Thompson", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the title character in the film 'Edward Scissorhands'?",
+                "answerOptions": [
+
+                    { "answerText": "Tim Burton", "isCorrect": false },
+                    { "answerText": "Johnny Depp", "isCorrect": true },
+                    { "answerText": "Michael Keaton", "isCorrect": false },
+                    { "answerText": "Winona Ryder", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor starred in 'Gladiator'?",
+                "answerOptions": [
+                    { "answerText": "Russell Crowe", "isCorrect": true },
+                    { "answerText": "Joaquin Phoenix", "isCorrect": false },
+                    { "answerText": "Tom Hanks", "isCorrect": false },
+                    { "answerText": "Brad Pitt", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the lead in the original 'Scarface' film?",
+                "answerOptions": [
+
+                    { "answerText": "Robert De Niro", "isCorrect": false },
+                    { "answerText": "James Cagney", "isCorrect": false },
+                    { "answerText": "Al Pacino", "isCorrect": true },
+                    { "answerText": "Marlon Brando", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress won an Oscar for her role in 'Silver Linings Playbook'?",
+                "answerOptions": [
+
+                    { "answerText": "Anne Hathaway", "isCorrect": false },
+                    { "answerText": "Natalie Portman", "isCorrect": false },
+                    { "answerText": "Amy Adams", "isCorrect": false },
+                    { "answerText": "Jennifer Lawrence", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Who starred as the main character in 'The Truman Show'?",
+                "answerOptions": [
+
+                    { "answerText": "Adam Sandler", "isCorrect": false },
+                    { "answerText": "Jim Carrey", "isCorrect": true },
+                    { "answerText": "Ben Stiller", "isCorrect": false },
+                    { "answerText": "Will Ferrell", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film features a young wizard named Harry Potter?",
+                "answerOptions": [
+
+                    { "answerText": "The Chronicles of Narnia", "isCorrect": false },
+                    { "answerText": "Percy Jackson & the Olympians", "isCorrect": false },
+                    { "answerText": "Harry Potter and the Sorcerer's Stone", "isCorrect": true },
+                    { "answerText": "The Golden Compass", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie involves dreams within dreams, directed by Christopher Nolan?",
+                "answerOptions": [
+
+                    { "answerText": "Interstellar", "isCorrect": false },
+                    { "answerText": "The Prestige", "isCorrect": false },
+                    { "answerText": "Inception", "isCorrect": true },
+                    { "answerText": "Memento", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie is about a sinking ship and stars Leonardo DiCaprio and Kate Winslet?",
+                "answerOptions": [
+                    { "answerText": "Titanic", "isCorrect": true },
+                    { "answerText": "The Beach", "isCorrect": false },
+
+                    { "answerText": "Catch Me If You Can", "isCorrect": false },
+                    { "answerText": "Revolutionary Road", "isCorrect": false },
+                ]
+            },
+            {
+                "questionText": "Which film depicts the story of a unique chocolate factory owned by Willy Wonka?",
+                "answerOptions": [
+                    { "answerText": "Charlie and the Chocolate Factory", "isCorrect": true },
+
+                    { "answerText": "Big Fish", "isCorrect": false },
+                    { "answerText": "Edward Scissorhands", "isCorrect": false },
+                    { "answerText": "Matilda", "isCorrect": false },
+                ]
+            },
+            {
+                "questionText": "What 1994 film follows the life of an intellectually challenged man, whose only desire is to reunite with his childhood sweetheart?",
+                "answerOptions": [
+
+                    { "answerText": "The Green Mile", "isCorrect": false },
+                    { "answerText": "Big", "isCorrect": false },
+                    { "answerText": "Philadelphia", "isCorrect": false },
+                    { "answerText": "Forrest Gump", "isCorrect": true },
+                ]
+            },
+            {
+                "questionText": "Which movie, directed by James Cameron, explores the deep sea world of Pandora?",
+                "answerOptions": [
+
+                    { "answerText": "The Abyss", "isCorrect": false },
+                    { "answerText": "Avatar", "isCorrect": true },
+                    { "answerText": "Titanic", "isCorrect": false },
+                    { "answerText": "Aliens", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film features an ogre, a donkey, and a princess?",
+                "answerOptions": [
+
+                    { "answerText": "Puss in Boots", "isCorrect": false },
+                    { "answerText": "Shrek", "isCorrect": true },
+                    { "answerText": "Toy Story", "isCorrect": false },
+                    { "answerText": "The Incredibles", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie is about an archaeologist named Indiana Jones searching for a sacred artifact?",
+                "answerOptions": [
+
+                    { "answerText": "The Last Crusade", "isCorrect": false },
+                    { "answerText": "Temple of Doom", "isCorrect": false },
+                    { "answerText": "Raiders of the Lost Ark", "isCorrect": true },
+                    { "answerText": "Kingdom of the Crystal Skull", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What 2000 film, directed by Ridley Scott, features a Roman general who becomes a gladiator to seek revenge?",
+                "answerOptions": [
+
+                    { "answerText": "Spartacus", "isCorrect": false },
+                    { "answerText": "Troy", "isCorrect": false },
+                    { "answerText": "300", "isCorrect": false },
+                    { "answerText": "Gladiator", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which film is about a theme park where dinosaurs are brought back to life through fossil DNA?",
+                "answerOptions": [
+
+                    { "answerText": "Jurassic World", "isCorrect": false },
+                    { "answerText": "The Lost World: Jurassic Park", "isCorrect": false },
+                    { "answerText": "Jurassic Park", "isCorrect": true },
+                    { "answerText": "Jurassic Park III", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie features a giant gorilla that climbs the Empire State Building?",
+                "answerOptions": [
+
+                    { "answerText": "Planet of the Apes", "isCorrect": false },
+                    { "answerText": "Godzilla", "isCorrect": false },
+                    { "answerText": "King Kong", "isCorrect": true },
+                    { "answerText": "Mighty Joe Young", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film tells the story of a fish named Nemo who gets separated from his father?",
+                "answerOptions": [
+                    { "answerText": "Finding Nemo", "isCorrect": true },
+                    { "answerText": "The Little Mermaid", "isCorrect": false },
+                    { "answerText": "Shark Tale", "isCorrect": false },
+                    { "answerText": "SpongeBob SquarePants Movie", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie involves a man who ages in reverse?",
+                "answerOptions": [
+
+                    { "answerText": "About Time", "isCorrect": false },
+                    { "answerText": "Click", "isCorrect": false },
+                    { "answerText": "Big Fish", "isCorrect": false },
+                    { "answerText": "The Curious Case of Benjamin Button", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which film features a legendary Scottish warrior named William Wallace?",
+                "answerOptions": [
+
+                    { "answerText": "Rob Roy", "isCorrect": false },
+                    { "answerText": "Braveheart", "isCorrect": true },
+                    { "answerText": "Highlander", "isCorrect": false },
+                    { "answerText": "Outlaw King", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What 1982 film, directed by Steven Spielberg, features a friendly alien stranded on Earth?",
+                "answerOptions": [
+
+                    { "answerText": "Close Encounters of the Third Kind", "isCorrect": false },
+                    { "answerText": "War of the Worlds", "isCorrect": false },
+                    { "answerText": "Super 8", "isCorrect": false },
+                    { "answerText": "E.T. the Extra-Terrestrial", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which movie is based on a book by J.R.R. Tolkien and features a quest to destroy a powerful ring?",
+                "answerOptions": [
+
+                    { "answerText": "The Hobbit: An Unexpected Journey", "isCorrect": false },
+                    { "answerText": "The Lord of the Rings: The Fellowship of the Ring", "isCorrect": true },
+                    { "answerText": "The Chronicles of Narnia: Prince Caspian", "isCorrect": false },
+                    { "answerText": "The Wizard of Oz", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film follows the story of a young lion prince fleeing his kingdom only to learn the true meaning of responsibility and bravery?",
+                "answerOptions": [
+
+                    { "answerText": "Madagascar", "isCorrect": false },
+                    { "answerText": "Zootopia", "isCorrect": false },
+                    { "answerText": "The Lion King", "isCorrect": true },
+                    { "answerText": "The Jungle Book", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie features a monster with blue fur and purple spots named Sulley?",
+                "answerOptions": [
+
+                    { "answerText": "Monsters University", "isCorrect": false },
+                    { "answerText": "Monsters, Inc.", "isCorrect": true },
+                    { "answerText": "Hotel Transylvania", "isCorrect": false },
+                    { "answerText": "Lilo & Stitch", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie features a world where superheroes are banned from using their powers?",
+                "answerOptions": [
+
+                    { "answerText": "Sky High", "isCorrect": false },
+                    { "answerText": "Spider-Man: Into the Spider-Verse", "isCorrect": false },
+                    { "answerText": "The Incredibles", "isCorrect": true },
+                    { "answerText": "Watchmen", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film features a retired balloon salesman who attaches balloons to his house to fly to South America?",
+                "answerOptions": [
+
+                    { "answerText": "Cloudy with a Chance of Meatballs", "isCorrect": false },
+                    { "answerText": "The Adventures of Tintin", "isCorrect": false },
+                    { "answerText": "Finding Dory", "isCorrect": false },
+                    { "answerText": "Up", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which actress played Rachel Green on the television show 'Friends'?",
+                "answerOptions": [
+                    { "answerText": "Courteney Cox", "isCorrect": false },
+                    { "answerText": "Jennifer Aniston", "isCorrect": true },
+                    { "answerText": "Lisa Kudrow", "isCorrect": false },
+                    { "answerText": "Reese Witherspoon", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the character Loki in the Marvel Cinematic Universe?",
+                "answerOptions": [
+                    { "answerText": "Chris Hemsworth", "isCorrect": false },
+                    { "answerText": "Tom Hiddleston", "isCorrect": true },
+                    { "answerText": "Benedict Cumberbatch", "isCorrect": false },
+                    { "answerText": "Paul Bettany", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor portrayed the character 'Dirty Harry'?",
+                "answerOptions": [
+                    { "answerText": "Clint Eastwood", "isCorrect": true },
+                    { "answerText": "Charles Bronson", "isCorrect": false },
+                    { "answerText": "John Wayne", "isCorrect": false },
+                    { "answerText": "Steve McQueen", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the lead role in the film 'The Devil Wears Prada'?",
+                "answerOptions": [
+                    { "answerText": "Anne Hathaway", "isCorrect": true },
+                    { "answerText": "Meryl Streep", "isCorrect": false },
+                    { "answerText": "Emily Blunt", "isCorrect": false },
+                    { "answerText": "Kate Hudson", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is known for his role as Han Solo in 'Star Wars'?",
+                "answerOptions": [
+                    { "answerText": "Mark Hamill", "isCorrect": false },
+                    { "answerText": "Harrison Ford", "isCorrect": true },
+                    { "answerText": "Carrie Fisher", "isCorrect": false },
+                    { "answerText": "Billy Dee Williams", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who portrayed the iconic British secret agent James Bond in 'Casino Royale' (2006)?",
+                "answerOptions": [
+                    { "answerText": "Sean Connery", "isCorrect": false },
+                    { "answerText": "Roger Moore", "isCorrect": false },
+                    { "answerText": "Pierce Brosnan", "isCorrect": false },
+                    { "answerText": "Daniel Craig", "isCorrect": true }
+                ]
+            },
+            {
+                "questionText": "Which actress is known for her role as Clarice Starling in the movie 'The Silence of the Lambs'?",
+                "answerOptions": [
+                    { "answerText": "Jodie Foster", "isCorrect": true },
+                    { "answerText": "Michelle Pfeiffer", "isCorrect": false },
+                    { "answerText": "Julianne Moore", "isCorrect": false },
+                    { "answerText": "Sigourney Weaver", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who starred as the main character in 'The Bourne Identity'?",
+                "answerOptions": [
+                    { "answerText": "Tom Cruise", "isCorrect": false },
+                    { "answerText": "Matt Damon", "isCorrect": true },
+                    { "answerText": "Ben Affleck", "isCorrect": false },
+                    { "answerText": "Brad Pitt", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor played the role of Aragorn in 'The Lord of the Rings' trilogy?",
+                "answerOptions": [
+                    { "answerText": "Viggo Mortensen", "isCorrect": true },
+                    { "answerText": "Orlando Bloom", "isCorrect": false },
+                    { "answerText": "Ian McKellen", "isCorrect": false },
+                    { "answerText": "Sean Bean", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the title role in the romantic comedy 'Legally Blonde'?",
+                "answerOptions": [
+                    { "answerText": "Sarah Michelle Gellar", "isCorrect": false },
+                    { "answerText": "Reese Witherspoon", "isCorrect": true },
+                    { "answerText": "Alicia Silverstone", "isCorrect": false },
+                    { "answerText": "Cameron Diaz", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress portrayed Rose DeWitt Bukater in 'Titanic'?",
+                "answerOptions": [
+                    { "answerText": "Kate Winslet", "isCorrect": true },
+                    { "answerText": "Cate Blanchett", "isCorrect": false },
+                    { "answerText": "Nicole Kidman", "isCorrect": false },
+                    { "answerText": "Julianne Moore", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the role of Gandalf in 'The Lord of the Rings' and 'The Hobbit' series?",
+                "answerOptions": [
+                    { "answerText": "Ian Holm", "isCorrect": false },
+                    { "answerText": "Christopher Lee", "isCorrect": false },
+                    { "answerText": "Ian McKellen", "isCorrect": true },
+                    { "answerText": "Michael Gambon", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is famous for playing the title role in the 'Indiana Jones' movies?",
+                "answerOptions": [
+                    { "answerText": "Tom Selleck", "isCorrect": false },
+                    { "answerText": "Harrison Ford", "isCorrect": true },
+                    { "answerText": "Bruce Willis", "isCorrect": false },
+                    { "answerText": "Mel Gibson", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who portrayed the character of Molly Brown in 'Titanic'?",
+                "answerOptions": [
+                    { "answerText": "Kathy Bates", "isCorrect": true },
+                    { "answerText": "Frances Fisher", "isCorrect": false },
+                    { "answerText": "Gloria Stuart", "isCorrect": false },
+                    { "answerText": "Kate Winslet", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress starred in the psychological thriller 'Black Swan'?",
+                "answerOptions": [
+                    { "answerText": "Mila Kunis", "isCorrect": false },
+                    { "answerText": "Natalie Portman", "isCorrect": true },
+                    { "answerText": "Scarlett Johansson", "isCorrect": false },
+                    { "answerText": "Keira Knightley", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the role of Morpheus in 'The Matrix'?",
+                "answerOptions": [
+                    { "answerText": "Keanu Reeves", "isCorrect": false },
+                    { "answerText": "Laurence Fishburne", "isCorrect": true },
+                    { "answerText": "Hugo Weaving", "isCorrect": false },
+                    { "answerText": "Joe Pantoliano", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actor is known for his portrayal of Dr. Ian Malcolm in 'Jurassic Park'?",
+                "answerOptions": [
+                    { "answerText": "Sam Neill", "isCorrect": false },
+                    { "answerText": "Jeff Goldblum", "isCorrect": true },
+                    { "answerText": "Richard Attenborough", "isCorrect": false },
+                    { "answerText": "Bob Peck", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who starred as Elle Woods in 'Legally Blonde 2'?",
+                "answerOptions": [
+                    { "answerText": "Reese Witherspoon", "isCorrect": true },
+                    { "answerText": "Julia Roberts", "isCorrect": false },
+                    { "answerText": "Sarah Jessica Parker", "isCorrect": false },
+                    { "answerText": "Nicole Kidman", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which actress won an Academy Award for her role in 'Black Swan'?",
+                "answerOptions": [
+                    { "answerText": "Mila Kunis", "isCorrect": false },
+                    { "answerText": "Natalie Portman", "isCorrect": true },
+                    { "answerText": "Winona Ryder", "isCorrect": false },
+                    { "answerText": "Julia Roberts", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Who played the character Bruce Wayne in 'Batman Begins'?",
+                "answerOptions": [
+                    { "answerText": "Christian Bale", "isCorrect": true },
+                    { "answerText": "Michael Keaton", "isCorrect": false },
+                    { "answerText": "Val Kilmer", "isCorrect": false },
+                    { "answerText": "George Clooney", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie is set during the Normandy invasion of World War II and features a squad tasked with finding a paratrooper?",
+                "answerOptions": [
+                    { "answerText": "Full Metal Jacket", "isCorrect": false },
+                    { "answerText": "The Thin Red Line", "isCorrect": false },
+                    { "answerText": "Saving Private Ryan", "isCorrect": true },
+                    { "answerText": "Apocalypse Now", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film features a retired jewel thief labeled 'The Cat'?",
+                "answerOptions": [
+                    { "answerText": "To Catch a Thief", "isCorrect": true },
+                    { "answerText": "Ocean's Eleven", "isCorrect": false },
+                    { "answerText": "The Italian Job", "isCorrect": false },
+                    { "answerText": "Catch Me If You Can", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie features a character named Andy who creates an elaborate escape plan from prison?",
+                "answerOptions": [
+                    { "answerText": "Escape from Alcatraz", "isCorrect": false },
+                    { "answerText": "The Shawshank Redemption", "isCorrect": true },
+                    { "answerText": "Prison Break", "isCorrect": false },
+                    { "answerText": "The Great Escape", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What 1999 film is about a computer hacker who learns about the true nature of his reality and his role in the war against its controllers?",
+                "answerOptions": [
+                    { "answerText": "Tron", "isCorrect": false },
+                    { "answerText": "The Matrix", "isCorrect": true },
+                    { "answerText": "Hackers", "isCorrect": false },
+                    { "answerText": "eXistenZ", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie, based on a novel by Stephen King, features a haunted hotel?",
+                "answerOptions": [
+                    { "answerText": "The Mist", "isCorrect": false },
+                    { "answerText": "Carrie", "isCorrect": false },
+                    { "answerText": "The Shining", "isCorrect": true },
+                    { "answerText": "It", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film features a dystopian future and a televised event where children must fight to the death?",
+                "answerOptions": [
+                    { "answerText": "Divergent", "isCorrect": false },
+                    { "answerText": "The Maze Runner", "isCorrect": false },
+                    { "answerText": "The Hunger Games", "isCorrect": true },
+                    { "answerText": "Battle Royale", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie follows a young shepherd named Santiago on a journey to find a hidden treasure located in the Pyramids of Egypt?",
+                "answerOptions": [
+                    { "answerText": "The Alchemist", "isCorrect": true },
+                    { "answerText": "The Mummy", "isCorrect": false },
+                    { "answerText": "Prince of Persia: The Sands of Time", "isCorrect": false },
+                    { "answerText": "Indiana Jones and the Last Crusade", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie features a love story that develops through letters exchanged by the characters over a year?",
+                "answerOptions": [
+                    { "answerText": "The Lake House", "isCorrect": true },
+                    { "answerText": "P.S. I Love You", "isCorrect": false },
+                    { "answerText": "Dear John", "isCorrect": false },
+                    { "answerText": "The Notebook", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film features a giant shark terrorizing a small island community?",
+                "answerOptions": [
+                    { "answerText": "Deep Blue Sea", "isCorrect": false },
+                    { "answerText": "The Meg", "isCorrect": false },
+                    { "answerText": "Jaws", "isCorrect": true },
+                    { "answerText": "Sharknado", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie depicts an alien invasion where the aliens are defeated by a common Earth virus?",
+                "answerOptions": [
+                    { "answerText": "Edge of Tomorrow", "isCorrect": false },
+                    { "answerText": "Independence Day", "isCorrect": true },
+                    { "answerText": "War of the Worlds", "isCorrect": false },
+                    { "answerText": "Signs", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film is about an attorney who can't lie for 24 hours due to his son's birthday wish?",
+                "answerOptions": [
+                    { "answerText": "Big Daddy", "isCorrect": false },
+                    { "answerText": "Liar Liar", "isCorrect": true },
+                    { "answerText": "Yes Man", "isCorrect": false },
+                    { "answerText": "Bruce Almighty", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie features a spaceship called the Nostromo?",
+                "answerOptions": [
+                    { "answerText": "Star Wars", "isCorrect": false },
+                    { "answerText": "Alien", "isCorrect": true },
+                    { "answerText": "Event Horizon", "isCorrect": false },
+                    { "answerText": "The Fifth Element", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film features a society in which emotions and most sensory experiences are outlawed?",
+                "answerOptions": [
+                    { "answerText": "Brave New World", "isCorrect": false },
+                    { "answerText": "Equilibrium", "isCorrect": true },
+                    { "answerText": "The Giver", "isCorrect": false },
+                    { "answerText": "Divergent", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie is about a group of workers at a car plant who band together to win the right to unionize?",
+                "answerOptions": [
+                    { "answerText": "Norma Rae", "isCorrect": false },
+                    { "answerText": "Silkwood", "isCorrect": false },
+                    { "answerText": "Made in Dagenham", "isCorrect": true },
+                    { "answerText": "Harlan County, USA", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie revolves around a secret agent who is trying to stop a nuclear war between the U.S. and Russia?",
+                "answerOptions": [
+                    { "answerText": "The Hunt for Red October", "isCorrect": false },
+                    { "answerText": "Goldfinger", "isCorrect": true },
+                    { "answerText": "From Russia with Love", "isCorrect": false },
+                    { "answerText": "Dr. Strangelove", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film follows the life of a young man from the slums of Mumbai who becomes a contestant on the Indian version of 'Who Wants to Be a Millionaire'?",
+                "answerOptions": [
+                    { "answerText": "Life of Pi", "isCorrect": false },
+                    { "answerText": "Slumdog Millionaire", "isCorrect": true },
+                    { "answerText": "The Best Exotic Marigold Hotel", "isCorrect": false },
+                    { "answerText": "Gandhi", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which movie is about a magical nanny who uses her unique brand of lifestyle to improve the family dynamics of the Banks family?",
+                "answerOptions": [
+                    { "answerText": "Nanny McPhee", "isCorrect": false },
+                    { "answerText": "Mary Poppins", "isCorrect": true },
+                    { "answerText": "The Sound of Music", "isCorrect": false },
+                    { "answerText": "Mrs. Doubtfire", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What film features a man who must repeat the same day over and over again until he gets it right?",
+                "answerOptions": [
+                    { "answerText": "The Time Traveler's Wife", "isCorrect": false },
+                    { "answerText": "About Time", "isCorrect": false },
+                    { "answerText": "Groundhog Day", "isCorrect": true },
+                    { "answerText": "Edge of Tomorrow", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "Which film is about a writer who travels to wine country to find himself?",
+                "answerOptions": [
+                    { "answerText": "A Walk in the Clouds", "isCorrect": false },
+                    { "answerText": "Under the Tuscan Sun", "isCorrect": false },
+                    { "answerText": "Sideways", "isCorrect": true },
+                    { "answerText": "Eat Pray Love", "isCorrect": false }
+                ]
+            },
+            {
+                "questionText": "What movie depicts a journey into a dream within a dream to plant an idea in someone's mind?",
+                "answerOptions": [
+                    { "answerText": "Total Recall", "isCorrect": false },
+                    { "answerText": "Inception", "isCorrect": true },
+                    { "answerText": "The Cell", "isCorrect": false },
+                    { "answerText": "Paprika", "isCorrect": false }
+                ]
+            }
+        ],
+    },
 ];
