@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import './Quiz.css'; // Ensure you link to the correct CSS file
+import React, { useState, useEffect } from 'react';
+import './Quiz.css';
 
 function Quiz({ questions }) {
     const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -7,6 +7,23 @@ function Quiz({ questions }) {
     const [score, setScore] = useState(0);
     const [selectedAnswer, setSelectedAnswer] = useState(null);
     const [isAnswerRevealed, setIsAnswerRevealed] = useState(false);
+    const [seconds, setSeconds] = useState(15); // Initialize timer to 15 seconds
+
+    useEffect(() => {
+        // If seconds reach 0, stop the timer and play a noise
+        if (seconds === 0) {
+            return;
+        }
+
+        // Set up a timer to countdown
+        const interval = setInterval(() => {
+            setSeconds(seconds - 1);
+        }, 1000);
+
+        // Clear interval on component unmount
+        return () => clearInterval(interval);
+    }, [seconds]);
+
 
 
     const handleAnswerOptionClick = (isCorrect, index) => {
@@ -22,10 +39,11 @@ function Quiz({ questions }) {
                 setCurrentQuestion(currentQuestion + 1);
                 setSelectedAnswer(null);
                 setIsAnswerRevealed(false);
+                setSeconds(15); // Reset the timer for the next question
             } else {
                 setShowScore(true);
             }
-        }, 3000); // 2 seconds to view the result
+        }, 3000);
     };
 
     function getButtonClass(index, isCorrect, selectedAnswer, isAnswerRevealed) {
@@ -39,12 +57,17 @@ function Quiz({ questions }) {
         return '';
     }
 
-
-
     return (
-        <div className="quiz">
-            {showScore ? (
-                <div className="score-section">
+        <div>
+        <div className="timer">
+            <h1>
+                Time: {seconds}s
+            </h1>
+        </div>
+    <div className="quiz">
+
+        {showScore ? (
+            <div className="score-section">
                     You scored {score} out of {questions.length}
                 </div>
             ) : (
@@ -69,6 +92,7 @@ function Quiz({ questions }) {
                     </div>
                 </div>
             )}
+        </div>
         </div>
     );
 }
